@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/delivery-method.css" />
+    <link rel="stylesheet" type="text/css" href="css/sending-currency-pairs.css" />
+    <link rel="stylesheet" type="text/css" href="css/destination.css" />
+    <link rel="stylesheet" type="text/css" href="css/transfer.css" />
+    <link rel="stylesheet" type="text/css" href="css/receiving-currency-pairs.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+  </head>
+  <body style="margin: 0">
+    <input type="hidden" id="anPageName" name="page" value="transfer" />
+    <div class="container-center-horizontal">
+      <div class="transfer screen">
+        <div class="transfer-1">
+          <div class="rectangle-66"></div>
+          <div class="overlap-group-container">
+            <div class="overlap-group">
+              <img class="mask-group" src="" />
+              <div class="you-send circularstd-book-normal-gravel-12px">You send</div>
+              <div class="text circularstd-book-normal-black-18px">50,000</div>
+              <img class="line-9" src="" />
+              <img class="vector" src="" />
+            </div>
+            <div class="overlap-group-1">
+              <a href="javascript:ShowOverlay('sending-currency-pairs', 'animate-appear');">
+                <div class="gs-shape"></div
+              ></a>
+              <div class="price circularstd-book-normal-black-12px">NGN</div>
+            </div>
+          </div>
+          <div class="overlap-group-2">
+            <div class="overlap-group">
+              <img class="mask-group" src="" />
+              <div class="receive circularstd-book-normal-gravel-12px">Receive</div>
+              <div class="text circularstd-book-normal-black-18px">114.24</div>
+              <img class="line-9-1" src="" />
+              <img class="vector-1" src="" />
+            </div>
+            <div class="overlap-group-1">
+              <a href="javascript:ShowOverlay('receiving-currency-pairs', 'animate-appear');">
+                <div class="gs-shape"></div
+              ></a>
+              <div class="price circularstd-book-normal-black-12px">USD</div>
+            </div>
+          </div>
+          <div class="flex-row">
+            <div class="flex-col circularstd-medium-black-12px">
+              <div class="price-1">$415.77</div>
+              <div class="price-2">$6.01</div>
+              <div class="price-3">$30.91</div>
+              <p class="in-less-than-24-hours">in less than 24 hours</p>
+            </div>
+            <div class="flex-col-1 circularstd-book-normal-dove-gray-12px">
+              <div class="our-current-rate">Our current rate</div>
+              <div class="fees">Fees</div>
+              <div class="you-saved">You saved</div>
+              <div class="estimated-arrival">Estimated arrival</div>
+            </div>
+          </div>
+          <div class="overlap-group-2">
+            <div class="flex-col-2">
+              <div class="overlap-group-3">
+                <img class="mask-group" src="" />
+                <img class="vector-2" src="" />
+                <div class="destination circularstd-book-normal-gravel-12px">Destination</div>
+              </div>
+              <div class="cyprus-north circularstd-book-normal-black-12px">Cyprus (North)</div>
+            </div>
+            <a href="javascript:ShowOverlay('destination', 'animate-appear');"> <div class="gs-shape-1"></div></a>
+          </div>
+          <div class="overlap-group-2">
+            <img class="vector-3" src="" />
+            <div class="flex-col-3">
+              <div class="delivery-method circularstd-book-normal-gravel-12px">Delivery method</div>
+              <div class="flex-row-1">
+                <div class="group-211"><img class="vuesaxoutlinebank" src="" /></div>
+                <div class="bank-transfer circularstd-book-normal-black-12px">Bank transfer</div>
+              </div>
+            </div>
+            <a href="javascript:ShowOverlay('delivery-method', 'animate-appear');"> <div class="gs-shape-2"></div></a>
+          </div>
+          <a href="transact-1.html">
+            <div class="submit-button">
+              <div class="title valign-text-middle circularstd-medium-white-14px">Get started</div>
+            </div></a
+          >
+        </div>
+      </div>
+    </div>
+    <div id="overlay-receiving-currency-pairs" class="overlay" style="min-height: 772px">
+      <div class="container-center-horizontal">
+        <div class="receiving-currency-pairs screen">
+          <div class="receiving-currency-pairs-1 circularstd-book-normal-black-10px">
+            <div class="flex-row">
+              <div class="mask-group-container">
+                <img class="mask-group" src="" />
+                <img class="mask-group" src="" />
+                <img class="mask-group" src="" />
+              </div>
+              <div class="price-1">USD</div>
+            </div>
+            <div class="rectangle-1"></div>
+            <div class="price">GBP</div>
+            <div class="rectangle"></div>
+            <div class="price">EUR</div>
+            <div class="rectangle"></div>
+            <div class="price">TRY</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      var overlay_id = "overlay-receiving-currency-pairs";
+      document.getElementById(overlay_id).addEventListener(
+        "click",
+        function (event) {
+          var overlay_id = "overlay-receiving-currency-pairs";
+          var e = event || window.event;
+          var overlayElement = document.getElementById(overlay_id);
+          var overlayContainer = overlayElement.getElementsByClassName("receiving-currency-pairs");
+          var clickedDiv = e.toElement || e.target;
+          var dismissButton = clickedDiv.parentElement.id == overlay_id;
+          var clickOutsideOverlay = false;
+          if (overlayContainer.length > 0) {
+            clickOutsideOverlay = !overlayContainer[0].contains(clickedDiv) || overlayContainer[0] == clickedDiv;
+          }
+          if (dismissButton || clickOutsideOverlay) {
+            HideOverlay("receiving-currency-pairs", "animate-disappear");
+          }
+        },
+        false
+      );
+    </script>
+    <div id="overlay-sending-currency-pairs" class="overlay" style="min-height: 772px">
+      <div class="container-center-horizontal">
+        <div class="sending-currency-pairs screen">
+          <div class="sending-currency-pairs-1 circularstd-book-normal-black-10px">
+            <div class="flex-row">
+              <div class="mask-group-container">
+                <img class="mask-group" src="" />
+                <img class="mask-group" src="" />
+                <img class="mask-group" src="" />
+              </div>
+              <div class="price-1">NGN</div>
+            </div>
+            <div class="rectangle-1"></div>
+            <div class="price">GHS</div>
+            <div class="rectangle"></div>
+            <div class="price">ZAR</div>
+            <div class="rectangle"></div>
+            <div class="price">BWP</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      var overlay_id = "overlay-sending-currency-pairs";
+      document.getElementById(overlay_id).addEventListener(
+        "click",
+        function (event) {
+          var overlay_id = "overlay-sending-currency-pairs";
+          var e = event || window.event;
+          var overlayElement = document.getElementById(overlay_id);
+          var overlayContainer = overlayElement.getElementsByClassName("sending-currency-pairs");
+          var clickedDiv = e.toElement || e.target;
+          var dismissButton = clickedDiv.parentElement.id == overlay_id;
+          var clickOutsideOverlay = false;
+          if (overlayContainer.length > 0) {
+            clickOutsideOverlay = !overlayContainer[0].contains(clickedDiv) || overlayContainer[0] == clickedDiv;
+          }
+          if (dismissButton || clickOutsideOverlay) {
+            HideOverlay("sending-currency-pairs", "animate-disappear");
+          }
+        },
+        false
+      );
+    </script>
+    <div id="overlay-destination" class="overlay" style="min-height: 772px">
+      <div class="container-center-horizontal">
+        <div class="destination screen">
+          <div class="destination-1 circularstd-book-normal-black-10px">
+            <div class="flex-row">
+              <div class="mask-group-container">
+                <img class="mask-group" src="" />
+                <img class="mask-group" src="" />
+                <img class="mask-group" src="" />
+              </div>
+              <div class="cyprus-north">Cyprus (North)</div>
+            </div>
+            <div class="rectangle-1"></div>
+            <div class="place">Nigeria</div>
+            <div class="rectangle"></div>
+            <div class="place">Turkey</div>
+            <div class="rectangle"></div>
+            <div class="place-1">United Kingdom</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      var overlay_id = "overlay-destination";
+      document.getElementById(overlay_id).addEventListener(
+        "click",
+        function (event) {
+          var overlay_id = "overlay-destination";
+          var e = event || window.event;
+          var overlayElement = document.getElementById(overlay_id);
+          var overlayContainer = overlayElement.getElementsByClassName("destination");
+          var clickedDiv = e.toElement || e.target;
+          var dismissButton = clickedDiv.parentElement.id == overlay_id;
+          var clickOutsideOverlay = false;
+          if (overlayContainer.length > 0) {
+            clickOutsideOverlay = !overlayContainer[0].contains(clickedDiv) || overlayContainer[0] == clickedDiv;
+          }
+          if (dismissButton || clickOutsideOverlay) {
+            HideOverlay("destination", "animate-disappear");
+          }
+        },
+        false
+      );
+    </script>
+    <div id="overlay-delivery-method" class="overlay" style="min-height: 772px">
+      <div class="container-center-horizontal">
+        <div class="delivery-method screen">
+          <div class="overlap-group1">
+            <div class="flex-row">
+              <div class="group"><img class="vuesaxoutlinebank" src="" /></div>
+              <div class="bank-transfer circularstd-book-normal-black-10px">Bank transfer</div>
+            </div>
+            <div class="rectangle"></div>
+            <div class="flex-row-1">
+              <div class="group">
+                <div class="overlap-group"><img class="vector" src="" /></div>
+              </div>
+              <div class="physical-delivery circularstd-book-normal-black-10px">Physical delivery</div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      var overlay_id = "overlay-delivery-method";
+      document.getElementById(overlay_id).addEventListener(
+        "click",
+        function (event) {
+          var overlay_id = "overlay-delivery-method";
+          var e = event || window.event;
+          var overlayElement = document.getElementById(overlay_id);
+          var overlayContainer = overlayElement.getElementsByClassName("delivery-method");
+          var clickedDiv = e.toElement || e.target;
+          var dismissButton = clickedDiv.parentElement.id == overlay_id;
+          var clickOutsideOverlay = false;
+          if (overlayContainer.length > 0) {
+            clickOutsideOverlay = !overlayContainer[0].contains(clickedDiv) || overlayContainer[0] == clickedDiv;
+          }
+          if (dismissButton || clickOutsideOverlay) {
+            HideOverlay("delivery-method", "animate-disappear");
+          }
+        },
+        false
+      );
+    </script>
+    <script>
+      ShowOverlay = function (overlayName, animationName) {
+        overlayName = "overlay-" + overlayName;
+        var cssClasses = document.getElementById(overlayName).className.split(" ");
+        var last = cssClasses.slice(-1)[0];
+        if (last.lastIndexOf("animate") == -1) {
+          document.getElementById(overlayName).className =
+            document.getElementById(overlayName).className + " " + animationName;
+        }
+        if (window.loadAsyncSrc != undefined) {
+          loadAsyncSrc();
+        }
+      };
+      HideOverlay = function (overlayName, animationName) {
+        overlayName = "overlay-" + overlayName;
+        var cssClasses = document.getElementById(overlayName).className.split(" ");
+        var last = cssClasses.slice(-1)[0];
+        if (last.lastIndexOf("animate") != -1) {
+          cssClasses.splice(-1);
+          cssClasses.push(animationName);
+          document.getElementById(overlayName).className = cssClasses.join(" ");
+
+          cssClasses.splice(-1);
+          setTimeout(function () {
+            document.getElementById(overlayName).className = cssClasses.join(" ");
+          }, 1100);
+        }
+        var vids = document.getElementsByTagName("video");
+        if (vids) {
+          for (var i = 0; i < vids.length; i++) {
+            var video = vids.item(i);
+            video.pause();
+          }
+        }
+      };
+    </script>
+  </body>
+</html>

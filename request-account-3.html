@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/country-of-issue.css" />
+    <link rel="stylesheet" type="text/css" href="css/request-account-3.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+  </head>
+  <body style="margin: 0; background: #f3f4f6">
+    <input type="hidden" id="anPageName" name="page" value="request-account-3" />
+    <div class="container-center-horizontal">
+      <div class="request-account-3 screen">
+        <div class="group-230">
+          <div class="overlap-group6">
+            <div class="rectangle-59"></div>
+            <img class="glassy-card" src="img/glassy-card-24@2x.svg" />
+          </div>
+        </div>
+        <div class="group-309">
+          <div class="overlap-group7">
+            <div class="group-238"><img class="vuesaxlinearprofile" src="img/vuesax-linear-profile-14@2x.svg" /></div>
+            <a href="profile-verifying.html"> <div class="rectangle border-1px-cloud"></div></a>
+            <div class="name circularstd-book-normal-black-12px">Emmanuel</div>
+          </div>
+        </div>
+        <div class="flex-row">
+          <a href="request-account-2.html"
+            ><img class="vuesaxlineararrow-left" src="img/vuesax-linear-arrow-left-4@2x.svg" /> </a
+          ><a href="orders-empty.html#account-empty"><img class="close-square" src="img/close-square-2@2x.svg" /> </a>
+        </div>
+        <div class="request-account circularstd-bold-black-24px">Request account</div>
+        <div class="group-254">
+          <div class="country-of-residence circularstd-medium-nevada-12px">Country of residence</div>
+          <div class="overlap-group-1">
+            <input
+              class="nigeria circularstd-medium-silver-12px"
+              name="nigeria"
+              placeholder="₦abbey"
+              type="text"
+              required
+            />
+            <div class="vector-container">
+              <a href="javascript:ShowOverlay('country-of-issue', 'animate-appear');"
+                ><img class="vector" src="img/vector-58@2x.svg" /> </a
+              ><img class="vector-1" src="img/vector-59@2x.svg" />
+            </div>
+          </div>
+        </div>
+        <div class="state circularstd-medium-nevada-12px">State</div>
+        <div class="short-text">
+          <div class="overlap-group">
+            <input class="input circularstd-medium-silver-12px" name="input" placeholder="Enter state" type="text" />
+          </div>
+        </div>
+        <div class="city circularstd-medium-nevada-12px">City</div>
+        <div class="short-text-1">
+          <div class="overlap-group">
+            <input class="input circularstd-medium-silver-12px" name="input" placeholder="Enter city" type="text" />
+          </div>
+        </div>
+        <div class="place circularstd-medium-nevada-12px">Street</div>
+        <div class="short-text-2">
+          <div class="overlap-group">
+            <input class="input circularstd-medium-silver-12px" name="input" placeholder="Enter street" type="text" />
+          </div>
+        </div>
+        <div class="zip-code circularstd-medium-nevada-12px">Zip code</div>
+        <div class="number">
+          <div class="overlap-group2">
+            <input
+              class="input-1 circularstd-medium-silver-12px"
+              name="input"
+              placeholder="Enter zip code"
+              type="number"
+            />
+          </div>
+        </div>
+        <a href="request-account-4.html">
+          <div class="submit-button">
+            <div class="title valign-text-middle circularstd-medium-white-14px">Confirm</div>
+          </div></a
+        >
+      </div>
+    </div>
+    <div id="overlay-country-of-issue" class="overlay" style="min-height: 770px">
+      <div class="container-center-horizontal">
+        <div class="country-of-issue screen">
+          <div class="country-of-issue-1 circularstd-book-normal-black-10px">
+            <div class="overlap-group">
+              <img class="overlap-group-item" src="" />
+              <img class="overlap-group-item" src="" />
+              <img class="overlap-group-item" src="" />
+            </div>
+            <div class="place">Nigeria</div>
+            <div class="rectangle-1"></div>
+            <div class="place">Ghana</div>
+            <div class="rectangle"></div>
+            <div class="place">South Africa</div>
+            <div class="rectangle"></div>
+            <div class="place">Botswana</div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      var overlay_id = "overlay-country-of-issue";
+      document.getElementById(overlay_id).addEventListener(
+        "click",
+        function (event) {
+          var overlay_id = "overlay-country-of-issue";
+          var e = event || window.event;
+          var overlayElement = document.getElementById(overlay_id);
+          var overlayContainer = overlayElement.getElementsByClassName("country-of-issue");
+          var clickedDiv = e.toElement || e.target;
+          var dismissButton = clickedDiv.parentElement.id == overlay_id;
+          var clickOutsideOverlay = false;
+          if (overlayContainer.length > 0) {
+            clickOutsideOverlay = !overlayContainer[0].contains(clickedDiv) || overlayContainer[0] == clickedDiv;
+          }
+          if (dismissButton || clickOutsideOverlay) {
+            HideOverlay("country-of-issue", "animate-disappear");
+          }
+        },
+        false
+      );
+    </script>
+    <script>
+      ShowOverlay = function (overlayName, animationName) {
+        overlayName = "overlay-" + overlayName;
+        var cssClasses = document.getElementById(overlayName).className.split(" ");
+        var last = cssClasses.slice(-1)[0];
+        if (last.lastIndexOf("animate") == -1) {
+          document.getElementById(overlayName).className =
+            document.getElementById(overlayName).className + " " + animationName;
+        }
+        if (window.loadAsyncSrc != undefined) {
+          loadAsyncSrc();
+        }
+      };
+      HideOverlay = function (overlayName, animationName) {
+        overlayName = "overlay-" + overlayName;
+        var cssClasses = document.getElementById(overlayName).className.split(" ");
+        var last = cssClasses.slice(-1)[0];
+        if (last.lastIndexOf("animate") != -1) {
+          cssClasses.splice(-1);
+          cssClasses.push(animationName);
+          document.getElementById(overlayName).className = cssClasses.join(" ");
+
+          cssClasses.splice(-1);
+          setTimeout(function () {
+            document.getElementById(overlayName).className = cssClasses.join(" ");
+          }, 1100);
+        }
+        var vids = document.getElementsByTagName("video");
+        if (vids) {
+          for (var i = 0; i < vids.length; i++) {
+            var video = vids.item(i);
+            video.pause();
+          }
+        }
+      };
+    </script>
+  </body>
+</html>

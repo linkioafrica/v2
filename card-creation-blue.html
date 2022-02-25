@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <link rel="stylesheet" type="text/css" href="css/card-password.css" />
+    <link rel="stylesheet" type="text/css" href="css/nav-bar-cards.css" />
+    <link rel="stylesheet" type="text/css" href="css/card-creation-blue.css" />
+    <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
+    <link rel="stylesheet" type="text/css" href="css/globals.css" />
+  </head>
+  <body style="margin: 0; background: #f3f4f6">
+    <input type="hidden" id="anPageName" name="page" value="card-creation-blue" />
+    <div class="container-center-horizontal">
+      <div class="card-creation-blue screen">
+        <div class="group-230">
+          <div class="group-174"></div>
+        </div>
+        <a href="javascript:ShowOverlay('nav-bar-cards', 'animate-appear');"
+          ><img class="group-198" src="img/group-198@1x.png" />
+        </a>
+        <div class="group-307">
+          <div class="overlap-group5">
+            <div class="group-238"><img class="vuesaxlinearprofile" src="img/vuesax-linear-profile@2x.svg" /></div>
+            <div class="rectangle border-1px-cloud"></div>
+            <a href="profile-verified.html"><div class="name circularstd-book-normal-black-12px">Emmanuel</div> </a>
+          </div>
+        </div>
+        <a href="cards.html">
+          <div class="group-246">
+            <img class="vuesaxlineararrow-left" src="img/vuesax-linear-arrow-left-2@2x.svg" />
+            <div class="go-back circularstd-book-normal-navy-blue-12px">Go back</div>
+          </div></a
+        >
+        <div class="create-card circularstd-bold-black-24px">Create card</div>
+        <div class="overlap-group6">
+          <div class="group-236"><img class="mask-group" src="img/mask-group-41@2x.svg" /></div>
+          <div class="price circularstd-medium-white-36px">$468.60</div>
+          <div class="available-balance circularstd-book-normal-white-12px">Available balance</div>
+        </div>
+        <div class="group-252">
+          <div class="name-on-card circularstd-book-normal-nevada-12px">Name on card</div>
+          <div class="overlap-group">
+            <img class="vector" src="img/vector-97@2x.svg" />
+            <input
+              class="emmanuel-evarist circularstd-book-normal-black-18px"
+              name="emmanuelevarist"
+              placeholder="₦abbey"
+              type="text"
+              required
+            />
+          </div>
+        </div>
+        <div class="group-269">
+          <div class="flex-col">
+            <div class="place circularstd-book-normal-nevada-12px">PIN</div>
+            <div class="overlap-group1">
+              <input class="x" name="* * * *" placeholder="₦abbey" type="text" required />
+            </div>
+          </div>
+          <div class="overlap-group2">
+            <img class="vector-1" src="img/vector-58@2x.svg" />
+            <img class="vector-2" src="img/vector-59@2x.svg" />
+            <a href="javascript:ShowOverlay('card-password', 'animate-appear');">
+              <div class="group-249"><img class="vuesaxlinearcard-edit" src="img/vuesax-linear-card-edit@2x.svg" /></div
+            ></a>
+          </div>
+        </div>
+        <div class="submit-button">
+          <div class="overlap-group3">
+            <div class="title valign-text-middle circularstd-medium-white-12px">Delete card</div>
+            <img class="vuesaxlineartrash" src="img/vuesax-linear-trash-4@2x.svg" />
+          </div>
+        </div>
+        <div class="group-449">
+          <div class="overlap-group4">
+            <a href="cards.html">
+              <div class="submit-button-1">
+                <div class="title-1 valign-text-middle circularstd-medium-white-12px">Save card</div>
+              </div></a
+            ><img class="vuesaxlineartick-square" src="img/vuesax-linear-tick-square-1@2x.svg" />
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="overlay-card-password" class="overlay" style="min-height: 910px">
+      <div class="container-center-horizontal">
+        <div class="card-password screen">
+          <div class="card-password-1">
+            <a href="javascript:HideOverlay('card-password', 'animate-disappear');"
+              ><img class="vuesaxlineararrow-left" src="" />
+            </a>
+            <div class="enter-password circularstd-medium-nevada-12px">Enter password</div>
+            <div class="password">
+              <input
+                class="input circularstd-medium-silver-12px"
+                name="input"
+                placeholder="Enter password"
+                type="password"
+              />
+            </div>
+            <a href="javascript:HideOverlay('card-password', 'animate-disappear');" class="align-self-flex-center">
+              <div class="submit-button">
+                <div class="title valign-text-middle circularstd-medium-white-14px">Continue</div>
+              </div></a
+            >
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      var overlay_id = "overlay-card-password";
+      document.getElementById(overlay_id).addEventListener(
+        "click",
+        function (event) {
+          var overlay_id = "overlay-card-password";
+          var e = event || window.event;
+          var overlayElement = document.getElementById(overlay_id);
+          var overlayContainer = overlayElement.getElementsByClassName("card-password");
+          var clickedDiv = e.toElement || e.target;
+          var dismissButton = clickedDiv.parentElement.id == overlay_id;
+          var clickOutsideOverlay = false;
+          if (overlayContainer.length > 0) {
+            clickOutsideOverlay = !overlayContainer[0].contains(clickedDiv) || overlayContainer[0] == clickedDiv;
+          }
+          if (dismissButton || clickOutsideOverlay) {
+            HideOverlay("card-password", "animate-disappear");
+          }
+        },
+        false
+      );
+    </script>
+    <div id="overlay-nav-bar-cards" class="overlay" style="min-height: 910px">
+      <div class="container-center-horizontal">
+        <div class="nav-bar-cards screen">
+          <div class="overlap-group2">
+            <img class="link-logo" src="" />
+            <img class="vuesaxlinearstatus-up" src="" />
+            <img class="vuesaxlinearuser-square" src="" />
+            <img class="vuesaxlinearexport" src="" />
+            <img class="vuesaxlinearcard" src="" />
+            <img class="vuesaxlinearhome" src="" />
+          </div>
+          <div class="overlap-group-1">
+            <a href="javascript:ShowOverlay('african-currency-pairs', 'animate-appear');">
+              <div class="rectangle border-1px-cloud"></div></a
+            ><img class="f116f8ceda257a2c55b4af1d58ee8b70-4" src="" />
+            <div class="price circularstd-book-normal-suva-gray-12px">NGN</div>
+            <img class="frame" src="" />
+          </div>
+          <div class="overlap-group3">
+            <a href="orders.html#accounts"> <div class="rectangle-13"></div></a>
+            <div class="place circularstd-book-normal-black-14px">Home</div>
+          </div>
+          <div class="overlap-group1">
+            <a href="cards.html"> <div class="rectangle-13"></div></a>
+            <div class="cards circularstd-book-normal-navy-blue-14px">Cards</div>
+          </div>
+          <div class="overlap-group4">
+            <a href="javascript:ShowOverlay('transfer', 'animate-appear');"> <div class="rectangle-13"></div></a>
+            <div class="place-1 circularstd-book-normal-black-14px">Transfer</div>
+          </div>
+          <div class="overlap-group">
+            <a href="recipients.html"> <div class="rectangle-13"></div></a>
+            <div class="recipients circularstd-book-normal-black-14px">Recipients</div>
+          </div>
+          <div class="overlap-group">
+            <a href="recipients.html"> <div class="rectangle-13"></div></a
+            ><a href="compare-rates-eur.html#compare-rates-usd"
+              ><div class="compare-rates circularstd-book-normal-black-14px">Compare rates</div>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script>
+      var overlay_id = "overlay-nav-bar-cards";
+      document.getElementById(overlay_id).addEventListener(
+        "click",
+        function (event) {
+          var overlay_id = "overlay-nav-bar-cards";
+          var e = event || window.event;
+          var overlayElement = document.getElementById(overlay_id);
+          var overlayContainer = overlayElement.getElementsByClassName("nav-bar-cards");
+          var clickedDiv = e.toElement || e.target;
+          var dismissButton = clickedDiv.parentElement.id == overlay_id;
+          var clickOutsideOverlay = false;
+          if (overlayContainer.length > 0) {
+            clickOutsideOverlay = !overlayContainer[0].contains(clickedDiv) || overlayContainer[0] == clickedDiv;
+          }
+          if (dismissButton || clickOutsideOverlay) {
+            HideOverlay("nav-bar-cards", "animate-disappear");
+          }
+        },
+        false
+      );
+    </script>
+    <script>
+      ShowOverlay = function (overlayName, animationName) {
+        overlayName = "overlay-" + overlayName;
+        var cssClasses = document.getElementById(overlayName).className.split(" ");
+        var last = cssClasses.slice(-1)[0];
+        if (last.lastIndexOf("animate") == -1) {
+          document.getElementById(overlayName).className =
+            document.getElementById(overlayName).className + " " + animationName;
+        }
+        if (window.loadAsyncSrc != undefined) {
+          loadAsyncSrc();
+        }
+      };
+      HideOverlay = function (overlayName, animationName) {
+        overlayName = "overlay-" + overlayName;
+        var cssClasses = document.getElementById(overlayName).className.split(" ");
+        var last = cssClasses.slice(-1)[0];
+        if (last.lastIndexOf("animate") != -1) {
+          cssClasses.splice(-1);
+          cssClasses.push(animationName);
+          document.getElementById(overlayName).className = cssClasses.join(" ");
+
+          cssClasses.splice(-1);
+          setTimeout(function () {
+            document.getElementById(overlayName).className = cssClasses.join(" ");
+          }, 1100);
+        }
+        var vids = document.getElementsByTagName("video");
+        if (vids) {
+          for (var i = 0; i < vids.length; i++) {
+            var video = vids.item(i);
+            video.pause();
+          }
+        }
+      };
+    </script>
+  </body>
+</html>
