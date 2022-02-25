@@ -1,0 +1,290 @@
+/* screen - profile-verifying */
+
+.profile-verifying {
+  align-items: center;
+  background-color: var(--wild-sand);
+  display: flex;
+  flex-direction: column;
+  height: 772px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.profile-verifying .group-230 {
+  align-items: flex-end;
+  display: flex;
+  height: 168px;
+  left: -22px;
+  min-width: 402px;
+  position: fixed;
+  top: -91px;
+  z-index: 9;
+}
+
+.profile-verifying .overlap-group4 {
+  height: 176px;
+  margin-bottom: -7px;
+  margin-left: -4px;
+  position: relative;
+  width: 406px;
+}
+
+.profile-verifying .rectangle-59 {
+  background-color: var(--white);
+  height: 84px;
+  left: 21px;
+  position: absolute;
+  top: 85px;
+  width: 385px;
+}
+
+.profile-verifying .glassy-card {
+  height: 176px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 406px;
+}
+
+.profile-verifying .group-198 {
+  cursor: pointer;
+  height: 36px;
+  left: 25px;
+  position: fixed;
+  top: 33px;
+  width: 36px;
+  z-index: 10;
+}
+
+.profile-verifying .profile {
+  letter-spacing: 0;
+  margin-top: 114px;
+  min-height: 34px;
+  width: 309px;
+  z-index: 2;
+}
+
+.profile-verifying .update-your-personal-details-here {
+  letter-spacing: 0;
+  margin-left: 2.0px;
+  margin-top: 2px;
+  min-height: 34px;
+  width: 307px;
+  z-index: 1;
+}
+
+.profile-verifying .flex-row {
+  align-items: center;
+  display: flex;
+  margin-right: 44.0px;
+  margin-top: 19px;
+  min-width: 261px;
+  z-index: 4;
+}
+
+.profile-verifying .verification-status {
+  letter-spacing: 0;
+  margin-top: 1.0px;
+  min-height: 17px;
+  width: 166px;
+}
+
+.profile-verifying .overlap-group3 {
+  background-color: var(--quick-silver);
+  border-radius: 20px;
+  height: 22px;
+  position: relative;
+  width: 93px;
+}
+
+.profile-verifying .vuesaxlineartick-square {
+  height: 12px;
+  left: 8px;
+  position: absolute;
+  top: 5px;
+  width: 12px;
+}
+
+.profile-verifying .verifying {
+  left: 16px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  width: 75px;
+}
+
+.profile-verifying .group-305 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 4.0px;
+  margin-top: 21px;
+  min-height: 61px;
+  width: 311px;
+  z-index: 3;
+}
+
+.profile-verifying .first-name {
+  letter-spacing: 0;
+  margin-left: 1px;
+  min-height: 17px;
+  width: 249px;
+}
+
+.profile-verifying .overlap-group-1 {
+  align-items: flex-end;
+  background-image: url(../img/vector-12@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 40px;
+  margin-top: 4px;
+  min-width: 307px;
+  padding: 10px 13px;
+}
+
+.profile-verifying .emmanuel {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  letter-spacing: 0;
+  padding: 0;
+  width: 237px;
+}
+
+.profile-verifying .emmanuel::placeholder {
+  color: #00000099;
+}
+
+.profile-verifying .group-304 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 5.0px;
+  margin-top: 19px;
+  min-height: 61px;
+  width: 310px;
+  z-index: 5;
+}
+
+.profile-verifying .last-name {
+  letter-spacing: 0;
+  min-height: 17px;
+  width: 249px;
+}
+
+.profile-verifying .overlap-group {
+  align-items: flex-end;
+  background-image: url(../img/vector-13@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 40px;
+  margin-top: 4px;
+  min-width: 306px;
+  padding: 10px 12px;
+}
+
+.profile-verifying .evarist {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  letter-spacing: 0;
+  padding: 0;
+  width: 237px;
+}
+
+.profile-verifying .evarist::placeholder {
+  color: #00000099;
+}
+
+.profile-verifying .group-303 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 1.0px;
+  margin-top: 19px;
+  min-height: 61px;
+  width: 306px;
+  z-index: 6;
+}
+
+.profile-verifying .link-tag {
+  letter-spacing: 0;
+  min-height: 17px;
+  width: 249px;
+}
+
+.profile-verifying .emmanuelev {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  letter-spacing: 0;
+  padding: 0;
+  width: 237px;
+}
+
+.profile-verifying .emmanuelev::placeholder {
+  color: #00000099;
+}
+
+.profile-verifying .group-301 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 6.0px;
+  margin-top: 19px;
+  min-height: 61px;
+  width: 311px;
+  z-index: 7;
+}
+
+.profile-verifying .email {
+  letter-spacing: 0;
+  min-height: 17px;
+  width: 249px;
+}
+
+.profile-verifying .overlap-group2 {
+  align-items: flex-end;
+  background-image: url(../img/vector-12@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 40px;
+  margin-top: 4px;
+  min-width: 307px;
+  padding: 10px 12px;
+}
+
+.profile-verifying .emmanuelevgmailcom {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  letter-spacing: 0;
+  padding: 0;
+  width: 237px;
+}
+
+.profile-verifying .emmanuelevgmailcom::placeholder {
+  color: #00000099;
+}
+
+.profile-verifying .submit-button {
+  align-items: center;
+  background-color: var(--chateau-green);
+  border-radius: 3px;
+  display: flex;
+  height: 40px;
+  left: 38px;
+  min-width: 300px;
+  padding: 0 15px;
+  position: fixed;
+  top: 581px;
+  z-index: 8;
+}
+
+.profile-verifying .title {
+  height: 16px;
+  letter-spacing: 0.11px;
+  text-align: center;
+  width: 269px;
+}

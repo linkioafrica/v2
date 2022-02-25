@@ -1,0 +1,2033 @@
+/* screen - compare-rates-usd */
+
+.compare-rates-usd {
+  background-color: #f3f4f6;
+  height: 770px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.compare-rates-usd .rates-when-exchanging-your-naira-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  color: transparent;
+  font-family: 'Circular Std-Regular', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 165px;
+  width: 342px;
+}
+
+.compare-rates-usd .span0-zM2pGx {
+  color: #696f79;
+  font-style: normal;
+}
+
+.compare-rates-usd .span1-zM2pGx {
+  color: #1565d8;
+  font-style: normal;
+}
+
+.compare-rates-usd .compare-rates-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Bold', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 120px;
+  width: 344px;
+}
+
+.compare-rates-usd .vector-79-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/vector-79@2x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 243px;
+  width: 309px;
+}
+
+.compare-rates-usd .vector-80-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/vector-80-3@2x.svg);
+  background-size: 100% 100%;
+  height: 4px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 242px;
+  width: 24px;
+}
+
+.compare-rates-usd .price-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 110px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  width: auto;
+}
+
+.compare-rates-usd .price-VMr6Om {
+  --z-index: 5;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 186px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 218px;
+  width: auto;
+}
+
+.compare-rates-usd .price-mzXdH9 {
+  --z-index: 6;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 265px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 218px;
+  width: auto;
+}
+
+.compare-rates-usd .price-QxM5SU {
+  --z-index: 7;
+  background-color: transparent;
+  color: #1565d8;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  width: auto;
+}
+
+.compare-rates-usd .group-239-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  height: 173px;
+  left: 19px;
+  opacity: 1;
+  position: fixed;
+  top: 276px;
+  width: 347px;
+}
+
+.compare-rates-usd .rectangle-50-N9Wp27 {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  height: 173px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 337px;
+}
+
+.compare-rates-usd .rectangle-52-N9Wp27 {
+  --z-index: 1;
+  background-color: #ffffff;
+  border-radius: 3px;
+  cursor: pointer;
+  height: 63px;
+  left: 8px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 99px;
+  width: 147px;
+}
+
+.compare-rates-usd .expand_down-N9Wp27 {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/expand-down@2x.svg);
+  background-size: 100% 100%;
+  height: 24px;
+  left: 103px;
+  opacity: 1;
+  position: absolute;
+  top: 119px;
+  width: 24px;
+}
+
+.compare-rates-usd .rectangle-51-N9Wp27 {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/rectangle-51@2x.svg);
+  background-size: 100% 100%;
+  height: 87px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  width: 337px;
+}
+
+.compare-rates-usd .link-logo-N9Wp27 {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/link-logo-3@2x.svg);
+  background-size: 100% 100%;
+  height: 20px;
+  left: 14px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 34px;
+  width: 51px;
+}
+
+.compare-rates-usd .save-up-to-59-N9Wp27 {
+  --z-index: 5;
+  background-color: transparent;
+  color: #2dd06e;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 200px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 35px;
+  width: 123px;
+}
+
+.compare-rates-usd .card-processing-fee-2-N9Wp27 {
+  --z-index: 6;
+  background-color: transparent;
+  color: #a4a5a6;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 174px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 132px;
+  width: 149px;
+}
+
+.compare-rates-usd .x0-5-transfer-fee-N9Wp27 {
+  --z-index: 7;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 155px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 51px;
+  width: 168px;
+}
+
+.compare-rates-usd .address-N9Wp27 {
+  --z-index: 8;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 147px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 17px;
+  width: 176px;
+}
+
+.compare-rates-usd .address-GvoN5E {
+  --z-index: 9;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 147px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 113px;
+  width: 176px;
+}
+
+.compare-rates-usd .component-6-N9Wp27 {
+  --z-index: 10;
+  background-color: transparent;
+  background-image: url(../img/component-6@2x.svg);
+  background-size: 100% 100%;
+  height: 20px;
+  left: 14px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 120px;
+  width: 74px;
+}
+
+.compare-rates-usd .group-230-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  height: 168px;
+  left: -22px;
+  opacity: 1;
+  position: fixed;
+  top: -91px;
+  width: 402px;
+}
+
+.compare-rates-usd .rectangle-59-PdN6Mn {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 84px;
+  left: 17px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 84px;
+  width: 385px;
+}
+
+.compare-rates-usd .group-174-PdN6Mn {
+  --z-index: 1;
+  background-color: transparent;
+  height: 168px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 398px;
+}
+
+.compare-rates-usd .glassy-card-q4ckQy {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/glassy-card-12@2x.svg);
+  background-size: 100% 100%;
+  height: 176px;
+  left: -4px;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 406px;
+}
+
+.compare-rates-usd .group-307-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  height: 26px;
+  left: 243px;
+  opacity: 1;
+  position: fixed;
+  top: 37px;
+  width: 101px;
+}
+
+.compare-rates-usd .group-238-IKgeMF {
+  --z-index: 0;
+  background-color: transparent;
+  height: 15px;
+  left: 9px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 15px;
+}
+
+.compare-rates-usd .ellipse-33-6VUdtd {
+  --z-index: 0;
+  background-color: #a3d3e3;
+  border-radius: 7.5px;
+  height: 15px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.compare-rates-usd .vuesaxlinearprofile-6VUdtd {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vuesax-linear-profile-4@2x.svg);
+  background-size: 100% 100%;
+  height: 11px;
+  left: 1px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}
+
+.compare-rates-usd .rectangle-IKgeMF {
+  --z-index: 1;
+  background-color: transparent;
+  border: 1px solid #c6c6c6;
+  border-radius: 3px;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 99px;
+}
+
+.compare-rates-usd .name-IKgeMF {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 68px;
+}
+
+.compare-rates-usd .group-308-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  background-image: url(../img/group-198@1x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 36px;
+  left: 25px;
+  opacity: 1;
+  position: fixed;
+  top: 33px;
+  width: 36px;
+}
+/* screen - compare-rates-eur */
+
+.compare-rates-eur {
+  background-color: #f3f4f6;
+  height: 770px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.compare-rates-eur .rates-when-exchanging-your-naira-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  color: transparent;
+  font-family: 'Circular Std-Regular', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 165px;
+  width: 342px;
+}
+
+.compare-rates-eur .span0-zM2pGx {
+  color: #696f79;
+  font-style: normal;
+}
+
+.compare-rates-eur .span1-zM2pGx {
+  color: #1565d8;
+  font-style: normal;
+}
+
+.compare-rates-eur .compare-rates-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Bold', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 120px;
+  width: 344px;
+}
+
+.compare-rates-eur .vector-79-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/vector-79@2x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 243px;
+  width: 309px;
+}
+
+.compare-rates-eur .vector-80-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/vector-80-7@2x.svg);
+  background-size: 100% 100%;
+  height: 4px;
+  left: 110px;
+  opacity: 1;
+  position: absolute;
+  top: 242px;
+  width: 23px;
+}
+
+.compare-rates-eur .price-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #1565d8;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 110px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  width: auto;
+}
+
+.compare-rates-eur .price-VMr6Om {
+  --z-index: 5;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 186px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 218px;
+  width: auto;
+}
+
+.compare-rates-eur .price-mzXdH9 {
+  --z-index: 6;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 265px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 218px;
+  width: auto;
+}
+
+.compare-rates-eur .price-QxM5SU {
+  --z-index: 7;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  width: auto;
+}
+
+.compare-rates-eur .group-239-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  height: 173px;
+  left: 19px;
+  opacity: 1;
+  position: fixed;
+  top: 276px;
+  width: 347px;
+}
+
+.compare-rates-eur .rectangle-50-N9Wp27 {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  height: 173px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 337px;
+}
+
+.compare-rates-eur .rectangle-52-N9Wp27 {
+  --z-index: 1;
+  background-color: #ffffff;
+  border-radius: 3px;
+  cursor: pointer;
+  height: 63px;
+  left: 8px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 99px;
+  width: 147px;
+}
+
+.compare-rates-eur .logo-1-N9Wp27 {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/logo-1@2x.png);
+  background-size: 100% 100%;
+  height: 20px;
+  left: 14px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 121px;
+  width: 70px;
+}
+
+.compare-rates-eur .expand_down-N9Wp27 {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/expand-down@2x.svg);
+  background-size: 100% 100%;
+  height: 24px;
+  left: 103px;
+  opacity: 1;
+  position: absolute;
+  top: 119px;
+  width: 24px;
+}
+
+.compare-rates-eur .rectangle-51-N9Wp27 {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/rectangle-51-3@2x.svg);
+  background-size: 100% 100%;
+  height: 87px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  width: 337px;
+}
+
+.compare-rates-eur .link-logo-N9Wp27 {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/link-logo-7@2x.svg);
+  background-size: 100% 100%;
+  height: 20px;
+  left: 14px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 34px;
+  width: 51px;
+}
+
+.compare-rates-eur .save-up-to-32-N9Wp27 {
+  --z-index: 6;
+  background-color: transparent;
+  color: #2dd06e;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 200px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 35px;
+  width: 123px;
+}
+
+.compare-rates-eur .x1-transfer-fee-N9Wp27 {
+  --z-index: 7;
+  background-color: transparent;
+  color: #a4a5a6;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 200px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 132px;
+  width: 123px;
+}
+
+.compare-rates-eur .x0-5-transfer-fee-N9Wp27 {
+  --z-index: 8;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 155px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 51px;
+  width: 168px;
+}
+
+.compare-rates-eur .address-N9Wp27 {
+  --z-index: 9;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 147px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 17px;
+  width: 176px;
+}
+
+.compare-rates-eur .address-GvoN5E {
+  --z-index: 10;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 147px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 113px;
+  width: 176px;
+}
+
+.compare-rates-eur .group-230-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  height: 168px;
+  left: -22px;
+  opacity: 1;
+  position: fixed;
+  top: -91px;
+  width: 402px;
+}
+
+.compare-rates-eur .rectangle-59-PdN6Mn {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 84px;
+  left: 17px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 84px;
+  width: 385px;
+}
+
+.compare-rates-eur .group-174-PdN6Mn {
+  --z-index: 1;
+  background-color: transparent;
+  height: 168px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 398px;
+}
+
+.compare-rates-eur .glassy-card-q4ckQy {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/glassy-card-26@2x.svg);
+  background-size: 100% 100%;
+  height: 176px;
+  left: -4px;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 406px;
+}
+
+.compare-rates-eur .group-307-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  height: 26px;
+  left: 243px;
+  opacity: 1;
+  position: fixed;
+  top: 37px;
+  width: 101px;
+}
+
+.compare-rates-eur .group-238-IKgeMF {
+  --z-index: 0;
+  background-color: transparent;
+  height: 15px;
+  left: 9px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 15px;
+}
+
+.compare-rates-eur .ellipse-33-6VUdtd {
+  --z-index: 0;
+  background-color: #a3d3e3;
+  border-radius: 7.5px;
+  height: 15px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.compare-rates-eur .vuesaxlinearprofile-6VUdtd {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vuesax-linear-profile-4@2x.svg);
+  background-size: 100% 100%;
+  height: 11px;
+  left: 1px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}
+
+.compare-rates-eur .rectangle-IKgeMF {
+  --z-index: 1;
+  background-color: transparent;
+  border: 1px solid #c6c6c6;
+  border-radius: 3px;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 99px;
+}
+
+.compare-rates-eur .name-IKgeMF {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 68px;
+}
+
+.compare-rates-eur .group-308-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  background-image: url(../img/group-198@1x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 36px;
+  left: 25px;
+  opacity: 1;
+  position: fixed;
+  top: 33px;
+  width: 36px;
+}
+/* screen - compare-rates-gbp */
+
+.compare-rates-gbp {
+  background-color: #f3f4f6;
+  height: 770px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.compare-rates-gbp .rates-when-exchanging-your-naira-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  color: transparent;
+  font-family: 'Circular Std-Regular', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 165px;
+  width: 342px;
+}
+
+.compare-rates-gbp .span0-zM2pGx {
+  color: #696f79;
+  font-style: normal;
+}
+
+.compare-rates-gbp .span1-zM2pGx {
+  color: #1565d8;
+  font-style: normal;
+}
+
+.compare-rates-gbp .compare-rates-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Bold', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 120px;
+  width: 344px;
+}
+
+.compare-rates-gbp .vector-79-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/vector-79@2x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 243px;
+  width: 309px;
+}
+
+.compare-rates-gbp .vector-80-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/vector-80-3@2x.svg);
+  background-size: 100% 100%;
+  height: 4px;
+  left: 186px;
+  opacity: 1;
+  position: absolute;
+  top: 242px;
+  width: 24px;
+}
+
+.compare-rates-gbp .price-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 110px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  width: auto;
+}
+
+.compare-rates-gbp .price-VMr6Om {
+  --z-index: 5;
+  background-color: transparent;
+  color: #1565d8;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 186px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 218px;
+  width: auto;
+}
+
+.compare-rates-gbp .price-mzXdH9 {
+  --z-index: 6;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 265px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 218px;
+  width: auto;
+}
+
+.compare-rates-gbp .price-QxM5SU {
+  --z-index: 7;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  width: auto;
+}
+
+.compare-rates-gbp .group-239-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  height: 173px;
+  left: 19px;
+  opacity: 1;
+  position: fixed;
+  top: 276px;
+  width: 347px;
+}
+
+.compare-rates-gbp .rectangle-50-N9Wp27 {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  height: 173px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 337px;
+}
+
+.compare-rates-gbp .rectangle-52-N9Wp27 {
+  --z-index: 1;
+  background-color: #ffffff;
+  border-radius: 3px;
+  cursor: pointer;
+  height: 63px;
+  left: 8px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 99px;
+  width: 147px;
+}
+
+.compare-rates-gbp .component-8-N9Wp27 {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/component-8-4@2x.svg);
+  background-size: 100% 100%;
+  height: 32px;
+  left: 14px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 112px;
+  width: 85px;
+}
+
+.compare-rates-gbp .expand_down-N9Wp27 {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/expand-down@2x.svg);
+  background-size: 100% 100%;
+  height: 24px;
+  left: 115px;
+  opacity: 1;
+  position: absolute;
+  top: 119px;
+  width: 24px;
+}
+
+.compare-rates-gbp .rectangle-51-N9Wp27 {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/rectangle-51-1@2x.svg);
+  background-size: 100% 100%;
+  height: 87px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  width: 337px;
+}
+
+.compare-rates-gbp .link-logo-N9Wp27 {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/link-logo-3@2x.svg);
+  background-size: 100% 100%;
+  height: 20px;
+  left: 14px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 34px;
+  width: 51px;
+}
+
+.compare-rates-gbp .save-up-to-34-N9Wp27 {
+  --z-index: 6;
+  background-color: transparent;
+  color: #2dd06e;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 200px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 35px;
+  width: 123px;
+}
+
+.compare-rates-gbp .atm-withdrawal-fee-5-8-35-30-N9Wp27 {
+  --z-index: 7;
+  background-color: transparent;
+  color: #a4a5a6;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 178px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 128px;
+  width: 145px;
+}
+
+.compare-rates-gbp .x0-5-transfer-fee-N9Wp27 {
+  --z-index: 8;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 155px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 51px;
+  width: 168px;
+}
+
+.compare-rates-gbp .address-N9Wp27 {
+  --z-index: 9;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 147px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 17px;
+  width: 176px;
+}
+
+.compare-rates-gbp .address-GvoN5E {
+  --z-index: 10;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 147px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 109px;
+  width: 176px;
+}
+
+.compare-rates-gbp .group-230-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  height: 168px;
+  left: -22px;
+  opacity: 1;
+  position: fixed;
+  top: -91px;
+  width: 402px;
+}
+
+.compare-rates-gbp .rectangle-59-PdN6Mn {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 84px;
+  left: 17px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 84px;
+  width: 385px;
+}
+
+.compare-rates-gbp .group-174-PdN6Mn {
+  --z-index: 1;
+  background-color: transparent;
+  height: 168px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 398px;
+}
+
+.compare-rates-gbp .glassy-card-q4ckQy {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/glassy-card-22@2x.svg);
+  background-size: 100% 100%;
+  height: 176px;
+  left: -4px;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 406px;
+}
+
+.compare-rates-gbp .group-307-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  height: 26px;
+  left: 243px;
+  opacity: 1;
+  position: fixed;
+  top: 37px;
+  width: 101px;
+}
+
+.compare-rates-gbp .group-238-IKgeMF {
+  --z-index: 0;
+  background-color: transparent;
+  height: 15px;
+  left: 9px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 15px;
+}
+
+.compare-rates-gbp .ellipse-33-6VUdtd {
+  --z-index: 0;
+  background-color: #a3d3e3;
+  border-radius: 7.5px;
+  height: 15px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.compare-rates-gbp .vuesaxlinearprofile-6VUdtd {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vuesax-linear-profile-4@2x.svg);
+  background-size: 100% 100%;
+  height: 11px;
+  left: 1px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}
+
+.compare-rates-gbp .rectangle-IKgeMF {
+  --z-index: 1;
+  background-color: transparent;
+  border: 1px solid #c6c6c6;
+  border-radius: 3px;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 99px;
+}
+
+.compare-rates-gbp .name-IKgeMF {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 68px;
+}
+
+.compare-rates-gbp .group-308-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  background-image: url(../img/group-198@1x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 36px;
+  left: 25px;
+  opacity: 1;
+  position: fixed;
+  top: 33px;
+  width: 36px;
+}
+/* screen - compare-rates-try */
+
+.compare-rates-try {
+  background-color: #f3f4f6;
+  height: 770px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.compare-rates-try .rates-when-exchanging-your-naira-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  color: transparent;
+  font-family: 'Circular Std-Regular', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 165px;
+  width: 342px;
+}
+
+.compare-rates-try .span0-zM2pGx {
+  color: #696f79;
+  font-style: normal;
+}
+
+.compare-rates-try .span1-zM2pGx {
+  color: #1565d8;
+  font-style: normal;
+}
+
+.compare-rates-try .compare-rates-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Bold', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 120px;
+  width: 344px;
+}
+
+.compare-rates-try .vector-79-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/vector-79@2x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 243px;
+  width: 309px;
+}
+
+.compare-rates-try .vector-80-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/vector-80-6@2x.svg);
+  background-size: 100% 100%;
+  height: 4px;
+  left: 265px;
+  opacity: 1;
+  position: absolute;
+  top: 242px;
+  width: 22px;
+}
+
+.compare-rates-try .price-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 110px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  width: auto;
+}
+
+.compare-rates-try .price-VMr6Om {
+  --z-index: 5;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 186px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 218px;
+  width: auto;
+}
+
+.compare-rates-try .price-mzXdH9 {
+  --z-index: 6;
+  background-color: transparent;
+  color: #1565d8;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 265px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 218px;
+  width: auto;
+}
+
+.compare-rates-try .price-QxM5SU {
+  --z-index: 7;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  width: auto;
+}
+
+.compare-rates-try .group-239-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  height: 173px;
+  left: 19px;
+  opacity: 1;
+  position: fixed;
+  top: 276px;
+  width: 347px;
+}
+
+.compare-rates-try .rectangle-50-N9Wp27 {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  height: 173px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 337px;
+}
+
+.compare-rates-try .rectangle-52-N9Wp27 {
+  --z-index: 1;
+  background-color: #ffffff;
+  border-radius: 3px;
+  cursor: pointer;
+  height: 63px;
+  left: 8px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 99px;
+  width: 147px;
+}
+
+.compare-rates-try .component-7-N9Wp27 {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/component-7@2x.svg);
+  background-size: 100% 100%;
+  height: 18px;
+  left: 14px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 122px;
+  width: 74px;
+}
+
+.compare-rates-try .expand_down-N9Wp27 {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/expand-down@2x.svg);
+  background-size: 100% 100%;
+  height: 24px;
+  left: 103px;
+  opacity: 1;
+  position: absolute;
+  top: 119px;
+  width: 24px;
+}
+
+.compare-rates-try .rectangle-51-N9Wp27 {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/rectangle-51-2@2x.svg);
+  background-size: 100% 100%;
+  height: 87px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  width: 337px;
+}
+
+.compare-rates-try .link-logo-N9Wp27 {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/link-logo-3@2x.svg);
+  background-size: 100% 100%;
+  height: 20px;
+  left: 14px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 34px;
+  width: 51px;
+}
+
+.compare-rates-try .save-up-to-47-N9Wp27 {
+  --z-index: 6;
+  background-color: transparent;
+  color: #2dd06e;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 200px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 35px;
+  width: 123px;
+}
+
+.compare-rates-try .atm-withdrawal-fee-8-35-N9Wp27 {
+  --z-index: 7;
+  background-color: transparent;
+  color: #a4a5a6;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 141px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 132px;
+  width: 182px;
+}
+
+.compare-rates-try .x0-5-transfer-fee-N9Wp27 {
+  --z-index: 8;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 155px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 51px;
+  width: 168px;
+}
+
+.compare-rates-try .address-N9Wp27 {
+  --z-index: 9;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 147px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 17px;
+  width: 176px;
+}
+
+.compare-rates-try .address-GvoN5E {
+  --z-index: 10;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 147px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 113px;
+  width: 176px;
+}
+
+.compare-rates-try .group-230-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  height: 168px;
+  left: -22px;
+  opacity: 1;
+  position: fixed;
+  top: -91px;
+  width: 402px;
+}
+
+.compare-rates-try .rectangle-59-PdN6Mn {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 84px;
+  left: 17px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 84px;
+  width: 385px;
+}
+
+.compare-rates-try .group-174-PdN6Mn {
+  --z-index: 1;
+  background-color: transparent;
+  height: 168px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 398px;
+}
+
+.compare-rates-try .glassy-card-q4ckQy {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/glassy-card-23@2x.svg);
+  background-size: 100% 100%;
+  height: 176px;
+  left: -4px;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 406px;
+}
+
+.compare-rates-try .group-307-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  height: 26px;
+  left: 243px;
+  opacity: 1;
+  position: fixed;
+  top: 37px;
+  width: 101px;
+}
+
+.compare-rates-try .group-238-IKgeMF {
+  --z-index: 0;
+  background-color: transparent;
+  height: 15px;
+  left: 9px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 15px;
+}
+
+.compare-rates-try .ellipse-33-6VUdtd {
+  --z-index: 0;
+  background-color: #a3d3e3;
+  border-radius: 7.5px;
+  height: 15px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.compare-rates-try .vuesaxlinearprofile-6VUdtd {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vuesax-linear-profile-4@2x.svg);
+  background-size: 100% 100%;
+  height: 11px;
+  left: 1px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}
+
+.compare-rates-try .rectangle-IKgeMF {
+  --z-index: 1;
+  background-color: transparent;
+  border: 1px solid #c6c6c6;
+  border-radius: 3px;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 99px;
+}
+
+.compare-rates-try .name-IKgeMF {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 68px;
+}
+
+.compare-rates-try .group-308-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  background-image: url(../img/group-198@1x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 36px;
+  left: 25px;
+  opacity: 1;
+  position: fixed;
+  top: 33px;
+  width: 36px;
+}

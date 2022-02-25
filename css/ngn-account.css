@@ -1,0 +1,429 @@
+/* screen - ngn-account */
+
+.ngn-account {
+  align-items: center;
+  background-color: var(--wild-sand);
+  display: flex;
+  flex-direction: column;
+  height: 910px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.ngn-account .group-230 {
+  align-items: flex-end;
+  display: flex;
+  height: 168px;
+  left: -22px;
+  min-width: 402px;
+  position: fixed;
+  top: -91px;
+  z-index: 11;
+}
+
+.ngn-account .overlap-group7 {
+  height: 176px;
+  margin-bottom: -7px;
+  margin-left: -4px;
+  position: relative;
+  width: 406px;
+}
+
+.ngn-account .rectangle-59 {
+  background-color: var(--white);
+  height: 84px;
+  left: 21px;
+  position: absolute;
+  top: 85px;
+  width: 385px;
+}
+
+.ngn-account .glassy-card {
+  height: 176px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 406px;
+}
+
+.ngn-account .group-307 {
+  align-items: flex-start;
+  display: flex;
+  height: 26px;
+  left: 243px;
+  min-width: 101px;
+  position: fixed;
+  top: 37px;
+  z-index: 12;
+}
+
+.ngn-account .overlap-group8 {
+  border-radius: 3px;
+  height: 26px;
+  position: relative;
+  width: 99px;
+}
+
+.ngn-account .group-238 {
+  align-items: flex-start;
+  background-color: var(--regent-st-blue);
+  border-radius: 7.5px;
+  display: flex;
+  height: 15px;
+  left: 9px;
+  min-width: 15px;
+  padding: 2.0px 1.3px;
+  position: absolute;
+  top: 6px;
+}
+
+.ngn-account .vuesaxlinearprofile {
+  height: 11px;
+  width: 12px;
+}
+
+.ngn-account .rectangle {
+  border-radius: 3px;
+  height: 26px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.ngn-account .name {
+  cursor: pointer;
+  left: 31px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 5px;
+  width: 68px;
+}
+
+.ngn-account .vuesaxlineararrow-left {
+  align-self: flex-start;
+  cursor: pointer;
+  height: 21px;
+  margin-left: 32px;
+  margin-top: 95px;
+  width: 21px;
+  z-index: 8;
+}
+
+.ngn-account .accounts-details {
+  letter-spacing: 0;
+  margin-top: 19px;
+  min-height: 30px;
+  width: 309px;
+  z-index: 6;
+}
+
+.ngn-account .overlap-group10 {
+  align-self: flex-end;
+  height: 80px;
+  margin-right: -2px;
+  margin-top: 50px;
+  position: relative;
+  width: 344px;
+  z-index: 7;
+}
+
+.ngn-account .overlap-group9 {
+  height: 80px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 344px;
+}
+
+.ngn-account .nigerian-naira {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 46px;
+  width: 344px;
+}
+
+.ngn-account .mask-group {
+  height: 47px;
+  left: 262px;
+  position: absolute;
+  top: 0;
+  width: 47px;
+}
+
+.ngn-account .price {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 1px;
+  width: 241px;
+}
+
+.ngn-account .submit-button {
+  align-items: flex-end;
+  align-self: flex-end;
+  background-color: var(--black);
+  border-radius: 3px;
+  cursor: pointer;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  margin-right: 34px;
+  margin-top: 18px;
+  min-width: 140px;
+  padding: 10.0px 1px;
+  z-index: 9;
+}
+
+.ngn-account .overlap-group5 {
+  height: 19px;
+  position: relative;
+  width: 121px;
+}
+
+.ngn-account .vuesaxlinearmoney-send {
+  height: 18px;
+  left: 8px;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.ngn-account .component-4 {
+  height: 11px;
+  left: 16px;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.ngn-account .withdraw {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  width: 121px;
+}
+
+.ngn-account .submit-button-1 {
+  align-items: center;
+  background-color: var(--chateau-green);
+  border-radius: 3px;
+  cursor: pointer;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  left: 33px;
+  min-width: 140px;
+  padding: 0 1px;
+  position: fixed;
+  top: 313px;
+  z-index: 10;
+}
+
+.ngn-account .overlap-group6 {
+  height: 18px;
+  position: relative;
+  width: 125px;
+}
+
+.ngn-account .vuesaxlinearadd-circle {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.ngn-account .fund-account {
+  left: 4px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  width: 121px;
+}
+
+.ngn-account .group-284 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 4.0px;
+  margin-top: 40px;
+  min-width: 313px;
+  z-index: 1;
+}
+
+.ngn-account .overlap-group {
+  height: 51px;
+  position: relative;
+  width: 309px;
+}
+
+.ngn-account .rectangle-6 {
+  background-color: var(--white);
+  border-radius: 3px;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 309px;
+}
+
+.ngn-account .account-holder {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 111px;
+}
+
+.ngn-account .name-1 {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+  width: 272px;
+}
+
+.ngn-account .group-285 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 4.0px;
+  margin-top: 17px;
+  min-width: 313px;
+  z-index: 3;
+}
+
+.ngn-account .overlap-group2 {
+  height: 66px;
+  position: relative;
+  width: 309px;
+}
+
+.ngn-account .bank-name {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 111px;
+}
+
+.ngn-account .wema-bank-plc {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 24px;
+  width: 272px;
+}
+
+.ngn-account .group-286 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 4.0px;
+  margin-top: 2px;
+  min-width: 313px;
+  z-index: 2;
+}
+
+.ngn-account .account-number {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 111px;
+}
+
+.ngn-account .phone {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+  width: 272px;
+}
+
+.ngn-account .group-287 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 4.0px;
+  margin-top: 17px;
+  min-width: 313px;
+  z-index: 4;
+}
+
+.ngn-account .overlap-group3 {
+  height: 71px;
+  position: relative;
+  width: 309px;
+}
+
+.ngn-account .rectangle-65 {
+  background-color: var(--white);
+  border-radius: 3px;
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 309px;
+}
+
+.ngn-account .bank-address {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 111px;
+}
+
+.ngn-account .address {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 26px;
+  white-space: nowrap;
+  width: 272px;
+}
+
+.ngn-account .group-289 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 4.0px;
+  margin-top: 17px;
+  min-width: 313px;
+  z-index: 5;
+}
+
+.ngn-account .account-type {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 111px;
+}
+
+.ngn-account .savings-account {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+  width: 272px;
+}

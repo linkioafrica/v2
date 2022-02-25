@@ -1,0 +1,326 @@
+/* screen - recipients */
+
+.recipients {
+  align-items: flex-start;
+  background-color: var(--wild-sand);
+  display: flex;
+  flex-direction: column;
+  height: 770px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.recipients .group-230 {
+  align-items: flex-end;
+  display: flex;
+  height: 168px;
+  left: -22px;
+  min-width: 402px;
+  position: fixed;
+  top: -91px;
+  z-index: 3;
+}
+
+.recipients .overlap-group {
+  height: 176px;
+  margin-bottom: -7px;
+  margin-left: -4px;
+  position: relative;
+  width: 406px;
+}
+
+.recipients .rectangle-59 {
+  background-color: var(--white);
+  height: 84px;
+  left: 21px;
+  position: absolute;
+  top: 85px;
+  width: 385px;
+}
+
+.recipients .glassy-card {
+  height: 176px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 406px;
+}
+
+.recipients .group-308 {
+  cursor: pointer;
+  height: 36px;
+  left: 25px;
+  position: fixed;
+  top: 33px;
+  width: 36px;
+  z-index: 5;
+}
+
+.recipients .group-307 {
+  align-items: flex-start;
+  display: flex;
+  height: 26px;
+  left: 243px;
+  min-width: 101px;
+  position: fixed;
+  top: 37px;
+  z-index: 4;
+}
+
+.recipients .overlap-group1 {
+  border-radius: 3px;
+  height: 26px;
+  position: relative;
+  width: 99px;
+}
+
+.recipients .group-238 {
+  align-items: flex-start;
+  background-color: var(--regent-st-blue);
+  border-radius: 7.5px;
+  display: flex;
+  height: 15px;
+  left: 9px;
+  min-width: 15px;
+  padding: 2.0px 1.3px;
+  position: absolute;
+  top: 6px;
+}
+
+.recipients .vuesaxlinearprofile {
+  height: 11px;
+  width: 12px;
+}
+
+.recipients .rectangle {
+  border-radius: 3px;
+  height: 26px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.recipients .name {
+  cursor: pointer;
+  left: 31px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 5px;
+  width: 68px;
+}
+
+.recipients .recipients-1 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-right: -2px;
+  margin-top: 120px;
+  min-height: 34px;
+  width: 344px;
+  z-index: 2;
+}
+
+.recipients .flex-row-1 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  height: 322px;
+  margin-top: 33px;
+  min-width: 337px;
+  z-index: 1;
+}
+
+.recipients .flex-col {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 322px;
+  width: 286px;
+}
+
+.recipients .overlap-group2 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  min-height: 236px;
+  padding: 18px 13px;
+  width: 286px;
+}
+
+.recipients .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 35px;
+  min-width: 249px;
+}
+
+.recipients .vuesaxlinear {
+  height: 18px;
+  width: 18px;
+}
+
+.recipients .name-1 {
+  letter-spacing: 0;
+  margin-left: 19px;
+  margin-top: 4px;
+  min-height: 10px;
+  width: 112px;
+}
+
+.recipients .bank-account-details {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-left: 30px;
+  min-height: 30px;
+  width: 70px;
+}
+
+.recipients .vector-81 {
+  height: 4px;
+  margin-left: 2px;
+  margin-top: 4px;
+  width: 247px;
+}
+
+.recipients .flex-row {
+  align-items: center;
+  display: flex;
+  margin-top: 16px;
+  min-width: 249px;
+}
+
+.recipients .name-2 {
+  letter-spacing: 0;
+  margin-bottom: 2.0px;
+  margin-left: 19px;
+  min-height: 10px;
+  width: 112px;
+}
+
+.recipients .address-details {
+  letter-spacing: 0;
+  margin-left: 30px;
+  min-height: 10px;
+  width: 70px;
+}
+
+.recipients .vector-8 {
+  height: 4px;
+  margin-left: 2px;
+  margin-top: 21px;
+  width: 247px;
+}
+
+.recipients .flex-row-3 {
+  align-items: center;
+  display: flex;
+  margin-top: 14px;
+  min-width: 249px;
+}
+
+.recipients .name-3 {
+  letter-spacing: 0;
+  margin-bottom: 1.0px;
+  margin-left: 19px;
+  min-height: 9px;
+  width: 112px;
+}
+
+.recipients .bank-account-details-1 {
+  letter-spacing: 0;
+  margin-left: 30px;
+  margin-top: 1.0px;
+  min-height: 9px;
+  width: 70px;
+}
+
+.recipients .name-4 {
+  letter-spacing: 0;
+  margin-left: 19px;
+  margin-top: 2.0px;
+  min-height: 10px;
+  width: 112px;
+}
+
+.recipients .address-details-1 {
+  letter-spacing: 0;
+  margin-left: 30px;
+  margin-top: 2.0px;
+  min-height: 10px;
+  width: 70px;
+}
+
+.recipients .submit-button {
+  align-items: center;
+  background-color: var(--chateau-green);
+  border-radius: 3px;
+  cursor: pointer;
+  display: flex;
+  height: 40px;
+  margin-right: 20px;
+  margin-top: 46px;
+  min-width: 194px;
+  padding: 0 36px;
+}
+
+.recipients .title {
+  height: 16px;
+  letter-spacing: 0.11px;
+  text-align: center;
+  width: 87px;
+}
+
+.recipients .group-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 15px;
+  margin-top: 10px;
+  min-height: 211px;
+  width: 36px;
+}
+
+.recipients .group-198 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 7px;
+  box-shadow: 0px 2px 2px #00000026;
+  cursor: pointer;
+  display: flex;
+  height: 36px;
+  min-width: 36px;
+  padding: 9.9px 10.1px;
+}
+
+.recipients .vuesaxlinearexport {
+  height: 15px;
+  width: 15px;
+}
+
+.recipients .group-2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 7px;
+  box-shadow: 0px 2px 2px #00000026;
+  cursor: pointer;
+  display: flex;
+  height: 36px;
+  margin-top: 23px;
+  min-width: 36px;
+  padding: 9.9px 10.1px;
+}
+
+.recipients .group-240 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 7px;
+  box-shadow: 0px 2px 2px #00000026;
+  cursor: pointer;
+  display: flex;
+  height: 36px;
+  margin-top: 21px;
+  min-width: 36px;
+  padding: 9.9px 10.1px;
+}

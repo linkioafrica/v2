@@ -1,0 +1,87 @@
+/* screen - frame-2 */
+
+.frame-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 3393px;
+  min-width: 428px;
+}
+
+#overlay-frame-2 {
+  background-color: transparent;
+}
+
+.overlay .frame-2 {
+  background-color: #00000000;
+}
+
+.frame-2 .frame-2-1 {
+  align-items: flex-start;
+  background-color: var(--black);
+  display: flex;
+  flex-direction: column;
+  left: calc(50vw - 214.0px);
+  min-height: 384px;
+  padding: 12px 26px;
+  position: fixed;
+  top: 0;
+  width: 428px;
+  z-index: 1;
+}
+
+.frame-2 .group-198 {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: var(--black);
+  border-radius: 4px;
+  display: flex;
+  height: 32px;
+  min-width: 32px;
+}
+
+.frame-2 .close-square {
+  cursor: pointer;
+  height: 1px;
+  width: 1px;
+}
+
+.frame-2 .personal {
+  letter-spacing: 0;
+  margin-left: 38px;
+  min-height: 59px;
+  width: 202px;
+}
+
+.frame-2 .business {
+  letter-spacing: 0;
+  margin-left: 38px;
+  margin-top: 20px;
+  min-height: 48px;
+  width: 202px;
+}
+
+.frame-2 .login {
+  color: var(--white);
+  cursor: pointer;
+  font-family: var(--font-family-circular_std-book);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-left: 38px;
+  margin-top: 70px;
+  min-height: 35px;
+  width: 177px;
+}
+
+.frame-2 .sign-up {
+  color: var(--white);
+  cursor: pointer;
+  font-family: var(--font-family-circular_std-book);
+  font-size: var(--font-size-xxxl);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-left: 38px;
+  margin-top: 39px;
+  min-height: 38px;
+  width: 202px;
+}

@@ -1,0 +1,101 @@
+/* screen - delivery-method */
+
+.delivery-method {
+  align-items: flex-start;
+  display: flex;
+  height: 708px;
+  min-width: 370px;
+}
+
+#overlay-delivery-method {
+  background-color: transparent;
+}
+
+.overlay .delivery-method {
+  background-color: #00000000;
+}
+
+#overlay-delivery-method .delivery-method {
+  left: 194px;
+  top: 547px;
+}
+
+#overlay-delivery-method .container-center-horizontal {
+  justify-content: normal;
+}
+
+.delivery-method .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  min-height: 102px;
+  padding: 13px 0;
+  width: 141px;
+}
+
+.delivery-method .flex-row {
+  align-items: center;
+  display: flex;
+  margin-right: 2px;
+  min-width: 128px;
+}
+
+.delivery-method .group {
+  align-items: flex-start;
+  background-color: var(--link-water);
+  border-radius: 12.19px;
+  display: flex;
+  height: 24px;
+  min-width: 24px;
+}
+
+.delivery-method .vuesaxoutlinebank {
+  height: 1px;
+  width: 1px;
+}
+
+.delivery-method .bank-transfer {
+  letter-spacing: 0;
+  margin-left: 10px;
+  margin-top: 3.63px;
+  min-height: 16px;
+  width: 94px;
+}
+
+.delivery-method .rectangle {
+  background-color: var(--wild-sand);
+  height: 2px;
+  margin-top: 12px;
+  width: 141px;
+}
+
+.delivery-method .flex-row-1 {
+  align-items: center;
+  display: flex;
+  margin-right: 2px;
+  margin-top: 12px;
+  min-width: 128px;
+}
+
+.delivery-method .overlap-group {
+  align-items: flex-start;
+  background-image: url();
+  background-size: 100% 100%;
+  display: flex;
+  min-width: 1px;
+}
+
+.delivery-method .vector {
+  height: 1px;
+  width: 1px;
+}
+
+.delivery-method .physical-delivery {
+  letter-spacing: 0;
+  margin-left: 10px;
+  margin-top: 3.63px;
+  min-height: 16px;
+  width: 94px;
+}

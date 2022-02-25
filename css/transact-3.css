@@ -1,0 +1,234 @@
+/* screen - transact-3 */
+
+.transact-3 {
+  align-items: center;
+  background-color: var(--wild-sand);
+  display: flex;
+  flex-direction: column;
+  height: 772px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.transact-3 .group-230 {
+  align-items: flex-end;
+  display: flex;
+  height: 168px;
+  left: -22px;
+  min-width: 402px;
+  position: fixed;
+  top: -91px;
+  z-index: 6;
+}
+
+.transact-3 .overlap-group2 {
+  height: 176px;
+  margin-bottom: -7px;
+  margin-left: -4px;
+  position: relative;
+  width: 406px;
+}
+
+.transact-3 .rectangle-59 {
+  background-color: var(--white);
+  height: 84px;
+  left: 21px;
+  position: absolute;
+  top: 85px;
+  width: 385px;
+}
+
+.transact-3 .glassy-card {
+  height: 176px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 406px;
+}
+
+.transact-3 .group-307 {
+  align-items: flex-start;
+  display: flex;
+  height: 26px;
+  left: 243px;
+  min-width: 101px;
+  position: fixed;
+  top: 37px;
+  z-index: 7;
+}
+
+.transact-3 .overlap-group3 {
+  border-radius: 3px;
+  height: 26px;
+  position: relative;
+  width: 99px;
+}
+
+.transact-3 .group-238 {
+  align-items: flex-start;
+  background-color: var(--regent-st-blue);
+  border-radius: 7.5px;
+  display: flex;
+  height: 15px;
+  left: 9px;
+  min-width: 15px;
+  padding: 2.0px 1.3px;
+  position: absolute;
+  top: 6px;
+}
+
+.transact-3 .vuesaxlinearprofile {
+  height: 11px;
+  width: 12px;
+}
+
+.transact-3 .rectangle {
+  border-radius: 3px;
+  height: 26px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.transact-3 .name {
+  cursor: pointer;
+  left: 31px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 5px;
+  width: 68px;
+}
+
+.transact-3 .vuesaxlineararrow-left {
+  cursor: pointer;
+  height: 21px;
+  left: 32px;
+  position: fixed;
+  top: 95px;
+  width: 21px;
+  z-index: 5;
+}
+
+.transact-3 .close-square {
+  align-self: flex-end;
+  cursor: pointer;
+  height: 13px;
+  margin-right: 35px;
+  margin-top: 99px;
+  width: 13px;
+  z-index: 4;
+}
+
+.transact-3 .how-do-you-want-to-p {
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-right: 4.0px;
+  margin-top: 38px;
+  min-height: 40px;
+  width: 305px;
+  z-index: 1;
+}
+
+.transact-3 .group-192 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-top: 31px;
+  min-width: 309px;
+  z-index: 2;
+}
+
+.transact-3 .overlap-group {
+  align-items: center;
+  background-image: url(../img/vector-61@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 81px;
+  justify-content: flex-end;
+  min-width: 305px;
+  padding: 17px 8.0px;
+}
+
+.transact-3 .group-211 {
+  align-items: flex-end;
+  background-color: var(--link-water);
+  border-radius: 16px;
+  display: flex;
+  height: 32px;
+  justify-content: flex-end;
+  margin-top: 1.0px;
+  min-width: 32px;
+  padding: 6.0px;
+}
+
+.transact-3 .vuesaxoutlinebank {
+  height: 20px;
+  width: 20px;
+}
+
+.transact-3 .transfer-container {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 26px;
+  min-height: 46px;
+  width: 146px;
+}
+
+.transact-3 .debit {
+  letter-spacing: 0;
+  min-height: 15px;
+}
+
+.transact-3 .manually-transfer-th {
+  letter-spacing: 0;
+  margin-top: 5px;
+  min-height: 26px;
+}
+
+.transact-3 .expand_down {
+  height: 24px;
+  margin-left: 54px;
+  margin-top: 1.0px;
+  width: 24px;
+}
+
+.transact-3 .group-260 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 42px;
+  min-width: 309px;
+  z-index: 3;
+}
+
+.transact-3 .group-145 {
+  height: 32px;
+  margin-top: 1.0px;
+  width: 32px;
+}
+
+.transact-3 .flex-col {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 26px;
+  min-height: 46px;
+  width: 143px;
+}
+
+.transact-3 .pay-for-your-transfe {
+  letter-spacing: 0;
+  margin-top: 5px;
+  min-height: 26px;
+  width: 143px;
+}
+
+.transact-3 .expand_down-1 {
+  height: 24px;
+  margin-left: 57px;
+  margin-top: 1.0px;
+  width: 24px;
+}

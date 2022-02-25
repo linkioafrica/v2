@@ -1,0 +1,1613 @@
+/* screen - accounts */
+
+.accounts {
+  background-color: #f3f4f6;
+  height: 770px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.accounts .group-296-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  height: 56px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 276px;
+  width: 313px;
+}
+
+.accounts .rectangle-62-lblWAE {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  box-shadow: 0px 2px 2px #00000026;
+  cursor: pointer;
+  height: 56px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 309px;
+}
+
+.accounts .x1024px-united-states_flag_icon_round-1-lblWAE {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/1024px-united-states-flag-icon-round-1-1@2x.svg);
+  background-size: 100% 100%;
+  height: 32px;
+  left: 13px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 12px;
+  width: 34px;
+}
+
+.accounts .price-lblWAE {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 55px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: 153px;
+}
+
+.accounts .price-Jw0Jvv {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 250px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 19px;
+  width: auto;
+}
+
+.accounts .group-297-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  height: 56px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 347px;
+  width: 313px;
+}
+
+.accounts .rectangle-63-UbM58D {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  box-shadow: 0px 2px 2px #00000026;
+  cursor: pointer;
+  height: 56px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 309px;
+}
+
+.accounts .mask-group-UbM58D {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-25@2x.svg);
+  background-size: 100% 100%;
+  height: 32px;
+  left: 12px;
+  opacity: 1;
+  position: absolute;
+  top: 12px;
+  width: 32px;
+}
+
+.accounts .price-UbM58D {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 55px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: 153px;
+}
+
+.accounts .price-1pVXXe {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 257px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 19px;
+  width: auto;
+}
+
+.accounts .group-298-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  height: 56px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 418px;
+  width: 313px;
+}
+
+.accounts .rectangle-64-kZ2APh {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  box-shadow: 0px 2px 2px #00000026;
+  cursor: pointer;
+  height: 56px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 309px;
+}
+
+.accounts .flag-round-250-1-kZ2APh {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/flag-round-250-1-2@2x.svg);
+  background-size: 100% 100%;
+  height: 32px;
+  left: 12px;
+  mix-blend-mode: normal;
+  object-fit: cover;
+  opacity: 1;
+  position: absolute;
+  top: 12px;
+  width: 32px;
+}
+
+.accounts .price-kZ2APh {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 55px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: 153px;
+}
+
+.accounts .price-3Zx8ID {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 261px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 19px;
+  width: auto;
+}
+
+.accounts .group-300-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  height: 56px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 560px;
+  width: 313px;
+}
+
+.accounts .rectangle-66-E9Dkin {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  box-shadow: 0px 2px 2px #00000026;
+  cursor: pointer;
+  height: 56px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 309px;
+}
+
+.accounts .mask-group-E9Dkin {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-26@2x.svg);
+  background-size: 100% 100%;
+  height: 32px;
+  left: 13px;
+  opacity: 1;
+  position: absolute;
+  top: 12px;
+  width: 32px;
+}
+
+.accounts .price-E9Dkin {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 55px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: 153px;
+}
+
+.accounts .phone-E9Dkin {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 245px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 19px;
+  width: auto;
+}
+
+.accounts .vector-79-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/vector-79@2x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 243px;
+  width: 309px;
+}
+
+.accounts .vector-80-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  background-image: url(../img/vector-80@2x.svg);
+  background-size: 100% 100%;
+  height: 4px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 242px;
+  width: 51px;
+}
+
+.accounts .activity-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 137px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  width: auto;
+}
+
+.accounts .orders-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 244px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 218px;
+  width: auto;
+}
+
+.accounts .accounts-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  color: #1565d8;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  width: auto;
+}
+
+.accounts .all-accounts-total-in-ngn-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  color: transparent;
+  font-family: 'Circular Std-Regular', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 165px;
+  width: 344px;
+}
+
+.accounts .span0-4KxuOu {
+  color: #696f79;
+  font-style: normal;
+}
+
+.accounts .span1-4KxuOu {
+  color: #1565d8;
+  font-style: normal;
+}
+
+.accounts .price-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Bold', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 120px;
+  width: 344px;
+}
+
+.accounts .group-299-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  height: 56px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 489px;
+  width: 313px;
+}
+
+.accounts .rectangle-65-9CWDUR {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  box-shadow: 0px 2px 2px #00000026;
+  cursor: pointer;
+  height: 56px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 309px;
+}
+
+.accounts .price-9CWDUR {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 55px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 19px;
+  width: 153px;
+}
+
+.accounts .price-OHMyZW {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 224px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 19px;
+  width: auto;
+}
+
+.accounts .mask-group-9CWDUR {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/mask-group-27@2x.svg);
+  background-size: 100% 100%;
+  height: 32px;
+  left: 13px;
+  opacity: 1;
+  position: absolute;
+  top: 12px;
+  width: 32px;
+}
+
+.accounts .submit-button-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  cursor: pointer;
+  height: 40px;
+  left: 91px;
+  opacity: 1;
+  position: fixed;
+  top: 649px;
+  width: 194px;
+}
+
+.accounts .border-1RSKJ8 {
+  --z-index: 0;
+  background-color: #30ae4d;
+  border-radius: 3px;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 194px;
+}
+
+.accounts .title-1RSKJ8 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Circular Std-Bold', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  height: 16px;
+  left: 22px;
+  letter-spacing: 0.11px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 151px;
+}
+
+.accounts .vuesaxlinearadd-circle-1RSKJ8 {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/vuesax-linear-add-circle-3@2x.svg);
+  background-size: 100% 100%;
+  height: 18px;
+  left: 36px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 10px;
+  width: 18px;
+}
+
+.accounts .group-230-C61RwL {
+  --z-index: 13;
+  background-color: transparent;
+  height: 168px;
+  left: -22px;
+  opacity: 1;
+  position: fixed;
+  top: -91px;
+  width: 402px;
+}
+
+.accounts .rectangle-59-PdN6Mn {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 84px;
+  left: 17px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 84px;
+  width: 385px;
+}
+
+.accounts .group-174-PdN6Mn {
+  --z-index: 1;
+  background-color: transparent;
+  height: 168px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 398px;
+}
+
+.accounts .glassy-card-q4ckQy {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/glassy-card-5@2x.svg);
+  background-size: 100% 100%;
+  height: 176px;
+  left: -4px;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 406px;
+}
+
+.accounts .group-198-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  background-image: url(../img/group-198@1x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 36px;
+  left: 25px;
+  opacity: 1;
+  position: fixed;
+  top: 33px;
+  width: 36px;
+}
+
+.accounts .group-307-C61RwL {
+  --z-index: 15;
+  background-color: transparent;
+  height: 26px;
+  left: 243px;
+  opacity: 1;
+  position: fixed;
+  top: 37px;
+  width: 101px;
+}
+
+.accounts .group-238-IKgeMF {
+  --z-index: 0;
+  background-color: transparent;
+  height: 15px;
+  left: 9px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 15px;
+}
+
+.accounts .ellipse-33-6VUdtd {
+  --z-index: 0;
+  background-color: #a3d3e3;
+  border-radius: 7.5px;
+  height: 15px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.accounts .vuesaxlinearprofile-6VUdtd {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vuesax-linear-profile-5@2x.svg);
+  background-size: 100% 100%;
+  height: 11px;
+  left: 1px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}
+
+.accounts .rectangle-IKgeMF {
+  --z-index: 1;
+  background-color: transparent;
+  border: 1px solid #c6c6c6;
+  border-radius: 3px;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 99px;
+}
+
+.accounts .name-IKgeMF {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 68px;
+}
+/* screen - activity */
+
+.activity {
+  background-color: #f3f4f6;
+  height: 770px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.activity .group-239-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  height: 130px;
+  left: 19px;
+  opacity: 1;
+  position: absolute;
+  top: 276px;
+  width: 349px;
+}
+
+.activity .rectangle-50-N9Wp27 {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  height: 130px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 337px;
+}
+
+.activity .price-N9Wp27 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 222px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 23px;
+  width: 101px;
+}
+
+.activity .price-GvoN5E {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 222px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 82px;
+  width: 101px;
+}
+
+.activity .sent-N9Wp27 {
+  --z-index: 3;
+  background-color: transparent;
+  color: #00000080;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 7px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 38px;
+  width: 38px;
+}
+
+.activity .sent-GvoN5E {
+  --z-index: 4;
+  background-color: transparent;
+  color: #00000080;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 7px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 97px;
+  width: 38px;
+}
+
+.activity .name-N9Wp27 {
+  --z-index: 5;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 24px;
+  width: 118px;
+}
+
+.activity .chike-ojo-N9Wp27 {
+  --z-index: 6;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 37px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 83px;
+  width: 118px;
+}
+
+.activity .group-186-N9Wp27 {
+  --z-index: 7;
+  background-color: transparent;
+  height: 18px;
+  left: 14px;
+  opacity: 1;
+  position: absolute;
+  top: 22px;
+  width: 18px;
+}
+
+.activity .ellipse-19-AFKxK7 {
+  --z-index: 0;
+  background-color: #dae6ff;
+  border-radius: 9px;
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.activity .vuesaxlinearsend-AFKxK7 {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vuesax-linear-send@2x.svg);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 2px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 3px;
+  width: 14px;
+}
+
+.activity .group-266-N9Wp27 {
+  --z-index: 8;
+  background-color: transparent;
+  height: 18px;
+  left: 14px;
+  opacity: 1;
+  position: absolute;
+  top: 81px;
+  width: 18px;
+}
+
+.activity .ellipse-19-gkNmDE {
+  --z-index: 0;
+  background-color: #dae6ff;
+  border-radius: 9px;
+  height: 18px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 18px;
+}
+
+.activity .vuesaxlinearsend-gkNmDE {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vuesax-linear-send-1@2x.svg);
+  background-size: 100% 100%;
+  height: 14px;
+  left: 2px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 3px;
+  width: 14px;
+}
+
+.activity .vector-82-N9Wp27 {
+  --z-index: 9;
+  background-color: transparent;
+  background-image: url(../img/vector-81@2x.svg);
+  background-size: 100% 100%;
+  height: 4px;
+  left: 14px;
+  opacity: 1;
+  position: absolute;
+  top: 61px;
+  width: 309px;
+}
+
+.activity .vector-79-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vector-79@2x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 243px;
+  width: 309px;
+}
+
+.activity .vector-80-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/vector-80-4@2x.svg);
+  background-size: 100% 100%;
+  height: 4px;
+  left: 137px;
+  opacity: 1;
+  position: absolute;
+  top: 242px;
+  width: 42px;
+}
+
+.activity .activity-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #1565d8;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 137px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  width: auto;
+}
+
+.activity .orders-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 244px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 218px;
+  width: auto;
+}
+
+.activity .accounts-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  width: auto;
+}
+
+.activity .all-accounts-total-in-ngn-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: transparent;
+  font-family: 'Circular Std-Regular', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 165px;
+  width: 342px;
+}
+
+.activity .span0-4KxuOu {
+  color: #696f79;
+  font-style: normal;
+}
+
+.activity .span1-4KxuOu {
+  color: #1565d8;
+  font-style: normal;
+}
+
+.activity .price-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Bold', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  text-align: left;
+  top: 120px;
+  width: 344px;
+}
+
+.activity .group-230-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  height: 168px;
+  left: -22px;
+  opacity: 1;
+  position: fixed;
+  top: -91px;
+  width: 402px;
+}
+
+.activity .rectangle-59-PdN6Mn {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 84px;
+  left: 17px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 84px;
+  width: 385px;
+}
+
+.activity .group-174-PdN6Mn {
+  --z-index: 1;
+  background-color: transparent;
+  height: 168px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 398px;
+}
+
+.activity .glassy-card-q4ckQy {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/glassy-card-39@2x.svg);
+  background-size: 100% 100%;
+  height: 176px;
+  left: -4px;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 406px;
+}
+
+.activity .group-307-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  height: 26px;
+  left: 243px;
+  opacity: 1;
+  position: fixed;
+  top: 37px;
+  width: 101px;
+}
+
+.activity .group-238-IKgeMF {
+  --z-index: 0;
+  background-color: transparent;
+  height: 15px;
+  left: 9px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 15px;
+}
+
+.activity .ellipse-33-6VUdtd {
+  --z-index: 0;
+  background-color: #a3d3e3;
+  border-radius: 7.5px;
+  height: 15px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.activity .vuesaxlinearprofile-6VUdtd {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vuesax-linear-profile-3@2x.svg);
+  background-size: 100% 100%;
+  height: 11px;
+  left: 1px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}
+
+.activity .rectangle-IKgeMF {
+  --z-index: 1;
+  background-color: transparent;
+  border: 1px solid #c6c6c6;
+  border-radius: 3px;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 99px;
+}
+
+.activity .name-IKgeMF {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 68px;
+}
+
+.activity .group-198-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  background-image: url(../img/group-198@1x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 36px;
+  left: 25px;
+  opacity: 1;
+  position: fixed;
+  top: 33px;
+  width: 36px;
+}
+/* screen - orders */
+
+.orders {
+  background-color: #f3f4f6;
+  height: 770px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.orders .group-239-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/group-239@2x.svg);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 68px;
+  left: 17px;
+  opacity: 1;
+  position: absolute;
+  top: 276px;
+  width: 341px;
+}
+
+.orders .group-308-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/group-308@2x.svg);
+  background-size: 100% 100%;
+  height: 68px;
+  left: 17px;
+  opacity: 1;
+  position: absolute;
+  top: 346px;
+  width: 341px;
+}
+
+.orders .group-309-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/group-309@2x.svg);
+  background-size: 100% 100%;
+  height: 68px;
+  left: 17px;
+  opacity: 1;
+  position: absolute;
+  top: 416px;
+  width: 341px;
+}
+
+.orders .vector-79-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/vector-79@2x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 243px;
+  width: 309px;
+}
+
+.orders .vector-80-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/vector-82-7@2x.svg);
+  background-size: 100% 100%;
+  height: 4px;
+  left: 244px;
+  opacity: 1;
+  position: absolute;
+  top: 242px;
+  width: 38px;
+}
+
+.orders .activity-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 137px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  width: auto;
+}
+
+.orders .orders-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: #1565d8;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 244px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 218px;
+  width: auto;
+}
+
+.orders .accounts-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  width: auto;
+}
+
+.orders .all-accounts-total-in-ngn-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  color: transparent;
+  font-family: 'Circular Std-Regular', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 165px;
+  width: 344px;
+}
+
+.orders .span0-4KxuOu {
+  color: #696f79;
+  font-style: normal;
+}
+
+.orders .span1-4KxuOu {
+  color: #1565d8;
+  font-style: normal;
+}
+
+.orders .price-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Bold', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  text-align: left;
+  top: 120px;
+  width: 344px;
+}
+
+.orders .group-230-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  height: 168px;
+  left: -22px;
+  opacity: 1;
+  position: fixed;
+  top: -91px;
+  width: 402px;
+}
+
+.orders .rectangle-59-PdN6Mn {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 84px;
+  left: 17px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 84px;
+  width: 385px;
+}
+
+.orders .group-174-PdN6Mn {
+  --z-index: 1;
+  background-color: transparent;
+  height: 168px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 398px;
+}
+
+.orders .glassy-card-q4ckQy {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/glassy-card-32@2x.svg);
+  background-size: 100% 100%;
+  height: 176px;
+  left: -4px;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 406px;
+}
+
+.orders .group-307-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  height: 26px;
+  left: 243px;
+  opacity: 1;
+  position: fixed;
+  top: 37px;
+  width: 101px;
+}
+
+.orders .group-238-IKgeMF {
+  --z-index: 0;
+  background-color: transparent;
+  height: 15px;
+  left: 9px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 15px;
+}
+
+.orders .ellipse-33-6VUdtd {
+  --z-index: 0;
+  background-color: #a3d3e3;
+  border-radius: 7.5px;
+  height: 15px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.orders .vuesaxlinearprofile-6VUdtd {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vuesax-linear-profile-3@2x.svg);
+  background-size: 100% 100%;
+  height: 11px;
+  left: 1px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}
+
+.orders .rectangle-IKgeMF {
+  --z-index: 1;
+  background-color: transparent;
+  border: 1px solid #c6c6c6;
+  border-radius: 3px;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 99px;
+}
+
+.orders .name-IKgeMF {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 68px;
+}
+
+.orders .group-198-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  background-image: url(../img/group-198@1x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 36px;
+  left: 25px;
+  opacity: 1;
+  position: fixed;
+  top: 33px;
+  width: 36px;
+}

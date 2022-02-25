@@ -1,0 +1,72 @@
+/* screen - mono-api-screen-6 */
+
+.mono-api-screen-6 {
+  align-items: center;
+  background-color: #e24407;
+  display: flex;
+  flex-direction: column;
+  height: 772px;
+  padding: 93px 0;
+  width: 375px;
+}
+
+.mono-api-screen-6 .group-278 {
+  align-items: flex-start;
+  display: flex;
+  height: 92px;
+  left: 142px;
+  min-width: 92px;
+  position: fixed;
+  top: 93px;
+  z-index: 3;
+}
+
+.mono-api-screen-6 .overlap-group {
+  height: 92px;
+  position: relative;
+  width: 92px;
+}
+
+.mono-api-screen-6 .ellipse-34 {
+  background-color: var(--white);
+  border-radius: 37.66px;
+  height: 75px;
+  left: 8px;
+  position: absolute;
+  top: 9px;
+  width: 75px;
+}
+
+.mono-api-screen-6 .vuesaxlineartick-square {
+  height: 92px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 92px;
+}
+
+.mono-api-screen-6 .transaction-successful {
+  color: var(--white);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xxxl);
+  font-weight: 500;
+  letter-spacing: 0;
+  margin-top: 119px;
+  min-height: 24px;
+  text-align: center;
+  width: 283px;
+  z-index: 1;
+}
+
+.mono-api-screen-6 .click-on-the-continu {
+  color: var(--white);
+  font-family: var(--font-family-dm_sans);
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-top: 14px;
+  min-height: 24px;
+  text-align: center;
+  width: 283px;
+  z-index: 2;
+}

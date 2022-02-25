@@ -1,0 +1,447 @@
+/* screen - eur-account */
+
+.eur-account {
+  align-items: center;
+  background-color: var(--wild-sand);
+  display: flex;
+  flex-direction: column;
+  height: 910px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.eur-account .group-230 {
+  align-items: flex-end;
+  display: flex;
+  height: 168px;
+  left: -22px;
+  min-width: 402px;
+  position: fixed;
+  top: -91px;
+  z-index: 12;
+}
+
+.eur-account .overlap-group8 {
+  height: 176px;
+  margin-bottom: -7px;
+  margin-left: -4px;
+  position: relative;
+  width: 406px;
+}
+
+.eur-account .rectangle-59 {
+  background-color: var(--white);
+  height: 84px;
+  left: 21px;
+  position: absolute;
+  top: 85px;
+  width: 385px;
+}
+
+.eur-account .glassy-card {
+  height: 176px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 406px;
+}
+
+.eur-account .group-307 {
+  align-items: flex-start;
+  display: flex;
+  height: 26px;
+  left: 243px;
+  min-width: 101px;
+  position: fixed;
+  top: 37px;
+  z-index: 13;
+}
+
+.eur-account .overlap-group9 {
+  border-radius: 3px;
+  height: 26px;
+  position: relative;
+  width: 99px;
+}
+
+.eur-account .group-238 {
+  align-items: flex-start;
+  background-color: var(--regent-st-blue);
+  border-radius: 7.5px;
+  display: flex;
+  height: 15px;
+  left: 9px;
+  min-width: 15px;
+  padding: 2.0px 1.3px;
+  position: absolute;
+  top: 6px;
+}
+
+.eur-account .vuesaxlinearprofile {
+  height: 11px;
+  width: 12px;
+}
+
+.eur-account .rectangle {
+  border-radius: 3px;
+  height: 26px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.eur-account .name {
+  cursor: pointer;
+  left: 31px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 5px;
+  width: 68px;
+}
+
+.eur-account .vuesaxlineararrow-left {
+  align-self: flex-start;
+  cursor: pointer;
+  height: 21px;
+  margin-left: 32px;
+  margin-top: 95px;
+  width: 21px;
+  z-index: 10;
+}
+
+.eur-account .accounts-details {
+  letter-spacing: 0;
+  margin-top: 19px;
+  min-height: 30px;
+  width: 309px;
+  z-index: 7;
+}
+
+.eur-account .flex-row {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 1.0px;
+  margin-top: 51px;
+  min-width: 308px;
+  z-index: 9;
+}
+
+.eur-account .price {
+  letter-spacing: 0;
+  min-height: 34px;
+  width: 241px;
+}
+
+.eur-account .mask-group {
+  height: 45px;
+  margin-left: 22px;
+  width: 45px;
+}
+
+.eur-account .euro {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-right: -2px;
+  min-height: 34px;
+  width: 344px;
+  z-index: 8;
+}
+
+.eur-account .submit-button-container {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 1.0px;
+  margin-top: 18px;
+  min-width: 308px;
+  z-index: 11;
+}
+
+.eur-account .submit-button {
+  align-items: center;
+  background-color: var(--chateau-green);
+  border-radius: 3px;
+  cursor: pointer;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  min-width: 140px;
+  padding: 0 1px;
+}
+
+.eur-account .overlap-group7 {
+  height: 18px;
+  position: relative;
+  width: 125px;
+}
+
+.eur-account .vuesaxlinearadd-circle {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.eur-account .fund-account {
+  left: 4px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  width: 121px;
+}
+
+.eur-account .submit-button-1 {
+  align-items: flex-end;
+  background-color: var(--black);
+  border-radius: 3px;
+  cursor: pointer;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  margin-left: 28px;
+  min-width: 140px;
+  padding: 10.0px 1px;
+}
+
+.eur-account .overlap-group6 {
+  height: 19px;
+  position: relative;
+  width: 121px;
+}
+
+.eur-account .vuesaxlinearmoney-send {
+  height: 18px;
+  left: 8px;
+  position: absolute;
+  top: 1px;
+  width: 18px;
+}
+
+.eur-account .component-4 {
+  height: 11px;
+  left: 16px;
+  position: absolute;
+  top: 0;
+  width: 11px;
+}
+
+.eur-account .withdraw {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  width: 121px;
+}
+
+.eur-account .group-284 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 4.0px;
+  margin-top: 40px;
+  min-width: 313px;
+  z-index: 1;
+}
+
+.eur-account .overlap-group {
+  height: 51px;
+  position: relative;
+  width: 309px;
+}
+
+.eur-account .rectangle-6 {
+  background-color: var(--white);
+  border-radius: 3px;
+  height: 50px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 309px;
+}
+
+.eur-account .account-holder {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 111px;
+}
+
+.eur-account .name-1 {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+  width: 272px;
+}
+
+.eur-account .group-285 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 4.0px;
+  margin-top: 17px;
+  min-width: 313px;
+  z-index: 4;
+}
+
+.eur-account .overlap-group3 {
+  height: 66px;
+  position: relative;
+  width: 309px;
+}
+
+.eur-account .bank-name {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 111px;
+}
+
+.eur-account .bnp-paribas-fortis {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 24px;
+  width: 272px;
+}
+
+.eur-account .group-286 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 4.0px;
+  margin-top: 2px;
+  min-width: 313px;
+  z-index: 2;
+}
+
+.eur-account .swift-code {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 111px;
+}
+
+.eur-account .s-p-a-a-b-b-0-t-x-x-x {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+  width: 272px;
+}
+
+.eur-account .group-287 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 4.0px;
+  margin-top: 17px;
+  min-width: 313px;
+  z-index: 5;
+}
+
+.eur-account .overlap-group4 {
+  height: 71px;
+  position: relative;
+  width: 309px;
+}
+
+.eur-account .rectangle-65 {
+  background-color: var(--white);
+  border-radius: 3px;
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 309px;
+}
+
+.eur-account .bank-address {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 111px;
+}
+
+.eur-account .montagne-du-parc-3 {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 18px;
+  position: absolute;
+  top: 26px;
+  width: 272px;
+}
+
+.eur-account .group-288 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 4.0px;
+  margin-top: 17px;
+  min-width: 313px;
+  z-index: 3;
+}
+
+.eur-account .iban {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 111px;
+}
+
+.eur-account .sp13-0367-0328-0000-0000-12 {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+  width: 272px;
+}
+
+.eur-account .group-289 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 4.0px;
+  margin-top: 17px;
+  min-width: 313px;
+  z-index: 6;
+}
+
+.eur-account .account-type {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 111px;
+}
+
+.eur-account .savings-account {
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 15px;
+  white-space: nowrap;
+  width: 272px;
+}

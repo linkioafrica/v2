@@ -1,0 +1,71 @@
+/* screen - withdrawal-request-received */
+
+.withdrawal-request-received {
+  align-items: flex-end;
+  background-color: var(--wild-sand);
+  display: flex;
+  flex-direction: column;
+  height: 310px;
+  padding: 51px 32px;
+  width: 370px;
+}
+
+.withdrawal-request-received .overlap-group1 {
+  height: 168px;
+  position: relative;
+  width: 305px;
+}
+
+.withdrawal-request-received .withdrawal-request-received-1 {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 305px;
+}
+
+.withdrawal-request-received .overlap-group {
+  height: 128px;
+  left: 90px;
+  position: absolute;
+  top: 40px;
+  width: 128px;
+}
+
+.withdrawal-request-received .ellipse-34 {
+  background-color: var(--chateau-green);
+  border-radius: 52.4px;
+  height: 105px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 105px;
+}
+
+.withdrawal-request-received .vuesaxlineartick-square {
+  height: 128px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 128px;
+}
+
+.withdrawal-request-received .submit-button {
+  align-items: center;
+  background-color: var(--chateau-green);
+  border-radius: 3px;
+  cursor: pointer;
+  display: flex;
+  height: 40px;
+  margin-top: 20px;
+  min-width: 300px;
+  padding: 0 15px;
+}
+
+.withdrawal-request-received .title {
+  height: 16px;
+  letter-spacing: 0.11px;
+  text-align: center;
+  width: 269px;
+}

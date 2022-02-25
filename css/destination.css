@@ -1,0 +1,98 @@
+/* screen - destination */
+
+.destination {
+  align-items: flex-start;
+  display: flex;
+  height: 708px;
+  min-width: 370px;
+}
+
+#overlay-destination {
+  background-color: transparent;
+}
+
+.overlay .destination {
+  background-color: #00000000;
+}
+
+#overlay-destination .destination {
+  left: 194px;
+  top: 466px;
+}
+
+#overlay-destination .container-center-horizontal {
+  justify-content: normal;
+}
+
+.destination .destination-1 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  min-height: 208px;
+  width: 141px;
+}
+
+.destination .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 35px;
+  margin-right: 2.0px;
+  min-width: 139px;
+}
+
+.destination .mask-group-container {
+  background-image: url();
+  background-size: 100% 100%;
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.destination .mask-group {
+  height: 24px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 24px;
+}
+
+.destination .cyprus-north {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-left: 21px;
+  min-height: 16px;
+  width: 94px;
+}
+
+.destination .rectangle-1 {
+  background-color: var(--wild-sand);
+  height: 2px;
+  margin-top: 14px;
+  width: 141px;
+}
+
+.destination .place {
+  letter-spacing: 0;
+  margin-right: 2.0px;
+  margin-top: 18px;
+  min-height: 16px;
+  width: 49px;
+}
+
+.destination .rectangle {
+  background-color: var(--wild-sand);
+  height: 2px;
+  margin-top: 16px;
+  width: 141px;
+}
+
+.destination .place-1 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-right: 2px;
+  margin-top: 18px;
+  min-height: 16px;
+  width: 94px;
+}

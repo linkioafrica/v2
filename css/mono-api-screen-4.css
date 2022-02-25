@@ -1,0 +1,248 @@
+/* screen - mono-api-screen-4 */
+
+.mono-api-screen-4 {
+  align-items: flex-start;
+  background-color: #00000033;
+  display: flex;
+  height: 772px;
+  min-width: 375px;
+}
+
+#overlay-mono-api-screen-4 {
+  background-color: #00000033;
+}
+
+.overlay .mono-api-screen-4 {
+  background-color: #00000000;
+}
+
+.mono-api-screen-4 .mono-api-screen-4-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 30px;
+  display: flex;
+  height: 339px;
+  left: calc(50vw - 185.0px);
+  min-width: 370px;
+  position: relative;
+  top: calc(100vh - 339px);
+}
+
+.mono-api-screen-4 .group-container {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 277px;
+  width: 60px;
+}
+
+.mono-api-screen-4 .overlap-group4 {
+  height: 58px;
+  margin-right: 1.52px;
+  position: relative;
+  width: 58px;
+}
+
+.mono-api-screen-4 .photo1644931970-1 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.mono-api-screen-4 .mask-group {
+  height: 58px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 58px;
+}
+
+.mono-api-screen-4 .arrow {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.mono-api-screen-4 .group-432 {
+  align-items: flex-start;
+  background-color: #e04407;
+  border-radius: 19.52px;
+  display: flex;
+  height: 39px;
+  margin-top: 100px;
+  min-width: 39px;
+  padding: 9.2px 9.3px;
+}
+
+.mono-api-screen-4 .overlap-group {
+  border: 1.5px solid var(--white);
+  border-radius: 4px;
+  height: 15px;
+  position: relative;
+  width: 20px;
+}
+
+.mono-api-screen-4 .overlap-group-item {
+  height: 2px;
+  left: -2px;
+  position: absolute;
+  top: -2px;
+  width: 2px;
+}
+
+.mono-api-screen-4 .group-433 {
+  align-items: flex-end;
+  background-color: #e04407;
+  border-radius: 19.52px;
+  display: flex;
+  height: 39px;
+  justify-content: flex-end;
+  margin-top: 41px;
+  min-width: 39px;
+  padding: 9.3px 12.7px;
+}
+
+.mono-api-screen-4 .group-430 {
+  align-items: flex-end;
+  border: 1.5px solid var(--white);
+  border-radius: 2.5px;
+  display: flex;
+  height: 20px;
+  min-width: 14px;
+  padding: 4.9px 4.4px;
+}
+
+.mono-api-screen-4 .ellipse-39 {
+  background-color: var(--white);
+  border-radius: 0.85px;
+  height: 2px;
+  width: 2px;
+}
+
+.mono-api-screen-4 .overlap-group-container {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1px;
+  margin-left: 3px;
+  min-height: 320px;
+  width: 307px;
+}
+
+.mono-api-screen-4 .overlap-group3 {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  height: 113px;
+  margin-left: 22px;
+  min-width: 200px;
+  padding: 6px;
+}
+
+.mono-api-screen-4 .choose-log-in-method {
+  color: var(--black);
+  font-family: var(--font-family-dm_sans);
+  font-size: 15px;
+  font-weight: 500;
+  letter-spacing: 0;
+  min-height: 24px;
+  text-align: center;
+  width: 188px;
+}
+
+.mono-api-screen-4 .overlap-group2 {
+  height: 65px;
+  margin-top: 14px;
+  position: relative;
+  width: 307px;
+}
+
+.mono-api-screen-4 .rectangle-1372 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 65px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 277px;
+}
+
+.mono-api-screen-4 .log-in-with-internet-banking {
+  color: var(--black);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  left: 9px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 6px;
+  width: 207px;
+}
+
+.mono-api-screen-4 .click-here-to-use-th {
+  color: #797b81;
+  font-family: var(--font-family-dm_sans);
+  font-size: 11px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 26px;
+  width: 298px;
+}
+
+.mono-api-screen-4 .overlap-group1 {
+  height: 115px;
+  margin-top: 13px;
+  position: relative;
+  width: 307px;
+}
+
+.mono-api-screen-4 .rectangle-1375 {
+  background-color: var(--white);
+  height: 68px;
+  left: 202px;
+  position: absolute;
+  top: 47px;
+  width: 96px;
+}
+
+.mono-api-screen-4 .rectangle-1373 {
+  background-color: var(--white);
+  cursor: pointer;
+  height: 68px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 298px;
+}
+
+.mono-api-screen-4 .log-in-with-mobile-banking {
+  color: var(--black);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-l);
+  font-weight: 500;
+  left: 9px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 9px;
+  width: 207px;
+}
+
+.mono-api-screen-4 .click-here-to-use-th-1 {
+  color: #797b81;
+  font-family: var(--font-family-dm_sans);
+  font-size: 11px;
+  font-weight: 400;
+  left: 9px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 29px;
+  width: 298px;
+}

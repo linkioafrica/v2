@@ -1,0 +1,165 @@
+/* screen - account-being-verified */
+
+.account-being-verified {
+  align-items: center;
+  background-color: var(--wild-sand);
+  display: flex;
+  flex-direction: column;
+  height: 770px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.account-being-verified .group-230 {
+  align-items: flex-end;
+  display: flex;
+  height: 168px;
+  left: -22px;
+  min-width: 402px;
+  position: fixed;
+  top: -91px;
+  z-index: 5;
+}
+
+.account-being-verified .overlap-group {
+  height: 176px;
+  margin-bottom: -7px;
+  margin-left: -4px;
+  position: relative;
+  width: 406px;
+}
+
+.account-being-verified .rectangle-59 {
+  background-color: var(--white);
+  height: 84px;
+  left: 21px;
+  position: absolute;
+  top: 85px;
+  width: 385px;
+}
+
+.account-being-verified .glassy-card {
+  height: 176px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 406px;
+}
+
+.account-being-verified .group-309 {
+  align-items: flex-start;
+  display: flex;
+  height: 26px;
+  left: 243px;
+  min-width: 101px;
+  position: fixed;
+  top: 37px;
+  z-index: 6;
+}
+
+.account-being-verified .overlap-group1 {
+  border-radius: 3px;
+  height: 26px;
+  position: relative;
+  width: 99px;
+}
+
+.account-being-verified .group-238 {
+  align-items: flex-start;
+  background-color: var(--regent-st-blue);
+  border-radius: 7.5px;
+  display: flex;
+  height: 15px;
+  left: 9px;
+  min-width: 15px;
+  padding: 2.0px 1.3px;
+  position: absolute;
+  top: 6px;
+}
+
+.account-being-verified .vuesaxlinearprofile {
+  height: 11px;
+  width: 12px;
+}
+
+.account-being-verified .rectangle {
+  border-radius: 3px;
+  cursor: pointer;
+  height: 26px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.account-being-verified .name {
+  left: 31px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 5px;
+  width: 68px;
+}
+
+.account-being-verified .your-account-is-being-verified {
+  color: var(--black);
+  font-family: var(--font-family-circular_std-bold);
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: 0;
+  margin-top: 152px;
+  min-height: 34px;
+  text-align: center;
+  width: 309px;
+  z-index: 1;
+}
+
+.account-being-verified .input-field-8 {
+  align-items: flex-start;
+  display: flex;
+  height: 149px;
+  justify-content: center;
+  margin-right: 0.01px;
+  margin-top: 46px;
+  min-width: 149px;
+  transform: rotate(180.00deg);
+  z-index: 3;
+}
+
+.account-being-verified .ellipse-34 {
+  height: 150px;
+  margin-top: -0.5px;
+  transform: rotate(-180.00deg);
+  width: 150px;
+}
+
+.account-being-verified .youll-be-notified-o {
+  letter-spacing: 0;
+  margin-right: 1.0px;
+  margin-top: 52px;
+  min-height: 144px;
+  text-align: center;
+  width: 306px;
+  z-index: 2;
+}
+
+.account-being-verified .submit-button {
+  align-items: center;
+  background-color: var(--chateau-green);
+  border-radius: 3px;
+  cursor: pointer;
+  display: flex;
+  height: 40px;
+  left: 38px;
+  min-width: 300px;
+  padding: 0 15px;
+  position: fixed;
+  top: 537px;
+  z-index: 4;
+}
+
+.account-being-verified .title {
+  height: 16px;
+  letter-spacing: 0.11px;
+  text-align: center;
+  width: 269px;
+}

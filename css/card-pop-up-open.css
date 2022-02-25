@@ -1,0 +1,204 @@
+/* screen - card-pop-up-open */
+
+.card-pop-up-open {
+  align-items: center;
+  background-color: var(--wild-sand);
+  display: flex;
+  flex-direction: column;
+  height: 708px;
+  padding: 12.2px 31.0px;
+  width: 370px;
+}
+
+.card-pop-up-open .group-252 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  justify-content: center;
+  margin-left: 1.0px;
+  min-width: 22px;
+}
+
+.card-pop-up-open .vuesaxlineararrow-left {
+  cursor: pointer;
+  height: 22px;
+  margin-top: -0.19px;
+  width: 22px;
+}
+
+.card-pop-up-open .overlap-group4 {
+  align-self: flex-start;
+  height: 189px;
+  margin-top: 29px;
+  position: relative;
+  width: 307px;
+}
+
+.card-pop-up-open .group-238 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-50-11@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 189px;
+  left: 0;
+  min-width: 307px;
+  position: absolute;
+  top: 0;
+}
+
+.card-pop-up-open .mask-group {
+  height: 189px;
+  margin-top: -0.18px;
+  width: 307px;
+}
+
+.card-pop-up-open .price {
+  left: 33px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 106px;
+  width: 190px;
+}
+
+.card-pop-up-open .available-balance {
+  left: 33px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 87px;
+  width: 154px;
+}
+
+.card-pop-up-open .group-253 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 2.0px;
+  margin-top: 38px;
+  min-width: 302px;
+}
+
+.card-pop-up-open .overlap-group {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 3px;
+  display: flex;
+  height: 56px;
+  justify-content: flex-end;
+  min-width: 300px;
+}
+
+.card-pop-up-open .card {
+  letter-spacing: 0;
+  line-height: 23px;
+  min-height: 54px;
+  width: 289px;
+}
+
+.card-pop-up-open .group-236 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 2.0px;
+  margin-top: 26px;
+  min-width: 302px;
+}
+
+.card-pop-up-open .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  height: 57px;
+  margin-left: 2.0px;
+  margin-top: 25px;
+  min-width: 302px;
+}
+
+.card-pop-up-open .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 3px;
+  display: flex;
+  height: 56px;
+  justify-content: flex-end;
+  min-width: 144px;
+}
+
+.card-pop-up-open .expiry-date-06-25 {
+  letter-spacing: 0;
+  line-height: 23px;
+  min-height: 54px;
+  width: 133px;
+}
+
+.card-pop-up-open .overlap-group2 {
+  align-items: flex-end;
+  align-self: flex-end;
+  background-color: var(--white);
+  border-radius: 3px;
+  display: flex;
+  height: 56px;
+  margin-left: 12px;
+  min-width: 144px;
+  padding: 0 11px;
+}
+
+.card-pop-up-open .cvc-542 {
+  letter-spacing: 0;
+  line-height: 23px;
+  min-height: 54px;
+  width: 84px;
+}
+
+.card-pop-up-open .group-224 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 3px;
+  box-shadow: 0px 2px 2px #00000026;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  margin-right: 2.0px;
+  margin-top: 40px;
+  min-width: 230px;
+  padding: 0 47px;
+}
+
+.card-pop-up-open .vector {
+  height: 15px;
+  margin-bottom: 1.0px;
+  width: 21px;
+}
+
+.card-pop-up-open .hide-card-details {
+  letter-spacing: 0;
+  margin-left: 10px;
+  margin-top: 1.0px;
+  min-height: 15px;
+  width: 104px;
+}
+
+.card-pop-up-open .group-241 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 3px;
+  box-shadow: 0px 2px 2px #00000026;
+  cursor: pointer;
+  display: flex;
+  height: 40px;
+  margin-right: 2.0px;
+  margin-top: 40px;
+  min-width: 230px;
+  padding: 10.1px 54px;
+}
+
+.card-pop-up-open .vuesaxlinearlock {
+  align-self: flex-end;
+  cursor: pointer;
+  height: 19px;
+  width: 18px;
+}
+
+.card-pop-up-open .change-card-pin {
+  letter-spacing: 0;
+  margin-left: 10px;
+  margin-top: 1.0px;
+  min-height: 15px;
+  width: 94px;
+}

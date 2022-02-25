@@ -1,0 +1,177 @@
+/* screen - recipients-empty */
+
+.recipients-empty {
+  align-items: flex-start;
+  background-color: var(--wild-sand);
+  display: flex;
+  flex-direction: column;
+  height: 770px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.recipients-empty .group-230 {
+  align-items: flex-end;
+  display: flex;
+  height: 168px;
+  left: -22px;
+  min-width: 402px;
+  position: fixed;
+  top: -91px;
+  z-index: 4;
+}
+
+.recipients-empty .overlap-group1 {
+  height: 176px;
+  margin-bottom: -7px;
+  margin-left: -4px;
+  position: relative;
+  width: 406px;
+}
+
+.recipients-empty .rectangle-59 {
+  background-color: var(--white);
+  height: 84px;
+  left: 21px;
+  position: absolute;
+  top: 85px;
+  width: 385px;
+}
+
+.recipients-empty .glassy-card {
+  height: 176px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 406px;
+}
+
+.recipients-empty .group-308 {
+  cursor: pointer;
+  height: 36px;
+  left: 25px;
+  position: fixed;
+  top: 33px;
+  width: 36px;
+  z-index: 6;
+}
+
+.recipients-empty .group-309 {
+  align-items: flex-start;
+  display: flex;
+  height: 26px;
+  left: 243px;
+  min-width: 101px;
+  position: fixed;
+  top: 37px;
+  z-index: 5;
+}
+
+.recipients-empty .overlap-group2 {
+  border-radius: 3px;
+  height: 26px;
+  position: relative;
+  width: 99px;
+}
+
+.recipients-empty .group-238 {
+  align-items: flex-start;
+  background-color: var(--regent-st-blue);
+  border-radius: 7.5px;
+  display: flex;
+  height: 15px;
+  left: 9px;
+  min-width: 15px;
+  padding: 2.0px 1.3px;
+  position: absolute;
+  top: 6px;
+}
+
+.recipients-empty .vuesaxlinearprofile {
+  height: 11px;
+  width: 12px;
+}
+
+.recipients-empty .rectangle {
+  border-radius: 3px;
+  cursor: pointer;
+  height: 26px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.recipients-empty .name {
+  left: 31px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 5px;
+  width: 68px;
+}
+
+.recipients-empty .recipients {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-right: -2px;
+  margin-top: 120px;
+  min-height: 34px;
+  width: 344px;
+  z-index: 1;
+}
+
+.recipients-empty .group-293 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  margin-left: 2.0px;
+  margin-top: 33px;
+  min-width: 311px;
+  z-index: 2;
+}
+
+.recipients-empty .overlap-group {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 3px;
+  display: flex;
+  height: 77px;
+  min-width: 309px;
+  padding: 30px 0;
+}
+
+.recipients-empty .you-dont-have-any-recipients-saved {
+  letter-spacing: 0;
+  min-height: 15px;
+  text-align: center;
+  width: 309px;
+}
+
+.recipients-empty .submit-button {
+  align-items: center;
+  background-color: var(--chateau-green);
+  border-radius: 3px;
+  cursor: pointer;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  left: 91px;
+  min-width: 194px;
+  padding: 0 35px;
+  position: fixed;
+  top: 310px;
+  z-index: 3;
+}
+
+.recipients-empty .vuesaxlinearadd-circle {
+  height: 18px;
+  width: 18px;
+}
+
+.recipients-empty .title {
+  height: 15px;
+  letter-spacing: 0.11px;
+  margin-bottom: 1.0px;
+  margin-left: 12px;
+  width: 93px;
+}

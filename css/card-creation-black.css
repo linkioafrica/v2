@@ -1,0 +1,2103 @@
+/* screen - card-creation-silver */
+
+.card-creation-silver {
+  background-color: #f3f4f6;
+  height: 952px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.card-creation-silver .group-271-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  height: 188px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 206px;
+  width: 307px;
+}
+
+.card-creation-silver .rectangle-60-puZlij {
+  --z-index: 0;
+  background-color: #a4a5a6;
+  border-radius: 7px;
+  height: 307px;
+  left: 60px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -59px;
+  transform: rotate(-90.00deg);
+  width: 188px;
+}
+
+.card-creation-silver .mask-group-puZlij {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-16@2x.svg);
+  background-size: 100% 100%;
+  height: 187px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: 307px;
+}
+
+.card-creation-silver .create-card-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Bold', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 140px;
+  width: 344px;
+}
+
+.card-creation-silver .price-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 315px;
+  width: 190px;
+}
+
+.card-creation-silver .available-balance-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 296px;
+  width: 154px;
+}
+
+.card-creation-silver .group-267-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  cursor: pointer;
+  height: 52px;
+  left: 262px;
+  opacity: 1;
+  position: absolute;
+  top: 416px;
+  width: 78px;
+}
+
+.card-creation-silver .rectangle-50-AlnUsq {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-50@2x.svg);
+  background-size: 100% 100%;
+  height: 53px;
+  left: -0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 78px;
+}
+
+.card-creation-silver .mask-group-AlnUsq {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-17@2x.svg);
+  background-size: 100% 100%;
+  height: 53px;
+  left: -0px;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 78px;
+}
+
+.card-creation-silver .group-268-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  height: 52px;
+  left: 149px;
+  opacity: 1;
+  position: absolute;
+  top: 416px;
+  width: 78px;
+}
+
+.card-creation-silver .rectangle-60-ESsBue {
+  --z-index: 0;
+  background-color: #a4a5a6;
+  border-radius: 5px;
+  height: 78px;
+  left: 13px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -13px;
+  transform: rotate(-90.00deg);
+  width: 52px;
+}
+
+.card-creation-silver .mask-group-ESsBue {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-18@2x.svg);
+  background-size: 100% 100%;
+  height: 53px;
+  left: -0px;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 78px;
+}
+
+.card-creation-silver .group-229-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  cursor: pointer;
+  height: 52px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 416px;
+  width: 78px;
+}
+
+.card-creation-silver .rectangle-50-BR4z6U {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-50-1@2x.svg);
+  background-size: 100% 100%;
+  height: 53px;
+  left: -0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 78px;
+}
+
+.card-creation-silver .mask-group-BR4z6U {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-19@2x.svg);
+  background-size: 100% 100%;
+  height: 53px;
+  left: -0px;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 78px;
+}
+
+.card-creation-silver .group-246-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 32px;
+  opacity: 1;
+  position: absolute;
+  top: 111px;
+  width: 98px;
+}
+
+.card-creation-silver .go-back-10IcvK {
+  --z-index: 0;
+  background-color: transparent;
+  color: #1565d8;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  width: 72px;
+}
+
+.card-creation-silver .vuesaxlineararrow-left-10IcvK {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vuesax-linear-arrow-left-2@2x.svg);
+  background-size: 100% 100%;
+  height: 21px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 21px;
+}
+
+.card-creation-silver .confirm-pin-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  color: #696f79;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 717px;
+  width: 249px;
+}
+
+.card-creation-silver .place-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  color: #696f79;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 627px;
+  width: 249px;
+}
+
+.card-creation-silver .number-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  height: 40px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 648px;
+  width: 304px;
+}
+
+.card-creation-silver .border-08bKpM {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 304px;
+}
+
+.card-creation-silver .input-08bKpM {
+  --z-index: 1;
+  background-color: transparent;
+  border: 0;
+  color: #bdbdbd;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: 16px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 273px;
+}
+
+.card-creation-silver .input-08bKpM::placeholder {
+  color: #bdbdbd99;
+}
+
+.card-creation-silver .number-VMr6Om {
+  --z-index: 11;
+  background-color: transparent;
+  height: 40px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 738px;
+  width: 304px;
+}
+
+.card-creation-silver .border-llDXuB {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 304px;
+}
+
+.card-creation-silver .input-llDXuB {
+  --z-index: 1;
+  background-color: transparent;
+  border: 0;
+  color: #bdbdbd;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: 16px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 273px;
+}
+
+.card-creation-silver .input-llDXuB::placeholder {
+  color: #bdbdbd99;
+}
+
+.card-creation-silver .name-on-card-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  color: #696f79;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 537px;
+  width: 249px;
+}
+
+.card-creation-silver .short-text-C61RwL {
+  --z-index: 13;
+  background-color: transparent;
+  height: 40px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 558px;
+  width: 304px;
+}
+
+.card-creation-silver .border-IchWWM {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  height: 43px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 304px;
+}
+
+.card-creation-silver .input-IchWWM {
+  --z-index: 1;
+  background-color: transparent;
+  border: 0;
+  color: #bdbdbd;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  height: 16px;
+  left: 12px;
+  letter-spacing: 0.11px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 13px;
+  width: 273px;
+}
+
+.card-creation-silver .input-IchWWM::placeholder {
+  color: #bdbdbd99;
+}
+
+.card-creation-silver .group-446-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  height: 40px;
+  left: 38px;
+  opacity: 1;
+  position: fixed;
+  top: 818px;
+  width: 300px;
+}
+
+.card-creation-silver .submit-button-LD25NS {
+  --z-index: 0;
+  background-color: transparent;
+  cursor: pointer;
+  height: 40px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 300px;
+}
+
+.card-creation-silver .border-r1tfYK {
+  --z-index: 0;
+  background-color: #30ae4d;
+  border-radius: 3px;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 300px;
+}
+
+.card-creation-silver .title-r1tfYK {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: 16px;
+  left: 15px;
+  letter-spacing: 0.11px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 269px;
+}
+
+.card-creation-silver .vuesaxlineartick-square-LD25NS {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vuesax-linear-tick-square-1@2x.svg);
+  background-size: 100% 100%;
+  height: 18px;
+  left: 90px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 11px;
+  width: 18px;
+}
+
+.card-creation-silver .group-230-C61RwL {
+  --z-index: 15;
+  background-color: transparent;
+  height: 138px;
+  left: -5px;
+  opacity: 1;
+  position: fixed;
+  top: -61px;
+  width: 385px;
+}
+
+.card-creation-silver .rectangle-59-PdN6Mn {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 138px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 385px;
+}
+
+.card-creation-silver .group-174-PdN6Mn {
+  --z-index: 1;
+  background-color: transparent;
+  height: 84px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 54px;
+  width: 385px;
+}
+
+.card-creation-silver .rectangle-59-q4ckQy {
+  --z-index: 0;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 4px #0000000d;
+  height: 84px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 385px;
+}
+
+.card-creation-silver .group-309-C61RwL {
+  --z-index: 16;
+  background-color: transparent;
+  height: 26px;
+  left: 243px;
+  opacity: 1;
+  position: fixed;
+  top: 37px;
+  width: 101px;
+}
+
+.card-creation-silver .group-238-gJGBzK {
+  --z-index: 0;
+  background-color: transparent;
+  height: 15px;
+  left: 9px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 15px;
+}
+
+.card-creation-silver .ellipse-33-uBMkqA {
+  --z-index: 0;
+  background-color: #a3d3e3;
+  border-radius: 7.5px;
+  height: 15px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.card-creation-silver .vuesaxlinearprofile-uBMkqA {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vuesax-linear-profile@2x.svg);
+  background-size: 100% 100%;
+  height: 11px;
+  left: 1px;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}
+
+.card-creation-silver .rectangle-gJGBzK {
+  --z-index: 1;
+  background-color: transparent;
+  border: 1px solid #c6c6c6;
+  border-radius: 3px;
+  cursor: pointer;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 99px;
+}
+
+.card-creation-silver .name-gJGBzK {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 68px;
+}
+
+.card-creation-silver .group-198-C61RwL {
+  --z-index: 17;
+  background-color: transparent;
+  background-image: url(../img/group-198@1x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 36px;
+  left: 25px;
+  opacity: 1;
+  position: fixed;
+  top: 33px;
+  width: 36px;
+}
+/* screen - card-creation-blue-1 */
+
+.card-creation-blue-1 {
+  background-color: #f3f4f6;
+  height: 952px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.card-creation-blue-1 .group-236-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  height: 189px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 207px;
+  width: 307px;
+}
+
+.card-creation-blue-1 .rectangle-50-1W1u5Q {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-50-6@2x.svg);
+  background-size: 100% 100%;
+  height: 189px;
+  left: -0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  width: 307px;
+}
+
+.card-creation-blue-1 .mask-group-1W1u5Q {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-29@2x.svg);
+  background-size: 100% 100%;
+  height: 189px;
+  left: -0px;
+  opacity: 1;
+  position: absolute;
+  top: -0px;
+  width: 307px;
+}
+
+.card-creation-blue-1 .create-card-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Bold', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 140px;
+  width: 344px;
+}
+
+.card-creation-blue-1 .price-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 315px;
+  width: 190px;
+}
+
+.card-creation-blue-1 .available-balance-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 296px;
+  width: 154px;
+}
+
+.card-creation-blue-1 .group-267-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  height: 52px;
+  left: 262px;
+  opacity: 1;
+  position: absolute;
+  top: 416px;
+  width: 78px;
+}
+
+.card-creation-blue-1 .rectangle-50-AlnUsq {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-50-7@2x.svg);
+  background-size: 100% 100%;
+  height: 53px;
+  left: -0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 78px;
+}
+
+.card-creation-blue-1 .mask-group-AlnUsq {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-30@2x.svg);
+  background-size: 100% 100%;
+  height: 53px;
+  left: -0px;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 78px;
+}
+
+.card-creation-blue-1 .group-268-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  cursor: pointer;
+  height: 52px;
+  left: 149px;
+  opacity: 1;
+  position: absolute;
+  top: 416px;
+  width: 78px;
+}
+
+.card-creation-blue-1 .rectangle-60-ESsBue {
+  --z-index: 0;
+  background-color: #a4a5a6;
+  border-radius: 5px;
+  height: 78px;
+  left: 13px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -13px;
+  transform: rotate(-90.00deg);
+  width: 52px;
+}
+
+.card-creation-blue-1 .mask-group-ESsBue {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-31@2x.svg);
+  background-size: 100% 100%;
+  height: 53px;
+  left: -0px;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 78px;
+}
+
+.card-creation-blue-1 .group-229-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  cursor: pointer;
+  height: 52px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 416px;
+  width: 78px;
+}
+
+.card-creation-blue-1 .rectangle-50-BR4z6U {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-50-8@2x.svg);
+  background-size: 100% 100%;
+  height: 53px;
+  left: -0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 78px;
+}
+
+.card-creation-blue-1 .mask-group-BR4z6U {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-32@2x.svg);
+  background-size: 100% 100%;
+  height: 53px;
+  left: -0px;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 78px;
+}
+
+.card-creation-blue-1 .group-246-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 32px;
+  opacity: 1;
+  position: absolute;
+  top: 111px;
+  width: 98px;
+}
+
+.card-creation-blue-1 .go-back-10IcvK {
+  --z-index: 0;
+  background-color: transparent;
+  color: #1565d8;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  width: 72px;
+}
+
+.card-creation-blue-1 .vuesaxlineararrow-left-10IcvK {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vuesax-linear-arrow-left-2@2x.svg);
+  background-size: 100% 100%;
+  height: 21px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 21px;
+}
+
+.card-creation-blue-1 .name-on-card-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  color: #696f79;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 537px;
+  width: 249px;
+}
+
+.card-creation-blue-1 .confirm-pin-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  color: #696f79;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 717px;
+  width: 249px;
+}
+
+.card-creation-blue-1 .place-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  color: #696f79;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 627px;
+  width: 249px;
+}
+
+.card-creation-blue-1 .number-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  height: 40px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 648px;
+  width: 304px;
+}
+
+.card-creation-blue-1 .border-08bKpM {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 304px;
+}
+
+.card-creation-blue-1 .input-08bKpM {
+  --z-index: 1;
+  background-color: transparent;
+  border: 0;
+  color: #bdbdbd;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: 16px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 273px;
+}
+
+.card-creation-blue-1 .input-08bKpM::placeholder {
+  color: #bdbdbd99;
+}
+
+.card-creation-blue-1 .number-VMr6Om {
+  --z-index: 12;
+  background-color: transparent;
+  height: 40px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 738px;
+  width: 304px;
+}
+
+.card-creation-blue-1 .border-llDXuB {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 304px;
+}
+
+.card-creation-blue-1 .input-llDXuB {
+  --z-index: 1;
+  background-color: transparent;
+  border: 0;
+  color: #bdbdbd;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: 16px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 273px;
+}
+
+.card-creation-blue-1 .input-llDXuB::placeholder {
+  color: #bdbdbd99;
+}
+
+.card-creation-blue-1 .short-text-C61RwL {
+  --z-index: 13;
+  background-color: transparent;
+  height: 40px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 558px;
+  width: 304px;
+}
+
+.card-creation-blue-1 .border-IchWWM {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  height: 43px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 304px;
+}
+
+.card-creation-blue-1 .input-IchWWM {
+  --z-index: 1;
+  background-color: transparent;
+  border: 0;
+  color: #bdbdbd;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  height: 16px;
+  left: 12px;
+  letter-spacing: 0.11px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 13px;
+  width: 273px;
+}
+
+.card-creation-blue-1 .input-IchWWM::placeholder {
+  color: #bdbdbd99;
+}
+
+.card-creation-blue-1 .group-446-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  height: 40px;
+  left: 38px;
+  opacity: 1;
+  position: fixed;
+  top: 818px;
+  width: 300px;
+}
+
+.card-creation-blue-1 .submit-button-LD25NS {
+  --z-index: 0;
+  background-color: transparent;
+  cursor: pointer;
+  height: 40px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 300px;
+}
+
+.card-creation-blue-1 .border-r1tfYK {
+  --z-index: 0;
+  background-color: #30ae4d;
+  border-radius: 3px;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 300px;
+}
+
+.card-creation-blue-1 .title-r1tfYK {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: 16px;
+  left: 15px;
+  letter-spacing: 0.11px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 269px;
+}
+
+.card-creation-blue-1 .vuesaxlineartick-square-LD25NS {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vuesax-linear-tick-square-1@2x.svg);
+  background-size: 100% 100%;
+  height: 18px;
+  left: 90px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 11px;
+  width: 18px;
+}
+
+.card-creation-blue-1 .group-230-C61RwL {
+  --z-index: 15;
+  background-color: transparent;
+  height: 138px;
+  left: -5px;
+  opacity: 1;
+  position: fixed;
+  top: -61px;
+  width: 385px;
+}
+
+.card-creation-blue-1 .rectangle-59-PdN6Mn {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 138px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 385px;
+}
+
+.card-creation-blue-1 .group-174-PdN6Mn {
+  --z-index: 1;
+  background-color: transparent;
+  height: 84px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 54px;
+  width: 385px;
+}
+
+.card-creation-blue-1 .rectangle-59-q4ckQy {
+  --z-index: 0;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 4px #0000000d;
+  height: 84px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 385px;
+}
+
+.card-creation-blue-1 .group-309-C61RwL {
+  --z-index: 16;
+  background-color: transparent;
+  height: 26px;
+  left: 243px;
+  opacity: 1;
+  position: fixed;
+  top: 37px;
+  width: 101px;
+}
+
+.card-creation-blue-1 .group-238-gJGBzK {
+  --z-index: 0;
+  background-color: transparent;
+  height: 15px;
+  left: 9px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 15px;
+}
+
+.card-creation-blue-1 .ellipse-33-uBMkqA {
+  --z-index: 0;
+  background-color: #a3d3e3;
+  border-radius: 7.5px;
+  height: 15px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.card-creation-blue-1 .vuesaxlinearprofile-uBMkqA {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vuesax-linear-profile@2x.svg);
+  background-size: 100% 100%;
+  height: 11px;
+  left: 1px;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}
+
+.card-creation-blue-1 .rectangle-gJGBzK {
+  --z-index: 1;
+  background-color: transparent;
+  border: 1px solid #c6c6c6;
+  border-radius: 3px;
+  cursor: pointer;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 99px;
+}
+
+.card-creation-blue-1 .name-gJGBzK {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 68px;
+}
+
+.card-creation-blue-1 .group-198-C61RwL {
+  --z-index: 17;
+  background-color: transparent;
+  background-image: url(../img/group-198@1x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 36px;
+  left: 25px;
+  opacity: 1;
+  position: fixed;
+  top: 33px;
+  width: 36px;
+}
+/* screen - card-creation-black */
+
+.card-creation-black {
+  background-color: #f3f4f6;
+  height: 952px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.card-creation-black .group-272-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  height: 189px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 205px;
+  width: 307px;
+}
+
+.card-creation-black .rectangle-50-VBylhg {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-50-2@2x.svg);
+  background-size: 100% 100%;
+  height: 189px;
+  left: -0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 307px;
+}
+
+.card-creation-black .mask-group-VBylhg {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-20@2x.svg);
+  background-size: 100% 100%;
+  height: 189px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 307px;
+}
+
+.card-creation-black .create-card-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Bold', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 140px;
+  width: 344px;
+}
+
+.card-creation-black .price-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 315px;
+  width: 190px;
+}
+
+.card-creation-black .available-balance-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 66px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 296px;
+  width: 154px;
+}
+
+.card-creation-black .group-267-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  cursor: pointer;
+  height: 52px;
+  left: 262px;
+  opacity: 1;
+  position: absolute;
+  top: 416px;
+  width: 78px;
+}
+
+.card-creation-black .rectangle-50-AlnUsq {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-50-3@2x.svg);
+  background-size: 100% 100%;
+  height: 53px;
+  left: -0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 78px;
+}
+
+.card-creation-black .mask-group-AlnUsq {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-21@2x.svg);
+  background-size: 100% 100%;
+  height: 53px;
+  left: -0px;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 78px;
+}
+
+.card-creation-black .group-268-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  cursor: pointer;
+  height: 52px;
+  left: 149px;
+  opacity: 1;
+  position: absolute;
+  top: 416px;
+  width: 78px;
+}
+
+.card-creation-black .rectangle-60-ESsBue {
+  --z-index: 0;
+  background-color: #a4a5a6;
+  border-radius: 5px;
+  height: 78px;
+  left: 13px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -13px;
+  transform: rotate(-90.00deg);
+  width: 52px;
+}
+
+.card-creation-black .mask-group-ESsBue {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-22@2x.svg);
+  background-size: 100% 100%;
+  height: 53px;
+  left: -0px;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 78px;
+}
+
+.card-creation-black .group-229-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  height: 52px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 416px;
+  width: 78px;
+}
+
+.card-creation-black .rectangle-50-BR4z6U {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/rectangle-50-4@2x.svg);
+  background-size: 100% 100%;
+  height: 53px;
+  left: -0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 78px;
+}
+
+.card-creation-black .mask-group-BR4z6U {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mask-group-23@2x.svg);
+  background-size: 100% 100%;
+  height: 53px;
+  left: -0px;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 78px;
+}
+
+.card-creation-black .confirm-pin-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  color: #696f79;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 717px;
+  width: 249px;
+}
+
+.card-creation-black .place-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  color: #696f79;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 627px;
+  width: 249px;
+}
+
+.card-creation-black .group-246-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  cursor: pointer;
+  height: 21px;
+  left: 32px;
+  opacity: 1;
+  position: absolute;
+  top: 111px;
+  width: 98px;
+}
+
+.card-creation-black .go-back-10IcvK {
+  --z-index: 0;
+  background-color: transparent;
+  color: #1565d8;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  width: 72px;
+}
+
+.card-creation-black .vuesaxlineararrow-left-10IcvK {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vuesax-linear-arrow-left-2@2x.svg);
+  background-size: 100% 100%;
+  height: 21px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 21px;
+}
+
+.card-creation-black .number-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  height: 40px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 648px;
+  width: 304px;
+}
+
+.card-creation-black .border-08bKpM {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 304px;
+}
+
+.card-creation-black .input-08bKpM {
+  --z-index: 1;
+  background-color: transparent;
+  border: 0;
+  color: #bdbdbd;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: 16px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 273px;
+}
+
+.card-creation-black .input-08bKpM::placeholder {
+  color: #bdbdbd99;
+}
+
+.card-creation-black .number-VMr6Om {
+  --z-index: 11;
+  background-color: transparent;
+  height: 40px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 738px;
+  width: 304px;
+}
+
+.card-creation-black .border-llDXuB {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 304px;
+}
+
+.card-creation-black .input-llDXuB {
+  --z-index: 1;
+  background-color: transparent;
+  border: 0;
+  color: #bdbdbd;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  height: 16px;
+  left: 11px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 3px;
+  white-space: nowrap;
+  width: 273px;
+}
+
+.card-creation-black .input-llDXuB::placeholder {
+  color: #bdbdbd99;
+}
+
+.card-creation-black .name-on-card-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  color: #696f79;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 537px;
+  width: 249px;
+}
+
+.card-creation-black .short-text-C61RwL {
+  --z-index: 13;
+  background-color: transparent;
+  height: 40px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 558px;
+  width: 304px;
+}
+
+.card-creation-black .border-IchWWM {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  height: 43px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 304px;
+}
+
+.card-creation-black .input-IchWWM {
+  --z-index: 1;
+  background-color: transparent;
+  border: 0;
+  color: #bdbdbd;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  height: 16px;
+  left: 12px;
+  letter-spacing: 0.11px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 13px;
+  width: 273px;
+}
+
+.card-creation-black .input-IchWWM::placeholder {
+  color: #bdbdbd99;
+}
+
+.card-creation-black .group-446-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  height: 40px;
+  left: 38px;
+  opacity: 1;
+  position: fixed;
+  top: 818px;
+  width: 300px;
+}
+
+.card-creation-black .submit-button-LD25NS {
+  --z-index: 0;
+  background-color: transparent;
+  cursor: pointer;
+  height: 40px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 300px;
+}
+
+.card-creation-black .border-r1tfYK {
+  --z-index: 0;
+  background-color: #30ae4d;
+  border-radius: 3px;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 300px;
+}
+
+.card-creation-black .title-r1tfYK {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: 16px;
+  left: 15px;
+  letter-spacing: 0.11px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 269px;
+}
+
+.card-creation-black .vuesaxlineartick-square-LD25NS {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vuesax-linear-tick-square-1@2x.svg);
+  background-size: 100% 100%;
+  height: 18px;
+  left: 90px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 11px;
+  width: 18px;
+}
+
+.card-creation-black .group-230-C61RwL {
+  --z-index: 15;
+  background-color: transparent;
+  height: 138px;
+  left: -5px;
+  opacity: 1;
+  position: fixed;
+  top: -61px;
+  width: 385px;
+}
+
+.card-creation-black .rectangle-59-PdN6Mn {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 138px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 385px;
+}
+
+.card-creation-black .group-174-PdN6Mn {
+  --z-index: 1;
+  background-color: transparent;
+  height: 84px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 54px;
+  width: 385px;
+}
+
+.card-creation-black .rectangle-59-q4ckQy {
+  --z-index: 0;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 4px #0000000d;
+  height: 84px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: relative;
+  top: 0px;
+  width: 385px;
+}
+
+.card-creation-black .group-309-C61RwL {
+  --z-index: 16;
+  background-color: transparent;
+  height: 26px;
+  left: 243px;
+  opacity: 1;
+  position: fixed;
+  top: 37px;
+  width: 101px;
+}
+
+.card-creation-black .group-238-gJGBzK {
+  --z-index: 0;
+  background-color: transparent;
+  height: 15px;
+  left: 9px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 15px;
+}
+
+.card-creation-black .ellipse-33-uBMkqA {
+  --z-index: 0;
+  background-color: #a3d3e3;
+  border-radius: 7.5px;
+  height: 15px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.card-creation-black .vuesaxlinearprofile-uBMkqA {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vuesax-linear-profile@2x.svg);
+  background-size: 100% 100%;
+  height: 11px;
+  left: 1px;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}
+
+.card-creation-black .rectangle-gJGBzK {
+  --z-index: 1;
+  background-color: transparent;
+  border: 1px solid #c6c6c6;
+  border-radius: 3px;
+  cursor: pointer;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 99px;
+}
+
+.card-creation-black .name-gJGBzK {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 68px;
+}
+
+.card-creation-black .group-198-C61RwL {
+  --z-index: 17;
+  background-color: transparent;
+  background-image: url(../img/group-198@1x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 36px;
+  left: 25px;
+  opacity: 1;
+  position: fixed;
+  top: 33px;
+  width: 36px;
+}

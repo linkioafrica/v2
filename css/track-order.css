@@ -1,0 +1,330 @@
+/* screen - track-order */
+
+.track-order {
+  align-items: center;
+  background-color: var(--wild-sand);
+  display: flex;
+  flex-direction: column;
+  height: 770px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.track-order .group-230 {
+  align-items: flex-end;
+  display: flex;
+  height: 168px;
+  left: -22px;
+  min-width: 402px;
+  position: fixed;
+  top: -91px;
+  z-index: 5;
+}
+
+.track-order .overlap-group1 {
+  height: 176px;
+  margin-bottom: -7px;
+  margin-left: -4px;
+  position: relative;
+  width: 406px;
+}
+
+.track-order .rectangle-59 {
+  background-color: var(--white);
+  height: 84px;
+  left: 21px;
+  position: absolute;
+  top: 85px;
+  width: 385px;
+}
+
+.track-order .glassy-card {
+  height: 176px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 406px;
+}
+
+.track-order .group-307 {
+  align-items: flex-start;
+  display: flex;
+  height: 26px;
+  left: 243px;
+  min-width: 101px;
+  position: fixed;
+  top: 37px;
+  z-index: 6;
+}
+
+.track-order .overlap-group2 {
+  border-radius: 3px;
+  height: 26px;
+  position: relative;
+  width: 99px;
+}
+
+.track-order .group-238 {
+  align-items: flex-start;
+  background-color: var(--regent-st-blue);
+  border-radius: 7.5px;
+  display: flex;
+  height: 15px;
+  left: 9px;
+  min-width: 15px;
+  padding: 2.0px 1.3px;
+  position: absolute;
+  top: 6px;
+}
+
+.track-order .vuesaxlinearprofile {
+  height: 11px;
+  width: 12px;
+}
+
+.track-order .rectangle {
+  border-radius: 3px;
+  height: 26px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.track-order .name {
+  cursor: pointer;
+  left: 31px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 5px;
+  width: 68px;
+}
+
+.track-order .group-308 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 21px;
+  left: 32px;
+  min-width: 98px;
+  position: fixed;
+  top: 102px;
+  z-index: 4;
+}
+
+.track-order .vuesaxlineararrow-left {
+  height: 21px;
+  width: 21px;
+}
+
+.track-order .go-back {
+  letter-spacing: 0;
+  margin-left: 3px;
+  margin-top: 2px;
+  min-height: 13px;
+  width: 72px;
+}
+
+.track-order .track-your-order {
+  letter-spacing: 0;
+  margin-top: 135px;
+  min-height: 30px;
+  width: 309px;
+  z-index: 2;
+}
+
+.track-order .group-container {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 41px;
+  min-height: 100px;
+  padding: 13px 5px;
+  width: 309px;
+  z-index: 1;
+}
+
+.track-order .group-239 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  min-width: 291px;
+}
+
+.track-order .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 24px;
+  width: 127px;
+}
+
+.track-order .recipient {
+  letter-spacing: 0;
+  min-height: 10px;
+  width: 102px;
+}
+
+.track-order .name-1 {
+  letter-spacing: 0;
+  margin-top: 4px;
+  min-height: 10px;
+  width: 127px;
+}
+
+.track-order .flex-col-1 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 54px;
+  min-height: 24px;
+  width: 102px;
+}
+
+.track-order .amount-sent {
+  letter-spacing: 0;
+  margin-right: 0;
+  min-height: 10px;
+  text-align: right;
+  width: 96px;
+}
+
+.track-order .price {
+  letter-spacing: 0;
+  margin-top: 4px;
+  min-height: 10px;
+  text-align: right;
+  width: 102px;
+}
+
+.track-order .group-247 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  margin-top: 21px;
+  min-width: 291px;
+}
+
+.track-order .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 24px;
+  width: 102px;
+}
+
+.track-order .reference-code {
+  letter-spacing: 0;
+  min-height: 10px;
+  width: 102px;
+}
+
+.track-order .price-1 {
+  letter-spacing: 0;
+  margin-top: 4px;
+  min-height: 10px;
+  width: 102px;
+}
+
+.track-order .flex-col-3 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 70px;
+  min-height: 24px;
+  width: 112px;
+}
+
+.track-order .amount-to-recieve {
+  letter-spacing: 0;
+  margin-right: 0;
+  min-height: 10px;
+  text-align: right;
+  width: 112px;
+}
+
+.track-order .group-291 {
+  align-items: flex-start;
+  display: flex;
+  height: 343px;
+  margin-left: 11.0px;
+  margin-top: 44px;
+  min-width: 220px;
+  z-index: 3;
+}
+
+.track-order .vector-container {
+  align-items: flex-start;
+  background-image: url(../img/group-138@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 3.57px;
+  min-height: 314px;
+  padding: 0.4px 0;
+  width: 14px;
+}
+
+.track-order .vector {
+  height: 14px;
+  width: 14px;
+}
+
+.track-order .vector-1 {
+  height: 14px;
+  margin-top: 50px;
+  width: 14px;
+}
+
+.track-order .flex-col-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 24px;
+  min-height: 343px;
+  width: 172px;
+}
+
+.track-order .you-set-up-your-transfer {
+  color: var(--chateau-green);
+  font-family: var(--font-family-circular_std-medium);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  letter-spacing: 0;
+  min-height: 45px;
+  width: 172px;
+}
+
+.track-order .we-recieved-your-ngn {
+  color: var(--chateau-green);
+  font-family: var(--font-family-circular_std-medium);
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  letter-spacing: 0;
+  margin-top: 19px;
+  min-height: 45px;
+  width: 172px;
+}
+
+.track-order .payment-being-processed {
+  letter-spacing: 0;
+  margin-top: 33px;
+  min-height: 45px;
+  width: 172px;
+}
+
+.track-order .usd-payout {
+  letter-spacing: 0;
+  margin-top: 36px;
+  min-height: 43px;
+  width: 172px;
+}
+
+.track-order .delivered {
+  letter-spacing: 0;
+  margin-top: 33px;
+  min-height: 44px;
+  width: 172px;
+}

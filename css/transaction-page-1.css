@@ -1,0 +1,364 @@
+/* screen - transaction-page-1 */
+
+.transaction-page-1 {
+  align-items: center;
+  background-color: var(--wild-sand);
+  display: flex;
+  flex-direction: column;
+  height: 708px;
+  padding: 12.2px 11px;
+  width: 370px;
+}
+
+.transaction-page-1 .flex-row {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  height: 22px;
+  justify-content: flex-end;
+  margin-left: 21px;
+  min-width: 193px;
+  padding: 7.0px 0;
+}
+
+.transaction-page-1 .vuesaxlineararrow-left {
+  align-self: center;
+  height: 1px;
+  margin-top: 0.5px;
+  width: 1px;
+}
+
+.transaction-page-1 .group-197 {
+  align-items: flex-end;
+  display: flex;
+  margin-left: 100px;
+  min-width: 81px;
+}
+
+.transaction-page-1 .ellipse-26 {
+  background-color: var(--navy-blue);
+  border-radius: 3.24px;
+  height: 6px;
+  width: 6px;
+}
+
+.transaction-page-1 .ellipse {
+  background-color: var(--quick-silver);
+  border-radius: 3.24px;
+  height: 6px;
+  margin-bottom: 0;
+  margin-left: 18px;
+  width: 6px;
+}
+
+.transaction-page-1 .receivers-bank-information {
+  letter-spacing: 0;
+  margin-left: 1.0px;
+  margin-top: 44px;
+  min-height: 40px;
+  text-align: center;
+  width: 305px;
+}
+
+.transaction-page-1 .group-259 {
+  align-items: flex-start;
+  display: flex;
+  height: 59px;
+  margin-left: 5.0px;
+  margin-top: 10px;
+  min-width: 311px;
+  padding: 0 1px;
+}
+
+.transaction-page-1 .flex-col {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 49px;
+  width: 249px;
+}
+
+.transaction-page-1 .bank-name {
+  letter-spacing: 0;
+  min-height: 17px;
+  width: 249px;
+}
+
+.transaction-page-1 .overlap-group1 {
+  height: 17px;
+  margin-top: 15px;
+  position: relative;
+  width: 237px;
+}
+
+.transaction-page-1 .vector {
+  height: 1px;
+  left: 140px;
+  position: absolute;
+  top: 8px;
+  width: 1px;
+}
+
+.transaction-page-1 .enter-bank-name {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  left: 0;
+  letter-spacing: 0;
+  padding: 0;
+  position: absolute;
+  top: 0;
+  width: 237px;
+}
+
+.transaction-page-1 .enter-bank-name::placeholder {
+  color: #c4c4c499;
+}
+
+.transaction-page-1 .vector-container {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 40px;
+  margin-top: 17.5px;
+  min-height: 3px;
+  width: 1px;
+}
+
+.transaction-page-1 .vector-1 {
+  height: 1px;
+  margin-left: 0;
+  width: 1px;
+}
+
+.transaction-page-1 .vector-2 {
+  height: 1px;
+  margin-top: 1px;
+  width: 1px;
+}
+
+.transaction-page-1 .group-260 {
+  align-items: flex-start;
+  align-self: flex-start;
+  display: flex;
+  height: 17px;
+  margin-left: 22px;
+  margin-top: 31px;
+  min-width: 251px;
+}
+
+.transaction-page-1 .full-name-of-account-holder {
+  letter-spacing: 0;
+  min-height: 17px;
+  width: 249px;
+}
+
+.transaction-page-1 .input-field-3 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 44px;
+  margin-top: 4px;
+  min-width: 327px;
+}
+
+.transaction-page-1 .overlap-group6 {
+  height: 42px;
+  position: relative;
+  width: 309px;
+}
+
+.transaction-page-1 .box {
+  background-color: var(--white);
+  border-radius: 4px;
+  height: 38px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 309px;
+}
+
+.transaction-page-1 .key-field {
+  left: 16px;
+  letter-spacing: 0;
+  opacity: 0.8;
+  position: absolute;
+  top: 12px;
+  width: 250px;
+}
+
+.transaction-page-1 .group-261 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 5.0px;
+  margin-top: 25px;
+  min-height: 59px;
+  padding: 0 1px;
+  width: 311px;
+}
+
+.transaction-page-1 .iban {
+  letter-spacing: 0;
+  min-height: 17px;
+  width: 249px;
+}
+
+.transaction-page-1 .overlap-group {
+  height: 17px;
+  margin-left: 12px;
+  margin-top: 15px;
+  position: relative;
+  width: 237px;
+}
+
+.transaction-page-1 .tr330006006503786767647326 {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  left: 0;
+  letter-spacing: 0;
+  padding: 0;
+  position: absolute;
+  top: 0;
+  width: 237px;
+}
+
+.transaction-page-1 .tr330006006503786767647326::placeholder {
+  color: #8692a64c;
+}
+
+.transaction-page-1 .group-container {
+  height: 61px;
+  margin-left: 5.0px;
+  margin-top: 29px;
+  position: relative;
+  width: 311px;
+}
+
+.transaction-page-1 .group-262 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 59px;
+  padding: 0 1px;
+  position: absolute;
+  top: 2px;
+  width: 311px;
+}
+
+.transaction-page-1 .swift-code {
+  letter-spacing: 0;
+  min-height: 17px;
+  width: 249px;
+}
+
+.transaction-page-1 .isbktrisxxx {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  left: 0;
+  letter-spacing: 0;
+  padding: 0;
+  position: absolute;
+  top: 0;
+  width: 237px;
+}
+
+.transaction-page-1 .isbktrisxxx::placeholder {
+  color: #8692a64c;
+}
+
+.transaction-page-1 .overlap-group5 {
+  height: 17px;
+  left: 95px;
+  position: absolute;
+  top: 2px;
+  width: 51px;
+}
+
+.transaction-page-1 .vector-3 {
+  height: 1px;
+  left: 26px;
+  position: absolute;
+  top: 7px;
+  width: 1px;
+}
+
+.transaction-page-1 .check {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 51px;
+}
+
+.transaction-page-1 .note-the-bank-accou {
+  letter-spacing: 0;
+  margin-top: 16px;
+  min-height: 41px;
+  text-align: center;
+  width: 308px;
+}
+
+.transaction-page-1 .group-224 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 2.0px;
+  margin-top: 10px;
+  min-width: 166px;
+}
+
+.transaction-page-1 .overlap-group4 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 3px;
+  box-shadow: 0px 1px 2px #00000026;
+  display: flex;
+  height: 31px;
+  justify-content: flex-end;
+  min-width: 164px;
+  padding: 7px 0;
+}
+
+.transaction-page-1 .vuesaxlinearuser-add {
+  height: 1px;
+  margin-bottom: 0.5px;
+  width: 1px;
+}
+
+.transaction-page-1 .add-to-recipients {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-left: 22px;
+  min-height: 15px;
+  width: 116px;
+}
+
+.transaction-page-1 .group-189 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 2.0px;
+  margin-top: 29px;
+  min-width: 142px;
+}
+
+.transaction-page-1 .overlap-group-1 {
+  align-items: flex-start;
+  background-color: var(--chateau-green);
+  border-radius: 3px;
+  display: flex;
+  height: 40px;
+  min-width: 140px;
+  padding: 12px 20px;
+}
+
+.transaction-page-1 .continue {
+  letter-spacing: 0;
+  min-height: 15px;
+  text-align: center;
+  width: 100px;
+}

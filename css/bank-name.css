@@ -1,0 +1,94 @@
+/* screen - bank-name */
+
+.bank-name {
+  align-items: flex-start;
+  display: flex;
+  height: 772px;
+  min-width: 375px;
+}
+
+#overlay-bank-name {
+  background-color: transparent;
+}
+
+.overlay .bank-name {
+  background-color: #00000000;
+}
+
+#overlay-bank-name .bank-name {
+  left: 102px;
+  top: 439px;
+}
+
+#overlay-bank-name .container-center-horizontal {
+  justify-content: normal;
+}
+
+.bank-name .bank-name-1 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  min-height: 208px;
+  padding: 19px 0;
+  width: 237px;
+}
+
+.bank-name .akbank-tas {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -4px;
+  margin-left: 4.0px;
+  min-height: 16px;
+  white-space: nowrap;
+  width: 189px;
+}
+
+.bank-name .rectangle {
+  background-color: var(--wild-sand);
+  height: 2px;
+  margin-top: 14px;
+  width: 237px;
+}
+
+.bank-name .turkiye {
+  letter-spacing: 0;
+  line-height: 20px;
+  margin-bottom: -4px;
+  margin-left: 4.0px;
+  margin-top: 18px;
+  min-height: 16px;
+  white-space: nowrap;
+  width: 189px;
+}
+
+.bank-name .rectangle-1 {
+  background-color: var(--wild-sand);
+  height: 2px;
+  margin-top: 16px;
+  width: 237px;
+}
+
+.bank-name .overlap-group {
+  align-items: flex-end;
+  background-color: var(--white);
+  display: flex;
+  height: 50px;
+  min-width: 237px;
+  padding: 16px 26px;
+}
+
+.bank-name .turkiye-is-bankasi-as {
+  letter-spacing: 0;
+  line-height: 20px;
+  min-height: 16px;
+  white-space: nowrap;
+  width: 172px;
+}
+
+.bank-name .rectangle-2 {
+  background-color: var(--wild-sand);
+  height: 2px;
+  width: 237px;
+}

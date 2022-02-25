@@ -1,0 +1,129 @@
+/* screen - mono-api-screen-2 */
+
+.mono-api-screen-2 {
+  align-items: center;
+  background-image: url(../img/mono-api-screen-2@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  height: 772px;
+  overflow: hidden;
+  padding: 22px 0;
+  width: 370px;
+}
+
+.mono-api-screen-2 .overlap-group1 {
+  height: 43px;
+  margin-right: 0.19px;
+  position: relative;
+  width: 306px;
+}
+
+.mono-api-screen-2 .pay-with {
+  left: 1px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 3px;
+  width: 305px;
+}
+
+.mono-api-screen-2 .vuesaxlineararrow-left {
+  cursor: pointer;
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 22px;
+}
+
+.mono-api-screen-2 .search-container {
+  align-items: center;
+  background-image: url(../img/rectangle-1354@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 44px;
+  margin-left: 1.0px;
+  margin-top: 5px;
+  min-width: 337px;
+  padding: 5px 16px;
+}
+
+.mono-api-screen-2 .vuesaxlinearsearch-normal {
+  height: 20px;
+  width: 20px;
+}
+
+.mono-api-screen-2 .search-for-your-bank {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-left: 17px;
+  min-height: 24px;
+  width: 231px;
+}
+
+.mono-api-screen-2 .flex-row {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 24px;
+  margin-right: 16px;
+  margin-top: 17px;
+  min-width: 293px;
+}
+
+.mono-api-screen-2 .personal {
+  letter-spacing: 0;
+  min-height: 24px;
+  width: 124px;
+}
+
+.mono-api-screen-2 .business {
+  letter-spacing: 0;
+  margin-left: 50px;
+  min-height: 24px;
+  width: 119px;
+}
+
+.mono-api-screen-2 .vector-container {
+  height: 4px;
+  margin-top: 13px;
+  position: relative;
+  width: 394px;
+}
+
+.mono-api-screen-2 .vector-85 {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 1px;
+  width: 394px;
+}
+
+.mono-api-screen-2 .vector-86 {
+  height: 4px;
+  left: 27px;
+  position: absolute;
+  top: 0;
+  width: 172px;
+}
+
+.mono-api-screen-2 .overlap-group2 {
+  align-items: flex-start;
+  background-image: url(../img/mask-group-11@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 585px;
+  justify-content: flex-end;
+  margin-left: 1.0px;
+  margin-top: 15px;
+  min-width: 337px;
+  padding: 10px 6px;
+}
+
+.mono-api-screen-2 .rectangle-1352 {
+  background-color: var(--white);
+  border-radius: 7px;
+  height: 333px;
+  width: 9px;
+}

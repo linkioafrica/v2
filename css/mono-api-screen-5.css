@@ -1,0 +1,178 @@
+/* screen - mono-api-screen-5 */
+
+.mono-api-screen-5 {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 772px;
+  overflow: hidden;
+  padding: 83px 0;
+  width: 375px;
+}
+
+.mono-api-screen-5 .flex-row {
+  align-items: center;
+  display: flex;
+  margin-right: 3.0px;
+  min-width: 308px;
+}
+
+.mono-api-screen-5 .vuesaxlineararrow-left {
+  cursor: pointer;
+  height: 21px;
+  margin-top: 1.0px;
+  width: 21px;
+}
+
+.mono-api-screen-5 .mask-group {
+  height: 44px;
+  margin-left: 113px;
+  width: 44px;
+}
+
+.mono-api-screen-5 .close-square {
+  cursor: pointer;
+  height: 13px;
+  margin-left: 117px;
+  margin-top: 1.0px;
+  width: 13px;
+}
+
+.mono-api-screen-5 .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 4.0px;
+  margin-top: 34px;
+  min-width: 139px;
+}
+
+.mono-api-screen-5 .log-in {
+  color: #43484d;
+  font-family: var(--font-family-dm_sans);
+  font-size: 15px;
+  font-weight: 400;
+  letter-spacing: 0;
+  min-height: 24px;
+  text-align: center;
+  width: 50px;
+}
+
+.mono-api-screen-5 .overlap-group2 {
+  height: 26px;
+  margin-left: 3px;
+  position: relative;
+  width: 86px;
+}
+
+.mono-api-screen-5 .rectangle-1377 {
+  background-color: #f4f4f4;
+  border-radius: 4px;
+  height: 21px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 84px;
+}
+
+.mono-api-screen-5 .personal {
+  color: #43484d;
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  width: 86px;
+}
+
+.mono-api-screen-5 .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 16px;
+  min-width: 387px;
+}
+
+.mono-api-screen-5 .overlap-group4 {
+  height: 578px;
+  position: relative;
+  width: 387px;
+}
+
+.mono-api-screen-5 .input-field-container {
+  align-items: flex-start;
+  background-color: #fbece5;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 578px;
+  padding: 44px 20px;
+  position: absolute;
+  top: 0;
+  width: 387px;
+}
+
+.mono-api-screen-5 .input-field-6 {
+  align-items: flex-end;
+  display: flex;
+  height: 44px;
+  min-width: 327px;
+}
+
+.mono-api-screen-5 .overlap-group {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 4px;
+  display: flex;
+  height: 56px;
+  margin-bottom: -12px;
+  min-width: 348px;
+  padding: 4px 16px;
+}
+
+.mono-api-screen-5 .key-field {
+  color: #9b99a5;
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xxl);
+  font-weight: 500;
+  letter-spacing: 0;
+  min-height: 34px;
+  opacity: 0.8;
+  width: 250px;
+}
+
+.mono-api-screen-5 .input-field-5 {
+  align-items: flex-end;
+  display: flex;
+  height: 44px;
+  margin-top: 35px;
+  min-width: 327px;
+}
+
+.mono-api-screen-5 .submit-button {
+  align-items: center;
+  background-image: url(../img/border@2x.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  cursor: pointer;
+  display: flex;
+  height: 56px;
+  left: 20px;
+  min-width: 348px;
+  padding: 0 15px;
+  position: absolute;
+  top: 202px;
+}
+
+.mono-api-screen-5 .title {
+  color: var(--white);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  height: 16px;
+  letter-spacing: 0.11px;
+  text-align: center;
+  width: 317px;
+}

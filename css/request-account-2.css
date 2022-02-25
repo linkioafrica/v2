@@ -1,0 +1,473 @@
+/* screen - request-account-2 */
+
+.request-account-2 {
+  align-items: center;
+  background-color: var(--wild-sand);
+  display: flex;
+  flex-direction: column;
+  height: 812px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.request-account-2 .group-230 {
+  align-items: flex-end;
+  display: flex;
+  height: 168px;
+  left: -22px;
+  min-width: 402px;
+  position: fixed;
+  top: -91px;
+  z-index: 11;
+}
+
+.request-account-2 .overlap-group8 {
+  height: 176px;
+  margin-bottom: -7px;
+  margin-left: -4px;
+  position: relative;
+  width: 406px;
+}
+
+.request-account-2 .rectangle-59 {
+  background-color: var(--white);
+  height: 84px;
+  left: 21px;
+  position: absolute;
+  top: 85px;
+  width: 385px;
+}
+
+.request-account-2 .glassy-card {
+  height: 176px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 406px;
+}
+
+.request-account-2 .group-309 {
+  align-items: flex-start;
+  display: flex;
+  height: 26px;
+  left: 243px;
+  min-width: 101px;
+  position: fixed;
+  top: 37px;
+  z-index: 12;
+}
+
+.request-account-2 .overlap-group9 {
+  border-radius: 3px;
+  height: 26px;
+  position: relative;
+  width: 99px;
+}
+
+.request-account-2 .group-238 {
+  align-items: flex-start;
+  background-color: var(--regent-st-blue);
+  border-radius: 7.5px;
+  display: flex;
+  height: 15px;
+  left: 9px;
+  min-width: 15px;
+  padding: 2.0px 1.3px;
+  position: absolute;
+  top: 6px;
+}
+
+.request-account-2 .vuesaxlinearprofile {
+  height: 11px;
+  width: 12px;
+}
+
+.request-account-2 .rectangle {
+  border-radius: 3px;
+  cursor: pointer;
+  height: 26px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.request-account-2 .name {
+  left: 31px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 5px;
+  width: 68px;
+}
+
+.request-account-2 .flex-row {
+  align-items: center;
+  display: flex;
+  margin-right: 3.0px;
+  margin-top: 95px;
+  min-width: 308px;
+  z-index: 7;
+}
+
+.request-account-2 .vuesaxlineararrow-left {
+  cursor: pointer;
+  height: 21px;
+  width: 21px;
+}
+
+.request-account-2 .close-square {
+  cursor: pointer;
+  height: 13px;
+  margin-left: 274px;
+  width: 13px;
+}
+
+.request-account-2 .request-account {
+  letter-spacing: 0;
+  margin-left: 2.0px;
+  margin-top: 24px;
+  min-height: 34px;
+  width: 309px;
+  z-index: 8;
+}
+
+.request-account-2 .group-254 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 6.0px;
+  margin-top: 28px;
+  min-height: 59px;
+  width: 311px;
+  z-index: 1;
+}
+
+.request-account-2 .country-of-issue {
+  letter-spacing: 0;
+  min-height: 17px;
+  width: 249px;
+}
+
+.request-account-2 .overlap-group {
+  align-items: flex-start;
+  background-image: url(../img/vector-29@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  margin-top: 2px;
+  min-width: 307px;
+  padding: 1.0px 3px;
+}
+
+.request-account-2 .nigeria {
+  align-self: center;
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  letter-spacing: 0;
+  margin-top: 7.15px;
+  padding: 0;
+  width: 237px;
+}
+
+.request-account-2 .nigeria::placeholder {
+  color: #bdbdbd99;
+}
+
+.request-account-2 .vector-container {
+  height: 30px;
+  margin-left: 25px;
+  position: relative;
+  width: 30px;
+}
+
+.request-account-2 .vector-2 {
+  cursor: pointer;
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.request-account-2 .vector-3 {
+  height: 7px;
+  left: 10px;
+  position: absolute;
+  top: 13px;
+  width: 10px;
+}
+
+.request-account-2 .id-number {
+  letter-spacing: 0;
+  margin-right: 56.0px;
+  margin-top: 23px;
+  min-height: 17px;
+  width: 249px;
+  z-index: 6;
+}
+
+.request-account-2 .number {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 5.0px;
+  margin-top: 4px;
+  min-width: 300px;
+  z-index: 9;
+}
+
+.request-account-2 .overlap-group7 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 3px;
+  display: flex;
+  height: 40px;
+  min-width: 307px;
+  padding: 11px 13px;
+}
+
+.request-account-2 .input {
+  background-color: transparent;
+  border: 0;
+  height: 16px;
+  letter-spacing: 0;
+  padding: 0;
+  width: 269px;
+}
+
+.request-account-2 .input::placeholder {
+  color: #bdbdbd99;
+}
+
+.request-account-2 .group-252 {
+  align-items: flex-end;
+  display: flex;
+  height: 57px;
+  margin-left: 6.0px;
+  margin-top: 26px;
+  min-width: 311px;
+  z-index: 2;
+}
+
+.request-account-2 .overlap-group2 {
+  height: 58px;
+  margin-bottom: -0.67px;
+  position: relative;
+  width: 250px;
+}
+
+.request-account-2 .vector-4 {
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 17px;
+  width: 250px;
+}
+
+.request-account-2 .dd-mm-yyyy {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  left: 12px;
+  letter-spacing: 0;
+  padding: 0;
+  position: absolute;
+  top: 33px;
+  width: 237px;
+}
+
+.request-account-2 .dd-mm-yyyy::placeholder {
+  color: #bdbdbd99;
+}
+
+.request-account-2 .x-date {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  top: 0;
+  width: 249px;
+}
+
+.request-account-2 .overlap-group3 {
+  height: 36px;
+  margin-bottom: 3.31px;
+  margin-left: 24px;
+  position: relative;
+  width: 33px;
+}
+
+.request-account-2 .vector {
+  height: 31px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.request-account-2 .vector-1 {
+  height: 7px;
+  left: 10px;
+  position: absolute;
+  top: 14px;
+  width: 10px;
+}
+
+.request-account-2 .group-249 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 3px;
+  box-shadow: 0px 1px 2px #00000026;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 33px;
+  padding: 7.7px 7.7px;
+  position: absolute;
+  top: 3px;
+}
+
+.request-account-2 .vuesaxlinearcalendar-2 {
+  height: 17px;
+  width: 17px;
+}
+
+.request-account-2 .group-251 {
+  align-items: flex-end;
+  display: flex;
+  margin-left: 6.0px;
+  margin-top: 30px;
+  min-width: 311px;
+  z-index: 3;
+}
+
+.request-account-2 .overlap-group5 {
+  height: 57px;
+  margin-bottom: -0.67px;
+  position: relative;
+  width: 250px;
+}
+
+.request-account-2 .vector-5 {
+  height: 41px;
+  left: 0;
+  position: absolute;
+  top: 16px;
+  width: 250px;
+}
+
+.request-account-2 .overlap-group4 {
+  height: 37px;
+  margin-bottom: 2.56px;
+  margin-left: 24px;
+  position: relative;
+  width: 33px;
+}
+
+.request-account-2 .group-250 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 3px;
+  box-shadow: 0px 1px 2px #00000026;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  left: 0;
+  min-width: 33px;
+  padding: 7.7px 7.7px;
+  position: absolute;
+  top: 4px;
+}
+
+.request-account-2 .upload-a-good-photo {
+  letter-spacing: 0;
+  margin-left: 1.0px;
+  margin-top: 34px;
+  min-height: 11px;
+  width: 306px;
+  z-index: 4;
+}
+
+.request-account-2 .group-container {
+  align-items: flex-end;
+  background-color: var(--wild-sand);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+  min-height: 95px;
+  padding: 10px 64px;
+  width: 307px;
+  z-index: 5;
+}
+
+.request-account-2 .group-247 {
+  align-items: center;
+  display: flex;
+  height: 33px;
+  min-width: 174px;
+}
+
+.request-account-2 .vuesaxlinearcloud-minus {
+  height: 25px;
+  margin-bottom: 2.0px;
+  width: 25px;
+}
+
+.request-account-2 .drag-and-drop-files {
+  letter-spacing: 0;
+  line-height: 12px;
+  margin-left: 12px;
+  min-height: 33px;
+  width: 135px;
+}
+
+.request-account-2 .span1 {
+  color: #828b94;
+  font-family: var(--font-family-circular_std-regular);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  line-height: 16px;
+}
+
+.request-account-2 .overlap-group6 {
+  align-items: center;
+  align-self: center;
+  background-color: var(--white);
+  border-radius: 3px;
+  box-shadow: 0px 2px 2px #00000026;
+  display: flex;
+  height: 31px;
+  margin-top: 11px;
+  min-width: 139px;
+}
+
+.request-account-2 .browse-files {
+  letter-spacing: 0;
+  min-height: 15px;
+  text-align: center;
+  width: 139px;
+}
+
+.request-account-2 .submit-button {
+  align-items: center;
+  background-color: var(--chateau-green);
+  border-radius: 3px;
+  cursor: pointer;
+  display: flex;
+  height: 40px;
+  left: 38px;
+  min-width: 300px;
+  padding: 0 15px;
+  position: fixed;
+  top: 682px;
+  z-index: 10;
+}
+
+.request-account-2 .title {
+  height: 16px;
+  letter-spacing: 0.11px;
+  text-align: center;
+  width: 269px;
+}

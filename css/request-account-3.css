@@ -1,0 +1,341 @@
+/* screen - request-account-3 */
+
+.request-account-3 {
+  align-items: center;
+  background-color: var(--wild-sand);
+  display: flex;
+  flex-direction: column;
+  height: 770px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.request-account-3 .group-230 {
+  align-items: flex-end;
+  display: flex;
+  height: 168px;
+  left: -22px;
+  min-width: 402px;
+  position: fixed;
+  top: -91px;
+  z-index: 13;
+}
+
+.request-account-3 .overlap-group6 {
+  height: 176px;
+  margin-bottom: -7px;
+  margin-left: -4px;
+  position: relative;
+  width: 406px;
+}
+
+.request-account-3 .rectangle-59 {
+  background-color: var(--white);
+  height: 84px;
+  left: 21px;
+  position: absolute;
+  top: 85px;
+  width: 385px;
+}
+
+.request-account-3 .glassy-card {
+  height: 176px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 406px;
+}
+
+.request-account-3 .group-309 {
+  align-items: flex-start;
+  display: flex;
+  height: 26px;
+  left: 243px;
+  min-width: 101px;
+  position: fixed;
+  top: 37px;
+  z-index: 14;
+}
+
+.request-account-3 .overlap-group7 {
+  border-radius: 3px;
+  height: 26px;
+  position: relative;
+  width: 99px;
+}
+
+.request-account-3 .group-238 {
+  align-items: flex-start;
+  background-color: var(--regent-st-blue);
+  border-radius: 7.5px;
+  display: flex;
+  height: 15px;
+  left: 9px;
+  min-width: 15px;
+  padding: 2.0px 1.3px;
+  position: absolute;
+  top: 6px;
+}
+
+.request-account-3 .vuesaxlinearprofile {
+  height: 11px;
+  width: 12px;
+}
+
+.request-account-3 .rectangle {
+  border-radius: 3px;
+  cursor: pointer;
+  height: 26px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.request-account-3 .name {
+  left: 31px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 5px;
+  width: 68px;
+}
+
+.request-account-3 .flex-row {
+  align-items: center;
+  display: flex;
+  margin-right: 3.0px;
+  margin-top: 95px;
+  min-width: 308px;
+  z-index: 6;
+}
+
+.request-account-3 .vuesaxlineararrow-left {
+  cursor: pointer;
+  height: 21px;
+  width: 21px;
+}
+
+.request-account-3 .close-square {
+  cursor: pointer;
+  height: 13px;
+  margin-left: 274px;
+  width: 13px;
+}
+
+.request-account-3 .request-account {
+  letter-spacing: 0;
+  margin-left: 2.0px;
+  margin-top: 24px;
+  min-height: 34px;
+  width: 309px;
+  z-index: 7;
+}
+
+.request-account-3 .group-254 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 6.0px;
+  margin-top: 28px;
+  min-height: 61px;
+  width: 311px;
+  z-index: 1;
+}
+
+.request-account-3 .country-of-residence {
+  letter-spacing: 0;
+  min-height: 17px;
+  width: 249px;
+}
+
+.request-account-3 .overlap-group-1 {
+  align-items: flex-start;
+  background-image: url(../img/vector-12@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  margin-top: 4px;
+  min-width: 307px;
+  padding: 1px 3px;
+}
+
+.request-account-3 .nigeria {
+  align-self: center;
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  letter-spacing: 0;
+  margin-top: 1.0px;
+  padding: 0;
+  width: 237px;
+}
+
+.request-account-3 .nigeria::placeholder {
+  color: #bdbdbd99;
+}
+
+.request-account-3 .vector-container {
+  height: 30px;
+  margin-left: 25px;
+  position: relative;
+  width: 30px;
+}
+
+.request-account-3 .vector {
+  cursor: pointer;
+  height: 30px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.request-account-3 .vector-1 {
+  height: 6px;
+  left: 10px;
+  position: absolute;
+  top: 14px;
+  width: 10px;
+}
+
+.request-account-3 .state {
+  letter-spacing: 0;
+  margin-right: 56.0px;
+  margin-top: 21px;
+  min-height: 17px;
+  width: 249px;
+  z-index: 5;
+}
+
+.request-account-3 .short-text {
+  align-items: flex-end;
+  display: flex;
+  height: 40px;
+  margin-top: 4px;
+  min-width: 307px;
+  z-index: 11;
+}
+
+.request-account-3 .overlap-group {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 3px;
+  display: flex;
+  height: 43px;
+  margin-bottom: -3px;
+  min-width: 307px;
+  padding: 13px 12px;
+}
+
+.request-account-3 .input {
+  background-color: transparent;
+  border: 0;
+  height: 16px;
+  letter-spacing: 0.11px;
+  padding: 0;
+  width: 276px;
+}
+
+.request-account-3 .input::placeholder {
+  color: #bdbdbd99;
+}
+
+.request-account-3 .city {
+  letter-spacing: 0;
+  margin-right: 56.0px;
+  margin-top: 26px;
+  min-height: 17px;
+  width: 249px;
+  z-index: 2;
+}
+
+.request-account-3 .short-text-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 40px;
+  margin-top: 4px;
+  min-width: 307px;
+  z-index: 10;
+}
+
+.request-account-3 .place {
+  letter-spacing: 0;
+  margin-right: 56.0px;
+  margin-top: 26px;
+  min-height: 17px;
+  width: 249px;
+  z-index: 3;
+}
+
+.request-account-3 .short-text-2 {
+  align-items: flex-end;
+  display: flex;
+  height: 40px;
+  margin-top: 4px;
+  min-width: 307px;
+  z-index: 9;
+}
+
+.request-account-3 .zip-code {
+  letter-spacing: 0;
+  margin-right: 56.0px;
+  margin-top: 26px;
+  min-height: 17px;
+  width: 249px;
+  z-index: 4;
+}
+
+.request-account-3 .number {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 5.0px;
+  margin-top: 4px;
+  min-width: 300px;
+  z-index: 8;
+}
+
+.request-account-3 .overlap-group2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 3px;
+  display: flex;
+  height: 40px;
+  min-width: 307px;
+  padding: 11px 13px;
+}
+
+.request-account-3 .input-1 {
+  background-color: transparent;
+  border: 0;
+  height: 16px;
+  letter-spacing: 0;
+  padding: 0;
+  width: 269px;
+}
+
+.request-account-3 .input-1::placeholder {
+  color: #bdbdbd99;
+}
+
+.request-account-3 .submit-button {
+  align-items: center;
+  background-color: var(--chateau-green);
+  border-radius: 3px;
+  cursor: pointer;
+  display: flex;
+  height: 40px;
+  left: 38px;
+  min-width: 300px;
+  padding: 0 15px;
+  position: fixed;
+  top: 638px;
+  z-index: 12;
+}
+
+.request-account-3 .title {
+  height: 16px;
+  letter-spacing: 0.11px;
+  text-align: center;
+  width: 269px;
+}

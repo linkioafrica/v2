@@ -1,0 +1,367 @@
+/* screen - cards */
+
+.cards {
+  align-items: flex-end;
+  background-color: var(--wild-sand);
+  display: flex;
+  flex-direction: column;
+  height: 770px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.cards .group-230 {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  height: 84px;
+  left: -5px;
+  min-width: 385px;
+  position: fixed;
+  top: -7px;
+  z-index: 6;
+}
+
+.cards .group-174 {
+  background-color: var(--white);
+  box-shadow: 0px 4px 4px #0000000d;
+  height: 84px;
+  width: 385px;
+}
+
+.cards .group-198 {
+  cursor: pointer;
+  height: 36px;
+  left: 25px;
+  position: fixed;
+  top: 33px;
+  width: 36px;
+  z-index: 8;
+}
+
+.cards .group-307 {
+  align-items: flex-start;
+  display: flex;
+  height: 26px;
+  left: 243px;
+  min-width: 101px;
+  position: fixed;
+  top: 37px;
+  z-index: 7;
+}
+
+.cards .overlap-group2 {
+  border-radius: 3px;
+  height: 26px;
+  position: relative;
+  width: 99px;
+}
+
+.cards .group-238 {
+  align-items: flex-start;
+  background-color: var(--regent-st-blue);
+  border-radius: 7.5px;
+  display: flex;
+  height: 15px;
+  left: 9px;
+  min-width: 15px;
+  padding: 2.0px 1.3px;
+  position: absolute;
+  top: 6px;
+}
+
+.cards .vuesaxlinearprofile {
+  height: 11px;
+  width: 12px;
+}
+
+.cards .rectangle {
+  border-radius: 3px;
+  height: 26px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.cards .name {
+  cursor: pointer;
+  left: 31px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 5px;
+  width: 68px;
+}
+
+.cards .cards-1 {
+  letter-spacing: 0;
+  margin-right: -2px;
+  margin-top: 120px;
+  min-height: 34px;
+  width: 344px;
+  z-index: 4;
+}
+
+.cards .overlap-group3 {
+  align-self: center;
+  height: 189px;
+  margin-right: 2.0px;
+  margin-top: 33px;
+  position: relative;
+  width: 307px;
+  z-index: 1;
+}
+
+.cards .group-236 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-50-5@2x.svg);
+  background-size: 100% 100%;
+  cursor: pointer;
+  display: flex;
+  height: 189px;
+  left: 0;
+  min-width: 307px;
+  position: absolute;
+  top: 0;
+}
+
+.cards .mask-group {
+  height: 189px;
+  margin-top: -0.18px;
+  width: 307px;
+}
+
+.cards .price {
+  left: 33px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 108px;
+  width: 190px;
+}
+
+.cards .available-balance {
+  left: 33px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 89px;
+  width: 154px;
+}
+
+.cards .submit-button {
+  align-items: center;
+  background-color: var(--chateau-green);
+  border-radius: 3px;
+  cursor: pointer;
+  display: flex;
+  height: 40px;
+  justify-content: flex-end;
+  left: 91px;
+  min-width: 194px;
+  padding: 0 34px;
+  position: fixed;
+  top: 400px;
+  z-index: 5;
+}
+
+.cards .overlap-group1 {
+  height: 18px;
+  position: relative;
+  width: 125px;
+}
+
+.cards .title {
+  height: 15px;
+  left: 2px;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 2px;
+  width: 123px;
+}
+
+.cards .vuesaxlinearadd-circle {
+  height: 18px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 18px;
+}
+
+.cards .history {
+  align-self: flex-start;
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-left: 33px;
+  margin-top: 99px;
+  min-height: 23px;
+  z-index: 3;
+}
+
+.cards .group-231 {
+  align-items: flex-start;
+  display: flex;
+  height: 233px;
+  margin-right: -1px;
+  margin-top: 7px;
+  min-width: 362px;
+  z-index: 2;
+}
+
+.cards .flex-col {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  min-height: 233px;
+  padding: 15px 16px;
+  width: 346px;
+}
+
+.cards .flex-row {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  height: 35px;
+  margin-right: 2px;
+  min-width: 304px;
+}
+
+.cards .vector {
+  align-self: center;
+  height: 20px;
+  margin-bottom: 5.0px;
+  width: 10px;
+}
+
+.cards .netflix-12122021 {
+  letter-spacing: 0;
+  margin-left: 12px;
+  min-height: 35px;
+  width: 98px;
+}
+
+.cards .text-6 {
+  letter-spacing: 0;
+  margin-left: 83px;
+  margin-top: 5px;
+  min-height: 10px;
+  text-align: right;
+  width: 101px;
+}
+
+.cards .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 5px;
+  min-height: 157px;
+  width: 312px;
+}
+
+.cards .vector-81 {
+  height: 4px;
+  margin-left: 3px;
+  width: 309px;
+}
+
+.cards .flex-row-1 {
+  align-items: center;
+  display: flex;
+  height: 27px;
+  margin-left: 2px;
+  margin-top: 12px;
+  min-width: 310px;
+}
+
+.cards .vector-1 {
+  height: 20px;
+  margin-top: 1.0px;
+  width: 20px;
+}
+
+.cards .spotify-12122021 {
+  letter-spacing: 0;
+  margin-left: 8px;
+  min-height: 27px;
+  width: 98px;
+}
+
+.cards .text-5 {
+  letter-spacing: 0;
+  margin-bottom: 1.0px;
+  margin-left: 85px;
+  min-height: 10px;
+  text-align: right;
+  width: 99px;
+}
+
+.cards .vector-8 {
+  height: 4px;
+  margin-left: 3px;
+  margin-top: 13px;
+  width: 309px;
+}
+
+.cards .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 28px;
+  margin-top: 14px;
+  min-width: 312px;
+}
+
+.cards .dominos-pizza-1 {
+  align-self: flex-end;
+  height: 24px;
+  width: 24px;
+}
+
+.cards .dominos-pizza-15112021 {
+  letter-spacing: 0;
+  margin-left: 6px;
+  min-height: 21px;
+  width: 98px;
+}
+
+.cards .text-4 {
+  align-self: center;
+  letter-spacing: 0;
+  margin-bottom: 5.0px;
+  margin-left: 83px;
+  min-height: 9px;
+  text-align: right;
+  width: 101px;
+}
+
+.cards .flex-row-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 25px;
+  margin-left: 0.95px;
+  margin-top: 13px;
+  min-width: 311px;
+}
+
+.cards .group {
+  align-self: flex-end;
+  height: 21px;
+  width: 22px;
+}
+
+.cards .amazon-17122021 {
+  letter-spacing: 0;
+  margin-left: 7px;
+  min-height: 24px;
+  width: 98px;
+}
+
+.cards .text-3 {
+  align-self: center;
+  letter-spacing: 0;
+  margin-bottom: 1.0px;
+  margin-left: 85px;
+  min-height: 10px;
+  text-align: right;
+  width: 99px;
+}

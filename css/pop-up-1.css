@@ -1,0 +1,85 @@
+/* screen - pop-up-1 */
+
+.pop-up-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 770px;
+  min-width: 375px;
+}
+
+#overlay-pop-up-1 {
+  background-color: transparent;
+}
+
+.overlay .pop-up-1 {
+  background-color: #00000000;
+}
+
+#overlay-pop-up-1 .pop-up-1 {
+  left: 27px;
+  top: 457px;
+}
+
+#overlay-pop-up-1 .container-center-horizontal {
+  justify-content: normal;
+}
+
+.pop-up-1 .overlap-group {
+  height: 423px;
+  position: relative;
+  width: 148px;
+}
+
+.pop-up-1 .rectangle-50 {
+  background-color: var(--white);
+  border-radius: 3px;
+  height: 423px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 147px;
+}
+
+.pop-up-1 .overlap-group-item {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.pop-up-1 .vector {
+  height: 3px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 3px;
+}
+
+.pop-up-1 .overlap-group-item-1 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.pop-up-1 .local-peer-to-peer {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 206px;
+  width: 148px;
+}
+
+.pop-up-1 .rectangle-1382 {
+  background-color: var(--mist-gray);
+  border-radius: 3px;
+  height: 157px;
+  left: 145px;
+  position: absolute;
+  top: 5px;
+  width: 2px;
+}

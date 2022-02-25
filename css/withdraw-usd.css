@@ -1,0 +1,164 @@
+/* screen - withdraw-usd */
+
+.withdraw-usd {
+  align-items: flex-start;
+  background-color: var(--black-4);
+  display: flex;
+  height: 910px;
+  min-width: 375px;
+}
+
+#overlay-withdraw-usd {
+  background-color: var(--black-4);
+}
+
+.overlay .withdraw-usd {
+  background-color: #00000000;
+}
+
+.withdraw-usd .withdraw-usd-1 {
+  align-items: flex-end;
+  background-color: var(--wild-sand);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  left: calc(50vw - 185.0px);
+  min-height: 500px;
+  padding: 12.2px 30px;
+  position: relative;
+  top: calc(100vh - 500px);
+  width: 370px;
+}
+
+.withdraw-usd .vuesaxlineararrow-left {
+  align-self: flex-start;
+  cursor: pointer;
+  height: 1px;
+  margin-left: 2px;
+  width: 1px;
+}
+
+.withdraw-usd .withdraw {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 1.0px;
+  margin-top: 38px;
+  min-height: 40px;
+  width: 305px;
+}
+
+.withdraw-usd .group-262 {
+  align-items: center;
+  display: flex;
+  height: 81px;
+  margin-top: 12px;
+  min-width: 307px;
+}
+
+.withdraw-usd .overlap-group {
+  align-items: flex-start;
+  align-self: flex-start;
+  background-image: url();
+  background-size: 100% 100%;
+  display: flex;
+  min-width: 1px;
+}
+
+.withdraw-usd .expand_down {
+  height: 1px;
+  width: 1px;
+}
+
+.withdraw-usd .group {
+  align-items: flex-start;
+  background-color: var(--link-water);
+  border-radius: 16px;
+  display: flex;
+  height: 32px;
+  margin-left: 14px;
+  margin-top: 1.0px;
+  min-width: 32px;
+}
+
+.withdraw-usd .vuesaxoutlinebank {
+  height: 1px;
+  width: 1px;
+}
+
+.withdraw-usd .bank-withdraw-to-a-bank-account {
+  letter-spacing: 0;
+  margin-left: 16px;
+  margin-top: 1.0px;
+  min-height: 32px;
+  width: 146px;
+}
+
+.withdraw-usd .group-26 {
+  align-items: center;
+  display: flex;
+  height: 81px;
+  margin-top: 14px;
+  min-width: 307px;
+}
+
+.withdraw-usd .expand_down-1 {
+  height: 1px;
+  width: 1px;
+}
+
+.withdraw-usd .vuesaxlinearuser-square {
+  height: 1px;
+  width: 1px;
+}
+
+.withdraw-usd .recipient-send-to-a {
+  letter-spacing: 0;
+  margin-left: 16px;
+  margin-top: 1.0px;
+  min-height: 32px;
+  width: 204px;
+}
+
+.withdraw-usd .expand_down-2 {
+  height: 1px;
+  width: 1px;
+}
+
+.withdraw-usd .group-1 {
+  height: 16px;
+  width: 14px;
+}
+
+.withdraw-usd .pay-pal-united-state {
+  letter-spacing: 0;
+  margin-left: 16px;
+  margin-top: 1.0px;
+  min-height: 32px;
+  width: 204px;
+}
+
+.withdraw-usd .expand_down-3 {
+  height: 1px;
+  width: 1px;
+}
+
+.withdraw-usd .overlap-group-1 {
+  align-items: flex-start;
+  background-image: url();
+  background-size: 100% 100%;
+  display: flex;
+  min-width: 1px;
+}
+
+.withdraw-usd .vector {
+  height: 1px;
+  width: 1px;
+}
+
+.withdraw-usd .physical-delivery-n {
+  letter-spacing: 0;
+  margin-left: 16px;
+  margin-top: 1.0px;
+  min-height: 26px;
+  width: 204px;
+}

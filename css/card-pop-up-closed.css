@@ -1,0 +1,242 @@
+/* screen - card-pop-up-closed */
+
+.card-pop-up-closed {
+  align-items: flex-start;
+  background-color: var(--black-4);
+  display: flex;
+  height: 770px;
+  min-width: 375px;
+}
+
+#overlay-card-pop-up-closed {
+  background-color: var(--black-4);
+}
+
+.overlay .card-pop-up-closed {
+  background-color: #00000000;
+}
+
+.card-pop-up-closed .card-pop-up-closed-1 {
+  align-items: center;
+  background-color: var(--wild-sand);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  left: calc(50vw - 185.0px);
+  min-height: 708px;
+  padding: 12.2px 31px;
+  position: relative;
+  top: calc(100vh - 708px);
+  width: 370px;
+}
+
+.card-pop-up-closed .vuesaxlineararrow-left {
+  align-self: flex-start;
+  cursor: pointer;
+  height: 1px;
+  margin-left: 1px;
+  width: 1px;
+}
+
+.card-pop-up-closed .overlap-group5 {
+  align-self: flex-start;
+  height: 189px;
+  margin-top: 50px;
+  position: relative;
+  width: 307px;
+}
+
+.card-pop-up-closed .x-group {
+  height: 189px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 307px;
+}
+
+.card-pop-up-closed .rectangle-50 {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.card-pop-up-closed .price {
+  left: 33px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 106px;
+  width: 190px;
+}
+
+.card-pop-up-closed .available-balance {
+  left: 33px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 87px;
+  width: 154px;
+}
+
+.card-pop-up-closed .overlap-group4 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 3px;
+  display: flex;
+  height: 56px;
+  justify-content: flex-end;
+  margin-top: 38px;
+  min-width: 300px;
+}
+
+.card-pop-up-closed .card-holder-emmanuel-evarist {
+  letter-spacing: 0;
+  line-height: 23px;
+  min-height: 54px;
+  width: 289px;
+}
+
+.card-pop-up-closed .overlap-group {
+  background-color: var(--white);
+  border-radius: 3px;
+  height: 56px;
+  margin-top: 26px;
+  position: relative;
+  width: 300px;
+}
+
+.card-pop-up-closed .card-number-5422-4000-25-0202 {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 2px;
+  width: 288px;
+}
+
+.card-pop-up-closed .text-7 {
+  left: 12px;
+  letter-spacing: 0;
+  line-height: 35px;
+  position: absolute;
+  top: 21px;
+  white-space: nowrap;
+  width: 288px;
+}
+
+.card-pop-up-closed .overlap-group-container {
+  align-items: flex-start;
+  display: flex;
+  height: 57px;
+  margin-top: 25px;
+  min-width: 300px;
+}
+
+.card-pop-up-closed .overlap-group1 {
+  background-color: var(--white);
+  border-radius: 3px;
+  height: 56px;
+  position: relative;
+  width: 144px;
+}
+
+.card-pop-up-closed .expiry-date-06-25 {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 2px;
+  width: 130px;
+}
+
+.card-pop-up-closed .text-8 {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 27px;
+  width: 133px;
+}
+
+.card-pop-up-closed .overlap-group2 {
+  align-self: flex-end;
+  background-color: var(--white);
+  border-radius: 3px;
+  height: 56px;
+  margin-left: 12px;
+  position: relative;
+  width: 144px;
+}
+
+.card-pop-up-closed .cvc-542 {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 2px;
+  width: 84px;
+}
+
+.card-pop-up-closed .text-9 {
+  left: 11px;
+  letter-spacing: 0;
+  line-height: 23px;
+  position: absolute;
+  top: 26px;
+  width: 82px;
+}
+
+.card-pop-up-closed .group-224 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 3px;
+  box-shadow: 0px 2px 2px #00000026;
+  display: flex;
+  height: 40px;
+  margin-top: 39px;
+  min-width: 230px;
+  padding: 12px 48px;
+}
+
+.card-pop-up-closed .vector {
+  height: 2px;
+  margin-top: 1px;
+  width: 2px;
+}
+
+.card-pop-up-closed .show-card-details {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-left: 28px;
+  min-height: 15px;
+  width: 104px;
+}
+
+.card-pop-up-closed .group-241 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 3px;
+  box-shadow: 0px 2px 2px #00000026;
+  cursor: pointer;
+  display: flex;
+  height: 40px;
+  margin-right: 2.0px;
+  margin-top: 41px;
+  min-width: 230px;
+  padding: 11.4px 54px;
+}
+
+.card-pop-up-closed .vuesaxlinearlock {
+  cursor: pointer;
+  height: 1px;
+  width: 1px;
+}
+
+.card-pop-up-closed .change-card-pin {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 27px;
+  margin-top: 1.0px;
+  min-height: 15px;
+  width: 94px;
+}

@@ -1,0 +1,342 @@
+/* screen - transact-2 */
+
+.transact-2 {
+  align-items: center;
+  background-color: var(--wild-sand);
+  display: flex;
+  flex-direction: column;
+  height: 772px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.transact-2 .group-230 {
+  align-items: flex-end;
+  display: flex;
+  height: 168px;
+  left: -22px;
+  min-width: 402px;
+  position: fixed;
+  top: -91px;
+  z-index: 7;
+}
+
+.transact-2 .overlap-group3 {
+  height: 176px;
+  margin-bottom: -7px;
+  margin-left: -4px;
+  position: relative;
+  width: 406px;
+}
+
+.transact-2 .rectangle-59 {
+  background-color: var(--white);
+  height: 84px;
+  left: 21px;
+  position: absolute;
+  top: 85px;
+  width: 385px;
+}
+
+.transact-2 .glassy-card {
+  height: 176px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 406px;
+}
+
+.transact-2 .group-307 {
+  align-items: flex-start;
+  display: flex;
+  height: 26px;
+  left: 243px;
+  min-width: 101px;
+  position: fixed;
+  top: 37px;
+  z-index: 8;
+}
+
+.transact-2 .overlap-group4 {
+  border-radius: 3px;
+  height: 26px;
+  position: relative;
+  width: 99px;
+}
+
+.transact-2 .group-238 {
+  align-items: flex-start;
+  background-color: var(--regent-st-blue);
+  border-radius: 7.5px;
+  display: flex;
+  height: 15px;
+  left: 9px;
+  min-width: 15px;
+  padding: 2.0px 1.3px;
+  position: absolute;
+  top: 6px;
+}
+
+.transact-2 .vuesaxlinearprofile {
+  height: 11px;
+  width: 12px;
+}
+
+.transact-2 .rectangle {
+  border-radius: 3px;
+  height: 26px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.transact-2 .name {
+  cursor: pointer;
+  left: 31px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 5px;
+  width: 68px;
+}
+
+.transact-2 .flex-row {
+  align-items: center;
+  display: flex;
+  margin-right: 3.0px;
+  margin-top: 95px;
+  min-width: 308px;
+  z-index: 5;
+}
+
+.transact-2 .vuesaxlineararrow-left {
+  height: 21px;
+  width: 21px;
+}
+
+.transact-2 .close-square {
+  cursor: pointer;
+  height: 13px;
+  margin-left: 274px;
+  width: 13px;
+}
+
+.transact-2 .review-your-order {
+  letter-spacing: 0;
+  margin-right: 4.0px;
+  margin-top: 34px;
+  min-height: 40px;
+  width: 305px;
+  z-index: 1;
+}
+
+.transact-2 .group-259 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 4.0px;
+  margin-top: 31px;
+  min-width: 315px;
+  z-index: 2;
+}
+
+.transact-2 .flex-row-1 {
+  align-items: flex-start;
+  background-image: url(../img/vector-47@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 104px;
+  justify-content: flex-end;
+  min-width: 307px;
+  padding: 17px 16px;
+}
+
+.transact-2 .flex-col {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1px;
+  min-height: 64px;
+  width: 105px;
+}
+
+.transact-2 .you-send {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  letter-spacing: 0;
+  padding: 0;
+  width: 105px;
+}
+
+.transact-2 .you-send::placeholder {
+  color: #0000004c;
+}
+
+.transact-2 .they-get {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  letter-spacing: 0;
+  margin-top: 30px;
+  padding: 0;
+  width: 105px;
+}
+
+.transact-2 .they-get::placeholder {
+  color: #0000004c;
+}
+
+.transact-2 .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 32px;
+  min-height: 64px;
+  width: 123px;
+}
+
+.transact-2 .x50000-ngn {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  letter-spacing: 0;
+  padding: 0;
+  width: 123px;
+}
+
+.transact-2 .x50000-ngn::placeholder {
+  color: #00000099;
+}
+
+.transact-2 .x11424-usd {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  letter-spacing: 0;
+  margin-top: 30px;
+  padding: 0;
+  width: 123px;
+}
+
+.transact-2 .x11424-usd::placeholder {
+  color: #00000099;
+}
+
+.transact-2 .group-260 {
+  align-items: flex-start;
+  display: flex;
+  height: 80px;
+  margin-top: 31px;
+  min-width: 311px;
+  z-index: 3;
+}
+
+.transact-2 .overlap-group1 {
+  align-items: flex-start;
+  background-image: url(../img/vector-48@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  min-height: 80px;
+  padding: 0 31px;
+  width: 307px;
+}
+
+.transact-2 .recipient-name {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  letter-spacing: 0;
+  margin-top: 16px;
+  padding: 0;
+  width: 219px;
+}
+
+.transact-2 .recipient-name::placeholder {
+  color: #0000004c;
+}
+
+.transact-2 .john-james-okafor {
+  background-color: transparent;
+  border: 0;
+  height: 40px;
+  letter-spacing: 0;
+  margin-top: 7px;
+  padding: 0;
+  width: 219px;
+}
+
+.transact-2 .john-james-okafor::placeholder {
+  color: #00000099;
+}
+
+.transact-2 .group-261 {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 31px;
+  min-width: 311px;
+  z-index: 4;
+}
+
+.transact-2 .overlap-group2 {
+  background-image: url(../img/vector-49@2x.svg);
+  background-size: 100% 100%;
+  height: 44px;
+  position: relative;
+  width: 307px;
+}
+
+.transact-2 .reference-code {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  left: 31px;
+  letter-spacing: 0;
+  padding: 0;
+  position: absolute;
+  top: 16px;
+  width: 219px;
+}
+
+.transact-2 .reference-code::placeholder {
+  color: #0000004c;
+}
+
+.transact-2 .l2247908 {
+  background-color: transparent;
+  border: 0;
+  height: 34px;
+  left: 168px;
+  letter-spacing: 0;
+  padding: 0;
+  position: absolute;
+  top: 10px;
+  width: 139px;
+}
+
+.transact-2 .l2247908::placeholder {
+  color: #00000099;
+}
+
+.transact-2 .submit-button {
+  align-items: center;
+  background-color: var(--chateau-green);
+  border-radius: 3px;
+  cursor: pointer;
+  display: flex;
+  height: 40px;
+  left: 38px;
+  min-width: 300px;
+  padding: 0 15px;
+  position: fixed;
+  top: 586px;
+  z-index: 6;
+}
+
+.transact-2 .title {
+  height: 16px;
+  letter-spacing: 0.11px;
+  text-align: center;
+  width: 269px;
+}

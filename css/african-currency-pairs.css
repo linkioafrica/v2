@@ -1,0 +1,91 @@
+/* screen - african-currency-pairs */
+
+.african-currency-pairs {
+  align-items: flex-start;
+  display: flex;
+  height: 770px;
+  min-width: 200px;
+}
+
+#overlay-african-currency-pairs {
+  background-color: transparent;
+}
+
+.overlay .african-currency-pairs {
+  background-color: #00000000;
+}
+
+#overlay-african-currency-pairs .african-currency-pairs {
+  left: 273px;
+  top: 463px;
+}
+
+#overlay-african-currency-pairs .container-center-horizontal {
+  justify-content: normal;
+}
+
+.african-currency-pairs .african-currency-pairs-1 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  min-height: 208px;
+  padding: 18.9px 0;
+  width: 106px;
+}
+
+.african-currency-pairs .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 16px;
+  margin-right: 9.94px;
+  min-width: 76px;
+}
+
+.african-currency-pairs .overlap-group {
+  background-image: url();
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 1px;
+  position: relative;
+  width: 1px;
+}
+
+.african-currency-pairs .overlap-group-item {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.african-currency-pairs .price-1 {
+  letter-spacing: 0;
+  margin-left: 46px;
+  min-height: 16px;
+  width: 29px;
+}
+
+.african-currency-pairs .rectangle-1 {
+  background-color: var(--wild-sand);
+  height: 3px;
+  margin-top: 14px;
+  width: 86px;
+}
+
+.african-currency-pairs .price {
+  letter-spacing: 0;
+  margin-left: 37.13px;
+  margin-top: 17px;
+  min-height: 16px;
+  width: 29px;
+}
+
+.african-currency-pairs .rectangle {
+  background-color: var(--wild-sand);
+  height: 3px;
+  margin-top: 16px;
+  width: 86px;
+}

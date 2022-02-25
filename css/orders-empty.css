@@ -1,0 +1,1528 @@
+/* screen - account-verify-account */
+
+.account-verify-account {
+  background-color: #f3f4f6;
+  height: 770px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.account-verify-account .vector-79-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/vector-79@2x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 372px;
+  width: 309px;
+}
+
+.account-verify-account .vector-80-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vector-80@2x.svg);
+  background-size: 100% 100%;
+  height: 4px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 371px;
+  width: 51px;
+}
+
+.account-verify-account .activity-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 137px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 347px;
+  width: auto;
+}
+
+.account-verify-account .orders-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 244px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 347px;
+  width: auto;
+}
+
+.account-verify-account .accounts-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #1565d8;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 347px;
+  width: auto;
+}
+
+.account-verify-account .all-accounts-total-in-ngn-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: transparent;
+  font-family: 'Circular Std-Regular', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 165px;
+  width: 344px;
+}
+
+.account-verify-account .span0-4KxuOu {
+  color: #696f79;
+  font-style: normal;
+}
+
+.account-verify-account .span1-4KxuOu {
+  color: #1565d8;
+  font-style: normal;
+}
+
+.account-verify-account .price-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Bold', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 120px;
+  width: 344px;
+}
+
+.account-verify-account .group-239-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  height: 99px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 218px;
+  width: 313px;
+}
+
+.account-verify-account .rectangle-59-N9Wp27 {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  height: 99px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 309px;
+}
+
+.account-verify-account .to-make-transfers-verify-your-account-N9Wp27 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #696f79;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 26px;
+  width: 275px;
+}
+
+.account-verify-account .please-complete-your-N9Wp27 {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: 275px;
+}
+
+.account-verify-account .you-dont-have-any-i-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  color: #696f79;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 394px;
+  width: 309px;
+}
+
+.account-verify-account .submit-button-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  height: 40px;
+  left: 91px;
+  opacity: 1;
+  position: absolute;
+  top: 425px;
+  width: 194px;
+}
+
+.account-verify-account .border-1RSKJ8 {
+  --z-index: 0;
+  background-color: #30ae4d;
+  border-radius: 3px;
+  cursor: pointer;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 194px;
+}
+
+.account-verify-account .title-1RSKJ8 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Circular Std-Bold', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  height: 16px;
+  left: 22px;
+  letter-spacing: 0.11px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 151px;
+}
+
+.account-verify-account .vuesaxlinearadd-circle-1RSKJ8 {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/vuesax-linear-add-circle-6@2x.svg);
+  background-size: 100% 100%;
+  height: 18px;
+  left: 36px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 10px;
+  width: 18px;
+}
+
+.account-verify-account .submit-button-VMr6Om {
+  --z-index: 10;
+  background-color: transparent;
+  cursor: pointer;
+  height: 30px;
+  left: 51px;
+  opacity: 1;
+  position: fixed;
+  top: 270px;
+  width: 142px;
+}
+
+.account-verify-account .border-Uh7axY {
+  --z-index: 0;
+  background-color: #30ae4d;
+  border-radius: 3px;
+  height: 30px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 142px;
+}
+
+.account-verify-account .title-Uh7axY {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.11px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  width: 141px;
+}
+
+.account-verify-account .group-230-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  height: 168px;
+  left: -22px;
+  opacity: 1;
+  position: fixed;
+  top: -91px;
+  width: 402px;
+}
+
+.account-verify-account .rectangle-59-PdN6Mn {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 84px;
+  left: 17px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 84px;
+  width: 385px;
+}
+
+.account-verify-account .group-174-PdN6Mn {
+  --z-index: 1;
+  background-color: transparent;
+  height: 168px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 398px;
+}
+
+.account-verify-account .glassy-card-q4ckQy {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/glassy-card-10@2x.svg);
+  background-size: 100% 100%;
+  height: 176px;
+  left: -4px;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 406px;
+}
+
+.account-verify-account .group-308-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  height: 26px;
+  left: 243px;
+  opacity: 1;
+  position: fixed;
+  top: 37px;
+  width: 101px;
+}
+
+.account-verify-account .group-238-gx7wgm {
+  --z-index: 0;
+  background-color: transparent;
+  height: 15px;
+  left: 9px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 15px;
+}
+
+.account-verify-account .ellipse-33-KD02mQ {
+  --z-index: 0;
+  background-color: #a3d3e3;
+  border-radius: 7.5px;
+  height: 15px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.account-verify-account .vuesaxlinearprofile-KD02mQ {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vuesax-linear-profile-9@2x.svg);
+  background-size: 100% 100%;
+  height: 11px;
+  left: 1px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}
+
+.account-verify-account .rectangle-gx7wgm {
+  --z-index: 1;
+  background-color: transparent;
+  border: 1px solid #c6c6c6;
+  border-radius: 3px;
+  cursor: pointer;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 99px;
+}
+
+.account-verify-account .name-gx7wgm {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 68px;
+}
+
+.account-verify-account .group-198-C61RwL {
+  --z-index: 13;
+  background-color: transparent;
+  background-image: url(../img/group-198@1x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 36px;
+  left: 25px;
+  opacity: 1;
+  position: fixed;
+  top: 33px;
+  width: 36px;
+}
+/* screen - activity-empty */
+
+.activity-empty {
+  background-color: #f3f4f6;
+  height: 770px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.activity-empty .all-accounts-total-in-ngn-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  color: transparent;
+  font-family: 'Circular Std-Regular', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 165px;
+  width: 344px;
+}
+
+.activity-empty .span0-4KxuOu {
+  color: #696f79;
+  font-style: normal;
+}
+
+.activity-empty .span1-4KxuOu {
+  color: #1565d8;
+  font-style: normal;
+}
+
+.activity-empty .price-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Bold', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 120px;
+  width: 344px;
+}
+
+.activity-empty .group-231-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  height: 57px;
+  left: 19px;
+  opacity: 1;
+  position: absolute;
+  top: 276px;
+  width: 339px;
+}
+
+.activity-empty .rectangle-50-hhpAbI {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 7px;
+  height: 57px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 337px;
+}
+
+.activity-empty .you-havent-any-transactions-yet-hhpAbI {
+  --z-index: 1;
+  background-color: transparent;
+  color: #696f79;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 309px;
+}
+
+.activity-empty .vector-79-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/vector-79@2x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 243px;
+  width: 309px;
+}
+
+.activity-empty .vector-80-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/vector-80-4@2x.svg);
+  background-size: 100% 100%;
+  height: 4px;
+  left: 137px;
+  opacity: 1;
+  position: absolute;
+  top: 242px;
+  width: 42px;
+}
+
+.activity-empty .activity-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: #1565d8;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 137px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  width: auto;
+}
+
+.activity-empty .orders-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 244px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 218px;
+  width: auto;
+}
+
+.activity-empty .accounts-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  text-align: left;
+  top: 218px;
+  width: auto;
+}
+
+.activity-empty .group-230-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  height: 168px;
+  left: -22px;
+  opacity: 1;
+  position: fixed;
+  top: -91px;
+  width: 402px;
+}
+
+.activity-empty .rectangle-59-PdN6Mn {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 84px;
+  left: 17px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 84px;
+  width: 385px;
+}
+
+.activity-empty .group-174-PdN6Mn {
+  --z-index: 1;
+  background-color: transparent;
+  height: 168px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 398px;
+}
+
+.activity-empty .glassy-card-q4ckQy {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/glassy-card-16@2x.svg);
+  background-size: 100% 100%;
+  height: 176px;
+  left: -4px;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 406px;
+}
+
+.activity-empty .group-309-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  height: 26px;
+  left: 243px;
+  opacity: 1;
+  position: fixed;
+  top: 37px;
+  width: 101px;
+}
+
+.activity-empty .group-238-gJGBzK {
+  --z-index: 0;
+  background-color: transparent;
+  height: 15px;
+  left: 9px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 15px;
+}
+
+.activity-empty .ellipse-33-uBMkqA {
+  --z-index: 0;
+  background-color: #a3d3e3;
+  border-radius: 7.5px;
+  height: 15px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.activity-empty .vuesaxlinearprofile-uBMkqA {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vuesax-linear-profile-10@2x.svg);
+  background-size: 100% 100%;
+  height: 11px;
+  left: 1px;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}
+
+.activity-empty .rectangle-gJGBzK {
+  --z-index: 1;
+  background-color: transparent;
+  border: 1px solid #c6c6c6;
+  border-radius: 3px;
+  cursor: pointer;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 99px;
+}
+
+.activity-empty .name-gJGBzK {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 68px;
+}
+
+.activity-empty .group-198-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  background-image: url(../img/group-198@1x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 36px;
+  left: 25px;
+  opacity: 1;
+  position: fixed;
+  top: 33px;
+  width: 36px;
+}
+/* screen - orders-empty */
+
+.orders-empty {
+  background-color: #f3f4f6;
+  height: 770px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.orders-empty .all-accounts-total-in-ngn-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  color: transparent;
+  font-family: 'Circular Std-Regular', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 165px;
+  width: 344px;
+}
+
+.orders-empty .span0-4KxuOu {
+  color: #696f79;
+  font-style: normal;
+}
+
+.orders-empty .span1-4KxuOu {
+  color: #1565d8;
+  font-style: normal;
+}
+
+.orders-empty .price-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Bold', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 120px;
+  width: 344px;
+}
+
+.orders-empty .group-292-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  height: 57px;
+  left: 19px;
+  opacity: 1;
+  position: absolute;
+  top: 276px;
+  width: 339px;
+}
+
+.orders-empty .rectangle-50-54rxDA {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 7px;
+  height: 57px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 337px;
+}
+
+.orders-empty .you-dont-have-any-orders-recorded-54rxDA {
+  --z-index: 1;
+  background-color: transparent;
+  color: #696f79;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 14px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  width: 309px;
+}
+
+.orders-empty .vector-81-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  background-image: url(../img/vector-79@2x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 243px;
+  width: 309px;
+}
+
+.orders-empty .vector-82-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  background-image: url(../img/vector-82-7@2x.svg);
+  background-size: 100% 100%;
+  height: 4px;
+  left: 244px;
+  opacity: 1;
+  position: absolute;
+  top: 242px;
+  width: 38px;
+}
+
+.orders-empty .activity-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 137px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  width: auto;
+}
+
+.orders-empty .orders-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: #1565d8;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 244px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 218px;
+  width: auto;
+}
+
+.orders-empty .accounts-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  text-align: left;
+  top: 218px;
+  width: auto;
+}
+
+.orders-empty .group-230-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  height: 168px;
+  left: -22px;
+  opacity: 1;
+  position: fixed;
+  top: -91px;
+  width: 402px;
+}
+
+.orders-empty .rectangle-59-PdN6Mn {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 84px;
+  left: 17px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 84px;
+  width: 385px;
+}
+
+.orders-empty .group-174-PdN6Mn {
+  --z-index: 1;
+  background-color: transparent;
+  height: 168px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 398px;
+}
+
+.orders-empty .glassy-card-q4ckQy {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/glassy-card-18@2x.svg);
+  background-size: 100% 100%;
+  height: 176px;
+  left: -4px;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 406px;
+}
+
+.orders-empty .group-309-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  height: 26px;
+  left: 243px;
+  opacity: 1;
+  position: fixed;
+  top: 37px;
+  width: 101px;
+}
+
+.orders-empty .group-238-gJGBzK {
+  --z-index: 0;
+  background-color: transparent;
+  height: 15px;
+  left: 9px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 15px;
+}
+
+.orders-empty .ellipse-33-uBMkqA {
+  --z-index: 0;
+  background-color: #a3d3e3;
+  border-radius: 7.5px;
+  height: 15px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.orders-empty .vuesaxlinearprofile-uBMkqA {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vuesax-linear-profile-10@2x.svg);
+  background-size: 100% 100%;
+  height: 11px;
+  left: 1px;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}
+
+.orders-empty .rectangle-gJGBzK {
+  --z-index: 1;
+  background-color: transparent;
+  border: 1px solid #c6c6c6;
+  border-radius: 3px;
+  cursor: pointer;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 99px;
+}
+
+.orders-empty .name-gJGBzK {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 68px;
+}
+
+.orders-empty .group-198-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  background-image: url(../img/group-198@1x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 36px;
+  left: 25px;
+  opacity: 1;
+  position: fixed;
+  top: 33px;
+  width: 36px;
+}
+/* screen - account-empty */
+
+.account-empty {
+  background-color: #f3f4f6;
+  height: 770px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.account-empty .vector-79-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/vector-79@2x.svg);
+  background-size: 100% 100%;
+  height: 2px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 243px;
+  width: 309px;
+}
+
+.account-empty .vector-80-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vector-80@2x.svg);
+  background-size: 100% 100%;
+  height: 4px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 242px;
+  width: 51px;
+}
+
+.account-empty .activity-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 137px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  width: auto;
+}
+
+.account-empty .orders-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #000000;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 244px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 218px;
+  width: auto;
+}
+
+.account-empty .accounts-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #1565d8;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 218px;
+  width: auto;
+}
+
+.account-empty .all-accounts-total-in-ngn-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: transparent;
+  font-family: 'Circular Std-Regular', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 165px;
+  width: 344px;
+}
+
+.account-empty .span0-4KxuOu {
+  color: #696f79;
+  font-style: normal;
+}
+
+.account-empty .span1-4KxuOu {
+  color: #1565d8;
+  font-style: normal;
+}
+
+.account-empty .price-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Bold', Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 120px;
+  width: 344px;
+}
+
+.account-empty .you-dont-have-any-i-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  color: #696f79;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 265px;
+  width: 309px;
+}
+
+.account-empty .submit-button-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  height: 40px;
+  left: 91px;
+  opacity: 1;
+  position: fixed;
+  top: 296px;
+  width: 194px;
+}
+
+.account-empty .border-1RSKJ8 {
+  --z-index: 0;
+  background-color: #30ae4d;
+  border-radius: 3px;
+  cursor: pointer;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 194px;
+}
+
+.account-empty .title-1RSKJ8 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Circular Std-Bold', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  height: 16px;
+  left: 22px;
+  letter-spacing: 0.11px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 151px;
+}
+
+.account-empty .vuesaxlinearadd-circle-1RSKJ8 {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/vuesax-linear-add-circle-6@2x.svg);
+  background-size: 100% 100%;
+  height: 18px;
+  left: 36px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 10px;
+  width: 18px;
+}
+
+.account-empty .group-230-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  height: 168px;
+  left: -22px;
+  opacity: 1;
+  position: fixed;
+  top: -91px;
+  width: 402px;
+}
+
+.account-empty .rectangle-59-PdN6Mn {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 84px;
+  left: 17px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 84px;
+  width: 385px;
+}
+
+.account-empty .group-174-PdN6Mn {
+  --z-index: 1;
+  background-color: transparent;
+  height: 168px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 398px;
+}
+
+.account-empty .glassy-card-q4ckQy {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/glassy-card-11@2x.svg);
+  background-size: 100% 100%;
+  height: 176px;
+  left: -4px;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 406px;
+}
+
+.account-empty .group-309-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  height: 26px;
+  left: 243px;
+  opacity: 1;
+  position: fixed;
+  top: 37px;
+  width: 101px;
+}
+
+.account-empty .group-238-gJGBzK {
+  --z-index: 0;
+  background-color: transparent;
+  height: 15px;
+  left: 9px;
+  opacity: 1;
+  position: absolute;
+  top: 6px;
+  width: 15px;
+}
+
+.account-empty .ellipse-33-uBMkqA {
+  --z-index: 0;
+  background-color: #a3d3e3;
+  border-radius: 7.5px;
+  height: 15px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.account-empty .vuesaxlinearprofile-uBMkqA {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vuesax-linear-profile-10@2x.svg);
+  background-size: 100% 100%;
+  height: 11px;
+  left: 1px;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  width: 12px;
+}
+
+.account-empty .rectangle-gJGBzK {
+  --z-index: 1;
+  background-color: transparent;
+  border: 1px solid #c6c6c6;
+  border-radius: 3px;
+  cursor: pointer;
+  height: 26px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 99px;
+}
+
+.account-empty .name-gJGBzK {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 5px;
+  width: 68px;
+}
+
+.account-empty .group-198-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  background-image: url(../img/group-198@1x.png);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 36px;
+  left: 25px;
+  opacity: 1;
+  position: fixed;
+  top: 33px;
+  width: 36px;
+}

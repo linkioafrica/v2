@@ -1,0 +1,451 @@
+/* screen - identity-verification */
+
+.identity-verification {
+  align-items: center;
+  background-color: var(--wild-sand);
+  display: flex;
+  flex-direction: column;
+  height: 812px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.identity-verification .group-230 {
+  align-items: flex-end;
+  display: flex;
+  height: 168px;
+  left: -22px;
+  min-width: 402px;
+  position: fixed;
+  top: -91px;
+  z-index: 15;
+}
+
+.identity-verification .overlap-group5 {
+  height: 176px;
+  margin-bottom: -7px;
+  margin-left: -4px;
+  position: relative;
+  width: 406px;
+}
+
+.identity-verification .rectangle-59 {
+  background-color: var(--white);
+  height: 84px;
+  left: 21px;
+  position: absolute;
+  top: 85px;
+  width: 385px;
+}
+
+.identity-verification .glassy-card {
+  height: 176px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 406px;
+}
+
+.identity-verification .group-308 {
+  align-items: flex-start;
+  display: flex;
+  height: 26px;
+  left: 243px;
+  min-width: 101px;
+  position: fixed;
+  top: 37px;
+  z-index: 16;
+}
+
+.identity-verification .overlap-group6 {
+  border-radius: 3px;
+  height: 26px;
+  position: relative;
+  width: 99px;
+}
+
+.identity-verification .group-238 {
+  align-items: flex-start;
+  background-color: var(--regent-st-blue);
+  border-radius: 7.5px;
+  display: flex;
+  height: 15px;
+  left: 9px;
+  min-width: 15px;
+  padding: 2.0px 1.3px;
+  position: absolute;
+  top: 6px;
+}
+
+.identity-verification .vuesaxlinearprofile {
+  height: 11px;
+  width: 12px;
+}
+
+.identity-verification .rectangle {
+  border-radius: 3px;
+  cursor: pointer;
+  height: 26px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.identity-verification .name {
+  left: 31px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 5px;
+  width: 68px;
+}
+
+.identity-verification .vuesaxlineararrow-left {
+  align-self: flex-start;
+  cursor: pointer;
+  height: 21px;
+  margin-left: 32px;
+  margin-top: 95px;
+  width: 21px;
+  z-index: 11;
+}
+
+.identity-verification .identity-verification-1 {
+  letter-spacing: 0;
+  margin-left: 2.0px;
+  margin-top: 24px;
+  min-height: 34px;
+  width: 309px;
+  z-index: 12;
+}
+
+.identity-verification .flex-row {
+  align-items: center;
+  display: flex;
+  height: 34px;
+  margin-right: 3.0px;
+  margin-top: 2px;
+  min-width: 312px;
+  z-index: 1;
+}
+
+.identity-verification .vuesaxlinearshield-tick {
+  height: 24px;
+  margin-bottom: 4.0px;
+  width: 24px;
+}
+
+.identity-verification .this-information-is {
+  color: var(--sonic-silver);
+  font-family: var(--font-family-circular_std-book);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-left: 6px;
+  min-height: 34px;
+  width: 282px;
+}
+
+.identity-verification .country-of-issue {
+  letter-spacing: 0;
+  margin-right: 56.0px;
+  margin-top: 22px;
+  min-height: 17px;
+  width: 249px;
+  z-index: 5;
+}
+
+.identity-verification .group-444 {
+  align-items: flex-start;
+  display: flex;
+  height: 40px;
+  margin-left: 2.0px;
+  margin-top: 5px;
+  min-width: 309px;
+  z-index: 3;
+}
+
+.identity-verification .overlap-group {
+  align-items: center;
+  background-image: url(../img/vector-121@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 41px;
+  justify-content: flex-end;
+  margin-top: -0.45px;
+  min-width: 307px;
+  padding: 3.0px 2px;
+}
+
+.identity-verification .nigeria {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  letter-spacing: 0;
+  margin-bottom: 0.35px;
+  padding: 0;
+  width: 237px;
+}
+
+.identity-verification .nigeria::placeholder {
+  color: #bdbdbd99;
+}
+
+.identity-verification .vector-container {
+  align-self: flex-end;
+  height: 33px;
+  margin-left: 25px;
+  position: relative;
+  width: 30px;
+}
+
+.identity-verification .vector {
+  cursor: pointer;
+  height: 33px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.identity-verification .vector-1 {
+  height: 7px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+  width: 10px;
+}
+
+.identity-verification .date-of-birth {
+  letter-spacing: 0;
+  margin-right: 56.0px;
+  margin-top: 18px;
+  min-height: 17px;
+  width: 249px;
+  z-index: 6;
+}
+
+.identity-verification .group-container {
+  align-items: flex-start;
+  display: flex;
+  height: 40px;
+  margin-left: 2.0px;
+  margin-top: 5px;
+  min-width: 307px;
+  z-index: 4;
+}
+
+.identity-verification .overlap-group2 {
+  align-items: flex-end;
+  background-image: url(../img/vector-124@2x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  height: 41px;
+  justify-content: flex-end;
+  margin-top: -0.45px;
+  min-width: 250px;
+  padding: 11.4px 1px;
+}
+
+.identity-verification .dd-mm-yyyy {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  letter-spacing: 0;
+  padding: 0;
+  width: 237px;
+}
+
+.identity-verification .dd-mm-yyyy::placeholder {
+  color: #bdbdbd99;
+}
+
+.identity-verification .group-224 {
+  align-items: flex-end;
+  align-self: center;
+  background-color: var(--white);
+  border-radius: 3px;
+  box-shadow: 0px 2px 2px #00000026;
+  display: flex;
+  height: 33px;
+  justify-content: flex-end;
+  margin-bottom: 0.74px;
+  margin-left: 24px;
+  min-width: 33px;
+  padding: 7.7px 7.7px;
+}
+
+.identity-verification .vuesaxlinearcalendar-2 {
+  height: 17px;
+  width: 17px;
+}
+
+.identity-verification .id-type {
+  letter-spacing: 0;
+  margin-right: 56.0px;
+  margin-top: 18px;
+  min-height: 17px;
+  width: 249px;
+  z-index: 7;
+}
+
+.identity-verification .vector-container-1 {
+  background-image: url(../img/vector-118@2x.svg);
+  background-size: 100% 100%;
+  height: 41px;
+  margin-left: 2.0px;
+  margin-top: 5px;
+  position: relative;
+  width: 307px;
+  z-index: 2;
+}
+
+.identity-verification .vector-2 {
+  cursor: pointer;
+  height: 31px;
+  left: 274px;
+  position: absolute;
+  top: 1px;
+  width: 30px;
+}
+
+.identity-verification .vector-3 {
+  height: 7px;
+  left: 284px;
+  position: absolute;
+  top: 15px;
+  width: 10px;
+}
+
+.identity-verification .id-number {
+  letter-spacing: 0;
+  margin-right: 56.0px;
+  margin-top: 17px;
+  min-height: 17px;
+  width: 249px;
+  z-index: 8;
+}
+
+.identity-verification .number {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 5.0px;
+  margin-top: 4px;
+  min-width: 300px;
+  z-index: 13;
+}
+
+.identity-verification .overlap-group4 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 3px;
+  display: flex;
+  height: 40px;
+  min-width: 307px;
+  padding: 11px 13px;
+}
+
+.identity-verification .input {
+  background-color: transparent;
+  border: 0;
+  height: 16px;
+  letter-spacing: 0;
+  padding: 0;
+  width: 269px;
+}
+
+.identity-verification .input::placeholder {
+  color: #bdbdbd99;
+}
+
+.identity-verification .upload-a-good-photo {
+  letter-spacing: 0;
+  margin-left: 1.0px;
+  margin-top: 30px;
+  min-height: 11px;
+  width: 306px;
+  z-index: 9;
+}
+
+.identity-verification .group-container-1 {
+  align-items: flex-end;
+  background-color: var(--wild-sand);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+  min-height: 95px;
+  padding: 10px 64px;
+  width: 307px;
+  z-index: 10;
+}
+
+.identity-verification .group-247 {
+  align-items: center;
+  display: flex;
+  height: 33px;
+  min-width: 174px;
+}
+
+.identity-verification .vuesaxlinearcloud-minus {
+  height: 25px;
+  margin-bottom: 2.0px;
+  width: 25px;
+}
+
+.identity-verification .drag-and-drop-files {
+  letter-spacing: 0;
+  line-height: 12px;
+  margin-left: 12px;
+  min-height: 33px;
+  width: 135px;
+}
+
+.identity-verification .span1 {
+  color: #828b94;
+  font-family: var(--font-family-circular_std-regular);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  line-height: 16px;
+}
+
+.identity-verification .overlap-group3 {
+  align-items: center;
+  align-self: center;
+  background-color: var(--white);
+  border-radius: 3px;
+  box-shadow: 0px 2px 2px #00000026;
+  display: flex;
+  height: 31px;
+  margin-top: 11px;
+  min-width: 139px;
+}
+
+.identity-verification .browse-files {
+  letter-spacing: 0;
+  min-height: 15px;
+  text-align: center;
+  width: 139px;
+}
+
+.identity-verification .submit-button {
+  align-items: center;
+  background-color: var(--chateau-green);
+  border-radius: 3px;
+  cursor: pointer;
+  display: flex;
+  height: 40px;
+  left: 38px;
+  min-width: 300px;
+  padding: 0 15px;
+  position: fixed;
+  top: 717px;
+  z-index: 14;
+}
+
+.identity-verification .title {
+  height: 16px;
+  letter-spacing: 0.11px;
+  text-align: center;
+  width: 269px;
+}

@@ -1,0 +1,295 @@
+/* screen - choose-intl-account */
+
+.choose-intl-account {
+  align-items: center;
+  background-color: var(--wild-sand);
+  display: flex;
+  flex-direction: column;
+  height: 772px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.choose-intl-account .group-230 {
+  align-items: flex-end;
+  display: flex;
+  height: 168px;
+  left: -22px;
+  min-width: 402px;
+  position: fixed;
+  top: -91px;
+  z-index: 8;
+}
+
+.choose-intl-account .overlap-group5 {
+  height: 176px;
+  margin-bottom: -7px;
+  margin-left: -4px;
+  position: relative;
+  width: 406px;
+}
+
+.choose-intl-account .rectangle-59 {
+  background-color: var(--white);
+  height: 84px;
+  left: 21px;
+  position: absolute;
+  top: 85px;
+  width: 385px;
+}
+
+.choose-intl-account .glassy-card {
+  height: 176px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 406px;
+}
+
+.choose-intl-account .group-309 {
+  align-items: flex-start;
+  display: flex;
+  height: 26px;
+  left: 243px;
+  min-width: 101px;
+  position: fixed;
+  top: 37px;
+  z-index: 9;
+}
+
+.choose-intl-account .overlap-group6 {
+  border-radius: 3px;
+  height: 26px;
+  position: relative;
+  width: 99px;
+}
+
+.choose-intl-account .group-238 {
+  align-items: flex-start;
+  background-color: var(--regent-st-blue);
+  border-radius: 7.5px;
+  display: flex;
+  height: 15px;
+  left: 9px;
+  min-width: 15px;
+  padding: 2.0px 1.3px;
+  position: absolute;
+  top: 6px;
+}
+
+.choose-intl-account .vuesaxlinearprofile {
+  height: 11px;
+  width: 12px;
+}
+
+.choose-intl-account .rectangle {
+  border-radius: 3px;
+  cursor: pointer;
+  height: 26px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 99px;
+}
+
+.choose-intl-account .name {
+  left: 31px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 5px;
+  width: 68px;
+}
+
+.choose-intl-account .vuesaxlineararrow-left {
+  cursor: pointer;
+  height: 21px;
+  left: 32px;
+  position: fixed;
+  top: 95px;
+  width: 21px;
+  z-index: 7;
+}
+
+.choose-intl-account .choose-an-international-account {
+  letter-spacing: 0;
+  margin-top: 140px;
+  min-height: 34px;
+  width: 309px;
+  z-index: 1;
+}
+
+.choose-intl-account .group-330 {
+  align-items: center;
+  display: flex;
+  margin-right: 8.0px;
+  margin-top: 78px;
+  min-width: 301px;
+  z-index: 3;
+}
+
+.choose-intl-account .overlap-group1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 3px;
+  display: flex;
+  height: 56px;
+  min-width: 249px;
+  padding: 8px 13px;
+}
+
+.choose-intl-account .mask-group {
+  height: 38px;
+  width: 38px;
+}
+
+.choose-intl-account .ngn-with-an-account-number {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 14px;
+  min-height: 28px;
+  width: 153px;
+}
+
+.choose-intl-account .group-2 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 3px;
+  box-shadow: 0px 2px 2px #00000026;
+  cursor: pointer;
+  display: flex;
+  height: 36px;
+  justify-content: flex-end;
+  margin-left: 14px;
+  min-width: 36px;
+  padding: 7.0px;
+}
+
+.choose-intl-account .vuesaxlinearadd-circle {
+  height: 22px;
+  width: 22px;
+}
+
+.choose-intl-account .group-331 {
+  align-items: center;
+  display: flex;
+  margin-right: 8.0px;
+  margin-top: 15px;
+  min-width: 301px;
+  z-index: 2;
+}
+
+.choose-intl-account .overlap-group {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 3px;
+  display: flex;
+  height: 56px;
+  min-width: 249px;
+  padding: 7px 12.6px;
+}
+
+.choose-intl-account .x1024px-united-states_flag_icon_round-1 {
+  height: 38px;
+  margin-top: 1px;
+  object-fit: cover;
+  width: 40px;
+}
+
+.choose-intl-account .usd-with-an-account {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-left: 12px;
+  min-height: 41px;
+  width: 153px;
+}
+
+.choose-intl-account .group-332 {
+  align-items: center;
+  display: flex;
+  margin-right: 8.0px;
+  margin-top: 15px;
+  min-width: 301px;
+  z-index: 4;
+}
+
+.choose-intl-account .overlap-group2 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 3px;
+  display: flex;
+  height: 56px;
+  min-width: 249px;
+  padding: 6px 12px;
+}
+
+.choose-intl-account .flag-round-250-1 {
+  height: 38px;
+  object-fit: cover;
+  width: 38px;
+}
+
+.choose-intl-account .x-with-a {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-left: 15px;
+  min-height: 41px;
+  width: 153px;
+}
+
+.choose-intl-account .group-333 {
+  align-items: center;
+  display: flex;
+  margin-right: 8.0px;
+  margin-top: 15px;
+  min-width: 301px;
+  z-index: 5;
+}
+
+.choose-intl-account .overlap-group3 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 3px;
+  display: flex;
+  height: 56px;
+  min-width: 249px;
+  padding: 7px 12px;
+}
+
+.choose-intl-account .mask-group-1 {
+  height: 38px;
+  margin-top: 1px;
+  width: 38px;
+}
+
+.choose-intl-account .group-334 {
+  align-items: center;
+  display: flex;
+  margin-right: 8.0px;
+  margin-top: 15px;
+  min-width: 301px;
+  z-index: 6;
+}
+
+.choose-intl-account .overlap-group4 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 3px;
+  display: flex;
+  height: 56px;
+  min-width: 249px;
+  padding: 6px 13px;
+}
+
+.choose-intl-account .mask-group-2 {
+  height: 39px;
+  margin-bottom: 1.0px;
+  width: 38px;
+}
+
+.choose-intl-account .try-with-a-swift-code-and-iban {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-left: 14px;
+  min-height: 41px;
+  width: 153px;
+}

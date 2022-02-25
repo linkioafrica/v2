@@ -1,0 +1,166 @@
+/* screen - id-type */
+
+.id-type {
+  align-items: flex-start;
+  display: flex;
+  height: 812px;
+  min-width: 375px;
+}
+
+#overlay-id-type {
+  background-color: transparent;
+}
+
+.overlay .id-type {
+  background-color: #00000000;
+}
+
+#overlay-id-type .id-type {
+  left: 203px;
+  top: 453.56px;
+}
+
+#overlay-id-type .container-center-horizontal {
+  justify-content: normal;
+}
+
+.id-type .id-type-1 {
+  align-items: flex-end;
+  background-color: var(--white);
+  border-radius: 3px;
+  display: flex;
+  flex-direction: column;
+  min-height: 208px;
+  padding: 13px 0;
+  width: 147px;
+}
+
+.id-type .flex-row-1 {
+  align-items: center;
+  display: flex;
+  min-width: 135px;
+}
+
+.id-type .group-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  min-width: 24px;
+}
+
+.id-type .overlap-group {
+  align-items: flex-start;
+  background-image: url();
+  background-size: 100% 100%;
+  display: flex;
+  min-width: 1px;
+}
+
+.id-type .vuesaxlinearkeyboard {
+  height: 1px;
+  width: 1px;
+}
+
+.id-type .bvn {
+  letter-spacing: 0;
+  margin-left: 12px;
+  margin-top: 4.0px;
+  min-height: 16px;
+  width: 99px;
+}
+
+.id-type .rectangle-1 {
+  background-color: var(--wild-sand);
+  height: 2px;
+  margin-top: 12px;
+  width: 147px;
+}
+
+.id-type .flex-row {
+  align-items: center;
+  display: flex;
+  margin-top: 13px;
+  min-width: 135px;
+}
+
+.id-type .vuesaxlineardocument {
+  height: 1px;
+  width: 1px;
+}
+
+.id-type .nin {
+  letter-spacing: 0;
+  margin-left: 12px;
+  margin-top: 2.0px;
+  min-height: 16px;
+  width: 99px;
+}
+
+.id-type .rectangle {
+  background-color: var(--wild-sand);
+  height: 2px;
+  margin-top: 13px;
+  width: 147px;
+}
+
+.id-type .component-3 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 24px;
+}
+
+.id-type .overlap-group-1 {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.id-type .group-240 {
+  align-items: flex-start;
+  display: flex;
+  height: 24px;
+  left: 0;
+  min-width: 24px;
+  position: absolute;
+  top: 0;
+}
+
+.id-type .ellipse-27 {
+  height: 1px;
+  width: 1px;
+}
+
+.id-type .vuesaxlinearmessage-text {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.id-type .nin-slip {
+  letter-spacing: 0;
+  margin-left: 12px;
+  margin-top: 2.0px;
+  min-height: 16px;
+  width: 99px;
+}
+
+.id-type .flex-row-2 {
+  align-items: center;
+  display: flex;
+  margin-top: 14px;
+  min-width: 135px;
+}
+
+.id-type .vuesaxlinearpersonalcard {
+  height: 1px;
+  width: 1px;
+}
+
+.id-type .drivers-license {
+  letter-spacing: 0;
+  margin-left: 12px;
+  min-height: 16px;
+  width: 99px;
+}

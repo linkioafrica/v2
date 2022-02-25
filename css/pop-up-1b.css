@@ -1,0 +1,178 @@
+/* screen - pop-up-1b */
+
+.pop-up-1b {
+  align-items: flex-start;
+  display: flex;
+  height: 235px;
+  overflow: hidden;
+  width: 147px;
+}
+
+.pop-up-1b .overlap-group {
+  height: 423px;
+  margin-top: -188px;
+  position: relative;
+  width: 148px;
+}
+
+.pop-up-1b .rectangle-50 {
+  background-color: var(--white);
+  border-radius: 3px;
+  height: 423px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 147px;
+}
+
+.pop-up-1b .vector-81 {
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 45px;
+  width: 147px;
+}
+
+.pop-up-1b .vector-82 {
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 92px;
+  width: 147px;
+}
+
+.pop-up-1b .vector-83 {
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 139px;
+  width: 147px;
+}
+
+.pop-up-1b .vector-84 {
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 186px;
+  width: 147px;
+}
+
+.pop-up-1b .vector-86 {
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 233px;
+  width: 147px;
+}
+
+.pop-up-1b .vector-88 {
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 280px;
+  width: 147px;
+}
+
+.pop-up-1b .vector-90 {
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 327px;
+  width: 147px;
+}
+
+.pop-up-1b .vector-91 {
+  height: 4px;
+  left: 0;
+  position: absolute;
+  top: 374px;
+  width: 147px;
+}
+
+.pop-up-1b .logo-1 {
+  height: 20px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 15px;
+  width: 70px;
+}
+
+.pop-up-1b .first-city-monument-bank-ltd-logo-1 {
+  height: 32px;
+  left: 58px;
+  position: absolute;
+  top: 54px;
+  width: 32px;
+}
+
+.pop-up-1b .x612387fde9da056a82e00f4f_sendcash-1 {
+  height: 26px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 105px;
+  width: 96px;
+}
+
+.pop-up-1b .x612387fde9da0505bfe0 {
+  height: 19px;
+  left: 39px;
+  object-fit: cover;
+  position: absolute;
+  top: 154px;
+  width: 70px;
+}
+
+.pop-up-1b .local-peer-to-peer {
+  left: 0;
+  letter-spacing: 0;
+  position: absolute;
+  text-align: center;
+  top: 206px;
+  width: 148px;
+}
+
+.pop-up-1b .vector {
+  height: 16px;
+  left: 21px;
+  position: absolute;
+  top: 344px;
+  width: 105px;
+}
+
+.pop-up-1b .x612387fde9da0586bee0 {
+  height: 18px;
+  left: 32px;
+  object-fit: cover;
+  position: absolute;
+  top: 248px;
+  width: 84px;
+}
+
+.pop-up-1b .x612387fde9da050ff0e00f95_-afriex-1 {
+  height: 34px;
+  left: 28px;
+  object-fit: cover;
+  position: absolute;
+  top: 294px;
+  width: 92px;
+}
+
+.pop-up-1b .rectangle-1382 {
+  background-color: var(--mist-gray);
+  border-radius: 3px;
+  height: 157px;
+  left: 145px;
+  position: absolute;
+  top: 260px;
+  width: 2px;
+}
+
+.pop-up-1b .component-6 {
+  height: 24px;
+  left: 30px;
+  position: absolute;
+  top: 388px;
+  width: 87px;
+}

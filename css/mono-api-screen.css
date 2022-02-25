@@ -1,0 +1,98 @@
+/* screen - mono-api-screen */
+
+.mono-api-screen {
+  align-items: center;
+  background-image: url(../img/mono-api-screen-@1x.svg);
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  height: 772px;
+  overflow: hidden;
+  width: 370px;
+}
+
+.mono-api-screen .group-283 {
+  align-items: flex-start;
+  align-self: flex-start;
+  background-color: var(--white);
+  border-radius: 53px;
+  display: flex;
+  height: 106px;
+  margin-left: -19px;
+  margin-top: -17px;
+  min-width: 106px;
+  padding: 26.8px 26.9px;
+}
+
+.mono-api-screen .vector {
+  height: 52px;
+  width: 52px;
+}
+
+.mono-api-screen .initiate-a-direct-de {
+  color: var(--white);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-xxxl);
+  font-weight: 500;
+  letter-spacing: 0;
+  margin-left: 1.0px;
+  margin-top: 50px;
+  min-height: 48px;
+  width: 253px;
+}
+
+.mono-api-screen .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 68px;
+  margin-left: 2.0px;
+  margin-top: 49px;
+  min-width: 278px;
+}
+
+.mono-api-screen .vuesaxlinear {
+  height: 24px;
+  width: 24px;
+}
+
+.mono-api-screen .x-your {
+  letter-spacing: 0;
+  margin-left: 21px;
+  min-height: 68px;
+  width: 233px;
+}
+
+.mono-api-screen .by-clicking-the-butt {
+  letter-spacing: 0;
+  margin-left: 1.0px;
+  margin-top: 53px;
+  min-height: 24px;
+  text-align: center;
+  width: 317px;
+}
+
+.mono-api-screen .span1 {
+  text-decoration: underline;
+}
+
+.mono-api-screen .submit-button {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 10px;
+  display: flex;
+  height: 44px;
+  margin-left: 1.0px;
+  min-width: 291px;
+  padding: 0 15px;
+}
+
+.mono-api-screen .title {
+  color: var(--black);
+  font-family: var(--font-family-dm_sans);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 16px;
+  letter-spacing: 0.11px;
+  text-align: center;
+  width: 260px;
+}

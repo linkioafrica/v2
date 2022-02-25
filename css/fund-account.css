@@ -1,0 +1,133 @@
+/* screen - fund-account */
+
+.fund-account {
+  align-items: flex-start;
+  background-color: var(--black-4);
+  display: flex;
+  height: 910px;
+  min-width: 375px;
+}
+
+#overlay-fund-account {
+  background-color: var(--black-4);
+}
+
+.overlay .fund-account {
+  background-color: #00000000;
+}
+
+.fund-account .fund-account-1 {
+  align-items: flex-end;
+  background-color: var(--wild-sand);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  left: calc(50vw - 185.0px);
+  min-height: 310px;
+  padding: 12.2px 30px;
+  position: relative;
+  top: calc(100vh - 310px);
+  width: 370px;
+}
+
+.fund-account .vuesaxlineararrow-left {
+  align-self: flex-start;
+  cursor: pointer;
+  height: 1px;
+  margin-left: 2px;
+  width: 1px;
+}
+
+.fund-account .fund-account-2 {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 1.0px;
+  margin-top: 38px;
+  min-height: 40px;
+  width: 305px;
+}
+
+.fund-account .group-262 {
+  align-items: center;
+  display: flex;
+  height: 81px;
+  margin-top: 12px;
+  min-width: 307px;
+}
+
+.fund-account .overlap-group1 {
+  align-items: flex-start;
+  align-self: flex-start;
+  background-image: url();
+  background-size: 100% 100%;
+  display: flex;
+  min-width: 1px;
+}
+
+.fund-account .expand_down {
+  height: 1px;
+  width: 1px;
+}
+
+.fund-account .group-211 {
+  align-items: flex-start;
+  background-color: var(--link-water);
+  border-radius: 16px;
+  display: flex;
+  height: 32px;
+  margin-left: 14px;
+  margin-top: 1.92px;
+  min-width: 32px;
+}
+
+.fund-account .vuesaxoutlinebank {
+  height: 1px;
+  width: 1px;
+}
+
+.fund-account .direct-debit-bank-t {
+  letter-spacing: 0;
+  margin-left: 16px;
+  margin-top: 1.92px;
+  min-height: 32px;
+  width: 210px;
+}
+
+.fund-account .group-260 {
+  align-items: flex-start;
+  display: flex;
+  height: 81px;
+  margin-top: 14px;
+  min-width: 307px;
+}
+
+.fund-account .overlap-group {
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.fund-account .overlap-group-item {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1px;
+}
+
+.fund-account .group-145 {
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}
+
+.fund-account .debit-card-fund-from {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 31px;
+  margin-top: 2.53px;
+  min-height: 32px;
+  width: 210px;
+}

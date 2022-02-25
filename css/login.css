@@ -1,0 +1,1685 @@
+/* screen - sign-up */
+
+.sign-up {
+  background-color: #f3f4f6;
+  height: 920px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.sign-up .hey-there-lets-get-to-know-you-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Bold', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 132px;
+  width: 309px;
+}
+
+.sign-up .span0-ey61d7 {
+  font-style: normal;
+}
+
+.sign-up .span1-ey61d7 {
+  font-size: 18px;
+  font-style: normal;
+}
+
+.sign-up .your-full-name-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: #696f79;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 212px;
+  width: 249px;
+}
+
+.sign-up .group-268-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 94px;
+  opacity: 1;
+  position: absolute;
+  top: 746px;
+  width: 190px;
+}
+
+.sign-up .login-ESsBue {
+  --z-index: 0;
+  background-color: transparent;
+  color: #1565d8;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 152px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 34px;
+}
+
+.sign-up .already-have-an-account-ESsBue {
+  --z-index: 1;
+  background-color: transparent;
+  color: #616161;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 0px;
+  width: 144px;
+}
+
+.sign-up .email-address-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #696f79;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 304px;
+  width: 249px;
+}
+
+.sign-up .account-currency-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #696f79;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 396px;
+  width: 249px;
+}
+
+.sign-up .create-link-tag-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: #696f79;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 488px;
+  width: 249px;
+}
+
+.sign-up .create-password-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  color: #696f79;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 580px;
+  width: 249px;
+}
+
+.sign-up .group-274-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  height: 43px;
+  left: 34px;
+  opacity: 1;
+  position: absolute;
+  top: 417px;
+  width: 308px;
+}
+
+.sign-up .vector-fYVHxY {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/vector-4@2x.svg);
+  background-size: 100% 100%;
+  height: 43px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 306px;
+}
+
+.sign-up .vector-VAi37G {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vector-5@2x.svg);
+  background-size: 100% 100%;
+  cursor: pointer;
+  height: 33px;
+  left: 254px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 5px;
+  width: 45px;
+}
+
+.sign-up .expand_down-fYVHxY {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/expand-down@2x.svg);
+  background-size: 100% 100%;
+  height: 24px;
+  left: 264px;
+  opacity: 1;
+  position: absolute;
+  top: 10px;
+  width: 24px;
+}
+
+.sign-up .price-fYVHxY {
+  --z-index: 3;
+  background-color: transparent;
+  color: #bdbdbd;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 13px;
+  width: 237px;
+}
+
+.sign-up .group-270-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  height: 40px;
+  left: 35px;
+  opacity: 1;
+  position: absolute;
+  top: 811px;
+  width: 308px;
+}
+
+.sign-up .rectangle-59-LUSS9a {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  box-shadow: 0px 1px 2px #00000026;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 306px;
+}
+
+.sign-up .group-269-LUSS9a {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/group-269@2x.svg);
+  background-size: 100% 100%;
+  height: 15px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 13px;
+  width: 15px;
+}
+
+.sign-up .continue-with-google-LUSS9a {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 219px;
+}
+
+.sign-up .group-269-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  height: 15px;
+  left: 35px;
+  opacity: 1;
+  position: absolute;
+  top: 780px;
+  width: 308px;
+}
+
+.sign-up .line-10-d4Vurr {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/line-10@2x.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  width: 126px;
+}
+
+.sign-up .or-d4Vurr {
+  --z-index: 1;
+  background-color: transparent;
+  color: #c4c4c4;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 141px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: auto;
+}
+
+.sign-up .line-11-d4Vurr {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/line-11@2x.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 170px;
+  opacity: 1;
+  position: absolute;
+  top: 7px;
+  width: 136px;
+}
+
+.sign-up .group-246-C61RwL {
+  --z-index: 10;
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  left: 35px;
+  opacity: 1;
+  position: absolute;
+  top: 107px;
+  width: 93px;
+}
+
+.sign-up .go-back-10IcvK {
+  --z-index: 0;
+  background-color: transparent;
+  color: #1565d8;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 70px;
+}
+
+.sign-up .vuesaxlineararrow-left-10IcvK {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vuesax-linear-arrow-left@2x.svg);
+  background-size: 100% 100%;
+  height: 15px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.sign-up .email-C61RwL {
+  --z-index: 11;
+  background-color: transparent;
+  height: 50px;
+  left: 34px;
+  opacity: 1;
+  position: absolute;
+  top: 325px;
+  width: 300px;
+}
+
+.sign-up .border-AJcDBt {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  height: 43px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 307px;
+}
+
+.sign-up .email-AJcDBt {
+  --z-index: 1;
+  background-color: transparent;
+  border: 0;
+  color: #bdbdbd;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  height: 16px;
+  left: 15px;
+  letter-spacing: 0.11px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 13px;
+  width: 269px;
+}
+
+.sign-up .email-AJcDBt::placeholder {
+  color: #bdbdbd99;
+}
+
+.sign-up .short-text-C61RwL {
+  --z-index: 12;
+  background-color: transparent;
+  height: 43px;
+  left: 34px;
+  opacity: 1;
+  position: absolute;
+  top: 509px;
+  width: 307px;
+}
+
+.sign-up .border-IchWWM {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  height: 43px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 307px;
+}
+
+.sign-up .input-IchWWM {
+  --z-index: 1;
+  background-color: transparent;
+  border: 0;
+  color: #bdbdbd;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  height: 16px;
+  left: 12px;
+  letter-spacing: 0.11px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 13px;
+  width: 276px;
+}
+
+.sign-up .input-IchWWM::placeholder {
+  color: #bdbdbd99;
+}
+
+.sign-up .short-text-VMr6Om {
+  --z-index: 13;
+  background-color: transparent;
+  height: 43px;
+  left: 34px;
+  opacity: 1;
+  position: absolute;
+  top: 233px;
+  width: 307px;
+}
+
+.sign-up .border-FLEkGe {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  height: 43px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 307px;
+}
+
+.sign-up .input-FLEkGe {
+  --z-index: 1;
+  background-color: transparent;
+  border: 0;
+  color: #bdbdbd;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  height: 16px;
+  left: 12px;
+  letter-spacing: 0.11px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 13px;
+  width: 276px;
+}
+
+.sign-up .input-FLEkGe::placeholder {
+  color: #bdbdbd99;
+}
+
+.sign-up .submit-button-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  cursor: pointer;
+  height: 40px;
+  left: 37px;
+  opacity: 1;
+  position: absolute;
+  top: 690px;
+  width: 300px;
+}
+
+.sign-up .border-1RSKJ8 {
+  --z-index: 0;
+  background-color: #30ae4d;
+  border-radius: 3px;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 300px;
+}
+
+.sign-up .title-1RSKJ8 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: 16px;
+  left: 15px;
+  letter-spacing: 0.11px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 269px;
+}
+
+.sign-up .email-VMr6Om {
+  --z-index: 15;
+  background-color: transparent;
+  height: 43px;
+  left: 34px;
+  opacity: 1;
+  position: fixed;
+  top: 325px;
+  width: 307px;
+}
+
+.sign-up .border-XkUSGf {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  height: 43px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 307px;
+}
+
+.sign-up .email-XkUSGf {
+  --z-index: 1;
+  background-color: transparent;
+  border: 0;
+  color: #bdbdbd;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  height: 16px;
+  left: 15px;
+  letter-spacing: 0.11px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 13px;
+  width: 276px;
+}
+
+.sign-up .email-XkUSGf::placeholder {
+  color: #bdbdbd99;
+}
+
+.sign-up .group-448-C61RwL {
+  --z-index: 16;
+  background-color: transparent;
+  height: 641px;
+  left: 33px;
+  opacity: 1;
+  position: fixed;
+  top: 16px;
+  width: 309px;
+}
+
+.sign-up .password-i16eTY {
+  --z-index: 0;
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 597px;
+  width: 307px;
+}
+
+.sign-up .border-2GwAVC {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  height: 44px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 307px;
+}
+
+.sign-up .input-2GwAVC {
+  --z-index: 1;
+  background-color: transparent;
+  border: 0;
+  color: #bdbdbd;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  height: 16px;
+  left: 15px;
+  letter-spacing: 0.11px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 14px;
+  width: 233px;
+}
+
+.sign-up .input-2GwAVC::placeholder {
+  color: #bdbdbd99;
+}
+
+.sign-up .show-i16eTY {
+  --z-index: 1;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 9px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 222px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 0px;
+  width: 37px;
+}
+
+.sign-up .group-230-C61RwL {
+  --z-index: 17;
+  background-color: transparent;
+  height: 168px;
+  left: -22px;
+  opacity: 1;
+  position: fixed;
+  top: -111px;
+  width: 402px;
+}
+
+.sign-up .rectangle-59-PdN6Mn {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 84px;
+  left: 17px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 84px;
+  width: 385px;
+}
+
+.sign-up .group-174-PdN6Mn {
+  --z-index: 1;
+  background-color: transparent;
+  height: 168px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 398px;
+}
+
+.sign-up .glassy-card-q4ckQy {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/glassy-card-1@2x.svg);
+  background-size: 100% 100%;
+  height: 176px;
+  left: -4px;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 406px;
+}
+
+.sign-up .link-logo-C61RwL {
+  --z-index: 18;
+  background-color: transparent;
+  background-image: url(../img/link-logo-1@2x.svg);
+  background-size: 100% 100%;
+  height: 16px;
+  left: 33px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  top: 22px;
+  width: 43px;
+}
+/* screen - login */
+
+.login {
+  background-color: #f3f4f6;
+  height: 770px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.login .welcome-back-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Bold', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 132px;
+  width: 309px;
+}
+
+.login .email-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: #4a5568;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 212px;
+  width: 249px;
+}
+
+.login .group-268-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  height: 17px;
+  left: 90px;
+  opacity: 1;
+  position: absolute;
+  top: 489px;
+  width: 198px;
+}
+
+.login .join-for-free-today-ESsBue {
+  --z-index: 0;
+  background-color: transparent;
+  color: #1565d8;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 84px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 110px;
+}
+
+.login .new-here-ESsBue {
+  --z-index: 1;
+  background-color: transparent;
+  color: #616161;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 0px;
+  width: 76px;
+}
+
+.login .forgot-password-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  color: #1565d8;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 182px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 384px;
+  width: 159px;
+}
+
+.login .remember-me-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  color: #888888;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 54px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 384px;
+  width: 128px;
+}
+
+.login .password-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  color: #4a5568;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 304px;
+  width: 249px;
+}
+
+.login .group-273-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  height: 43px;
+  left: 35px;
+  opacity: 1;
+  position: absolute;
+  top: 325px;
+  width: 308px;
+}
+
+.login .vector-EsSb0s {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/vector-4@2x.svg);
+  background-size: 100% 100%;
+  height: 43px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 306px;
+}
+
+.login .enter-your-password-EsSb0s {
+  --z-index: 1;
+  background-color: transparent;
+  border: 0;
+  color: #8692a680;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  height: 17px;
+  left: 12px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 13px;
+  width: 237px;
+}
+
+.login .enter-your-password-EsSb0s::placeholder {
+  color: #8692a64c;
+}
+
+.login .group-270-C61RwL {
+  --z-index: 7;
+  background-color: transparent;
+  height: 40px;
+  left: 35px;
+  opacity: 1;
+  position: absolute;
+  top: 554px;
+  width: 308px;
+}
+
+.login .rectangle-59-LUSS9a {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  box-shadow: 0px 1px 2px #00000026;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 306px;
+}
+
+.login .group-269-LUSS9a {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/group-269-1@2x.svg);
+  background-size: 100% 100%;
+  height: 15px;
+  left: 33px;
+  opacity: 1;
+  position: absolute;
+  top: 13px;
+  width: 15px;
+}
+
+.login .continue-with-google-LUSS9a {
+  --z-index: 2;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 43px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  width: 219px;
+}
+
+.login .group-269-C61RwL {
+  --z-index: 8;
+  background-color: transparent;
+  height: 15px;
+  left: 35px;
+  opacity: 1;
+  position: absolute;
+  top: 523px;
+  width: 308px;
+}
+
+.login .line-10-d4Vurr {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/line-10@2x.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 8px;
+  width: 126px;
+}
+
+.login .or-d4Vurr {
+  --z-index: 1;
+  background-color: transparent;
+  color: #c4c4c4;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 141px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  width: auto;
+}
+
+.login .line-11-d4Vurr {
+  --z-index: 2;
+  background-color: transparent;
+  background-image: url(../img/line-11@2x.svg);
+  background-size: 100% 100%;
+  height: 1px;
+  left: 170px;
+  opacity: 1;
+  position: absolute;
+  top: 7px;
+  width: 136px;
+}
+
+.login .group-246-C61RwL {
+  --z-index: 9;
+  background-color: transparent;
+  cursor: pointer;
+  height: 15px;
+  left: 35px;
+  opacity: 1;
+  position: absolute;
+  top: 107px;
+  width: 82px;
+}
+
+.login .go-back-10IcvK {
+  --z-index: 0;
+  background-color: transparent;
+  color: #1565d8;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 59px;
+}
+
+.login .vuesaxlineararrow-left-10IcvK {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/vuesax-linear-arrow-left@2x.svg);
+  background-size: 100% 100%;
+  height: 15px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 15px;
+}
+
+.login .ellipse-37-C61RwL {
+  --z-index: 10;
+  background-color: #a3d3e3;
+  border-radius: 6px;
+  height: 12px;
+  left: 35px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 385px;
+  width: 12px;
+}
+
+.login .email-VMr6Om {
+  --z-index: 11;
+  background-color: transparent;
+  height: 50px;
+  left: 35px;
+  opacity: 1;
+  position: absolute;
+  top: 233px;
+  width: 300px;
+}
+
+.login .border-XkUSGf {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  height: 43px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 307px;
+}
+
+.login .email-XkUSGf {
+  --z-index: 1;
+  background-color: transparent;
+  border: 0;
+  color: #bdbdbd;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  height: 16px;
+  left: 15px;
+  letter-spacing: 0.11px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 13px;
+  width: 269px;
+}
+
+.login .email-XkUSGf::placeholder {
+  color: #bdbdbd99;
+}
+
+.login .password-VMr6Om {
+  --z-index: 12;
+  background-color: transparent;
+  height: 50px;
+  left: 35px;
+  opacity: 1;
+  position: absolute;
+  top: 325px;
+  width: 300px;
+}
+
+.login .border-vxSW0R {
+  --z-index: 0;
+  background-color: #ffffff;
+  border-radius: 3px;
+  height: 43px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 307px;
+}
+
+.login .input-vxSW0R {
+  --z-index: 1;
+  background-color: transparent;
+  border: 0;
+  color: #bdbdbd;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  height: 16px;
+  left: 13px;
+  letter-spacing: 0.11px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 13px;
+  width: 269px;
+}
+
+.login .input-vxSW0R::placeholder {
+  color: #bdbdbd99;
+}
+
+.login .submit-button-C61RwL {
+  --z-index: 13;
+  background-color: transparent;
+  cursor: pointer;
+  height: 40px;
+  left: 37px;
+  opacity: 1;
+  position: fixed;
+  top: 433px;
+  width: 300px;
+}
+
+.login .border-1RSKJ8 {
+  --z-index: 0;
+  background-color: #30ae4d;
+  border-radius: 3px;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 300px;
+}
+
+.login .title-1RSKJ8 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: 16px;
+  left: 15px;
+  letter-spacing: 0.11px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 269px;
+}
+
+.login .group-230-C61RwL {
+  --z-index: 14;
+  background-color: transparent;
+  height: 168px;
+  left: -22px;
+  opacity: 1;
+  position: fixed;
+  top: -111px;
+  width: 402px;
+}
+
+.login .rectangle-59-PdN6Mn {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 84px;
+  left: 17px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 84px;
+  width: 385px;
+}
+
+.login .group-174-PdN6Mn {
+  --z-index: 1;
+  background-color: transparent;
+  height: 168px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 398px;
+}
+
+.login .glassy-card-q4ckQy {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/glassy-card-33@2x.svg);
+  background-size: 100% 100%;
+  height: 176px;
+  left: -4px;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 406px;
+}
+
+.login .link-logo-C61RwL {
+  --z-index: 15;
+  background-color: transparent;
+  background-image: url(../img/link-logo-10@2x.svg);
+  background-size: 100% 100%;
+  height: 16px;
+  left: 33px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  top: 22px;
+  width: 43px;
+}
+/* screen - email-verification */
+
+.email-verification {
+  background-color: #f3f4f6;
+  height: 770px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 375px;
+}
+
+.email-verification .verify-your-email-C61RwL {
+  --z-index: 0;
+  background-color: transparent;
+  color: #000000;
+  font-family: 'Circular Std-Bold', Helvetica;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  height: auto;
+  left: 33px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 132px;
+  width: 309px;
+}
+
+.email-verification .check-your-email-ope-C61RwL {
+  --z-index: 1;
+  background-color: transparent;
+  color: transparent;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 500;
+  height: auto;
+  left: 34px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 413px;
+  width: 306px;
+}
+
+.email-verification .span0-5n3aiz {
+  color: #000000;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.email-verification .span1-5n3aiz {
+  color: #4a5568;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.email-verification .span2-5n3aiz {
+  color: #a4a5a6;
+  font-family: 'Circular Std-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.email-verification .group-268-C61RwL {
+  --z-index: 2;
+  background-color: transparent;
+  cursor: pointer;
+  height: 17px;
+  left: 84px;
+  opacity: 1;
+  position: absolute;
+  top: 626px;
+  width: 202px;
+}
+
+.email-verification .login-ESsBue {
+  --z-index: 0;
+  background-color: transparent;
+  color: #1565d8;
+  cursor: pointer;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 161px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 37px;
+}
+
+.email-verification .already-have-an-account-ESsBue {
+  --z-index: 1;
+  background-color: transparent;
+  color: #616161;
+  font-family: 'Circular Std-Book', Helvetica;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: right;
+  top: 0px;
+  width: 153px;
+}
+
+.email-verification .group-277-C61RwL {
+  --z-index: 3;
+  background-color: transparent;
+  height: 174px;
+  left: 99px;
+  opacity: 1;
+  position: absolute;
+  top: 210px;
+  width: 176px;
+}
+
+.email-verification .ellipse-34-I5MPfv {
+  --z-index: 0;
+  background-color: #a3d3e3;
+  border-radius: 87px;
+  height: 174px;
+  left: 1px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 174px;
+}
+
+.email-verification .mail-verify-01-1-I5MPfv {
+  --z-index: 1;
+  background-color: transparent;
+  background-image: url(../img/mail-verify-01-1@2x.svg);
+  background-size: 100% 100%;
+  height: 173px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 1px;
+  width: 176px;
+}
+
+.email-verification .submit-button-C61RwL {
+  --z-index: 4;
+  background-color: transparent;
+  cursor: pointer;
+  height: 40px;
+  left: 37px;
+  opacity: 1;
+  position: fixed;
+  top: 569px;
+  width: 300px;
+}
+
+.email-verification .border-1RSKJ8 {
+  --z-index: 0;
+  background-color: #30ae4d;
+  border-radius: 3px;
+  height: 40px;
+  left: 0px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 300px;
+}
+
+.email-verification .title-1RSKJ8 {
+  --z-index: 1;
+  background-color: transparent;
+  color: #ffffff;
+  font-family: 'Circular Std-Medium', Helvetica;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  height: 16px;
+  left: 15px;
+  letter-spacing: 0.11px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  width: 269px;
+}
+
+.email-verification .group-230-C61RwL {
+  --z-index: 5;
+  background-color: transparent;
+  height: 168px;
+  left: -22px;
+  opacity: 1;
+  position: fixed;
+  top: -111px;
+  width: 402px;
+}
+
+.email-verification .rectangle-59-PdN6Mn {
+  --z-index: 0;
+  background-color: #ffffff;
+  height: 84px;
+  left: 17px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: absolute;
+  top: 84px;
+  width: 385px;
+}
+
+.email-verification .group-174-PdN6Mn {
+  --z-index: 1;
+  background-color: transparent;
+  height: 168px;
+  left: 0px;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  width: 398px;
+}
+
+.email-verification .glassy-card-q4ckQy {
+  --z-index: 0;
+  background-color: transparent;
+  background-image: url(../img/glassy-card-2@2x.svg);
+  background-size: 100% 100%;
+  height: 176px;
+  left: -4px;
+  opacity: 1;
+  position: absolute;
+  top: -1px;
+  width: 406px;
+}
+
+.email-verification .link-logo-C61RwL {
+  --z-index: 6;
+  background-color: transparent;
+  background-image: url(../img/link-logo-1@2x.svg);
+  background-size: 100% 100%;
+  height: 16px;
+  left: 33px;
+  mix-blend-mode: normal;
+  opacity: 1;
+  position: fixed;
+  top: 22px;
+  width: 43px;
+}
